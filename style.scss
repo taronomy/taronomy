@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html {
+  color-scheme: light dark;
+}
+
+* {
+  color: unset;
+  background: unset;
+}
