@@ -1,8 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
-* {
-  color: red !important;
+/* your custom rules here */
+body {
+  background: #fafafa;
 }
