@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Society of One</title>
+
+    <style>
+      body {
+        background: aliceblue;
+      }
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked"></script>
+    <script>
+      render("/README.md")
+
+      async function render(file) {
+        const response = await fetch(file)
+        const markdown = await response.text()
+        const html = marked.parse(markdown)
+        document.body.innerHTML = html
+      }
+    </script>
+  </head>
+  <body>
+    <p>Loading &hellip;</p>
+  </body>
+</html>
