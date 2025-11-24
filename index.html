@@ -60,6 +60,7 @@
 
       async function render(file) {
         const response = await fetch(file)
+        if (!response.ok) return
         const markdown = await response.text()
         const html = marked.parse(markdown)
         document.body.innerHTML = html
@@ -68,5 +69,8 @@
   </head>
   <body>
     <p>Loading &hellip;</p>
+    <p>
+      <a href="/README.md">Read now</a>
+    </p>
   </body>
 </html>
