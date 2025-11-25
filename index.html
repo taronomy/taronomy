@@ -69,7 +69,6 @@
 
       async function render(file) {
         const response = await fetch(file)
-        if (!response.ok) return
         const markdown = await response.text()
         const html = marked.parse(markdown)
         document.body.innerHTML = html
