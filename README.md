@@ -4,16 +4,18 @@
 
 > [`taronomy@gmail.com`](mailto:taronomy@gmail.com)
 
-[Google](https://www.google.com)
-
+<!-- The history. -->
 ## Social Systems
 
 - History of humanity is building social systems and individuals are weakened to foster social cohesion.
 
+<!-- The change.-->
 ## Post-AI Society
 
+<!-- The project. -->
 ## Sociogenesis
 
+<!-- The call.-->
 ## Society of One
 
 > [`taronomy@gmail.com`](mailto:taronomy@gmail.com)
