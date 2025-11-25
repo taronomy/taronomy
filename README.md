@@ -4,6 +4,8 @@
 
 > [`taronomy@gmail.com`](mailto:taronomy@gmail.com)
 
+[Google](https://www.google.com)
+
 ## Social Systems
 
 - History of humanity is building social systems and individuals are weakened to foster social cohesion.

@@ -13,50 +13,59 @@
       rel="stylesheet"
     />
     <style>
+      :root {
+        --sans: Instrument Sans;
+        --serif: Instrument Serif;
+        --mono: Courier Prime;
+      }
+
       html {
-        color-scheme: light dark;
-        font: medium Instrument Sans;
+        font: medium var(--sans);
         hyphens: auto;
+        color-scheme: light dark;
       }
 
       body {
         margin: auto;
-        padding-inline: 0.5rem;
+        padding-inline: 1rch;
         padding-block-end: 50vh;
         max-width: 64ch;
       }
 
       h1 {
-        font: italic xxx-large Instrument Serif;
+        font: italic xxx-large var(--serif);
         text-align: center;
       }
 
       h2 {
-        font: xx-large Instrument Serif;
+        font: xx-large var(--serif);
         text-align: center;
       }
 
       h3 {
-        font: condensed x-large Instrument Sans;
-        font-feature-settings: normal;
+        font: condensed x-large var(--sans);
         text-transform: uppercase;
         text-align: center;
       }
 
       p {
-        font: large Instrument Sans;
+        font: large var(--sans);
       }
 
       pre,
       code {
-        font: medium Courier Prime;
+        font: medium var(--mono);
+      }
+
+      a {
+        text-decoration-thickness: from-font;
       }
     </style>
 
     <script type="module">
       import { marked } from "https://unpkg.com/marked"
 
-      render("/README.md")
+      render(location + "/README.md")
 
       async function render(file) {
         const response = await fetch(file)
@@ -69,8 +78,5 @@
   </head>
   <body>
     <p>Loading &hellip;</p>
-    <p>
-      <a href="/README.md">Read now</a>
-    </p>
   </body>
 </html>
