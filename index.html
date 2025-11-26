@@ -21,7 +21,6 @@
 
       html {
         font: medium var(--sans);
-        hyphens: auto;
         color-scheme: light dark;
       }
 
@@ -50,6 +49,7 @@
 
       p {
         font: large var(--sans);
+        hyphens: auto;
       }
 
       pre,
@@ -65,7 +65,7 @@
     <script type="module">
       import { marked } from "https://unpkg.com/marked"
 
-      render(location + "/README.md")
+      render("README.md")
 
       async function render(file) {
         const response = await fetch(file)
