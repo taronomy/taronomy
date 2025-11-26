@@ -83,16 +83,14 @@
     </style>
 
     <script type="module">
+      import { smartquotes } from "https://unpkg.com/smartypants"
       import { marked } from "https://unpkg.com/marked"
 
-      render("README.md")
+      const response = await fetch("README.md")
+      const markdown = await response.text()
+      const html = marked.parse(smartquotes(markdown))
 
-      async function render(file) {
-        const response = await fetch(file)
-        const markdown = await response.text()
-        const html = marked.parse(markdown)
-        document.querySelector("main").innerHTML = html
-      }
+      document.querySelector("main").innerHTML = html
     </script>
   </head>
   <body>
