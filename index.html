@@ -9,9 +9,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wdth,wght@0,75..100,400..700;1,75..100,400..700&family=Instrument+Serif:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700"
       rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wdth,wght@0,75..100,400..700;1,75..100,400..700&family=Instrument+Serif:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700"
     />
+
     <style>
       :root {
         --sans: Instrument Sans;
@@ -26,9 +27,17 @@
 
       body {
         margin: auto;
-        padding-inline: 1rch;
-        padding-block-end: 50vb;
         max-width: 64ch;
+        padding-inline: 1ch;
+      }
+
+      footer {
+        min-block-size: 50vb;
+      }
+
+      a {
+        text-underline-offset: 0.1ex;
+        text-decoration-thickness: from-font;
       }
 
       h1 {
@@ -47,18 +56,29 @@
         text-align: center;
       }
 
+      hr {
+        border: none;
+        &::after {
+          display: block;
+          content: "— § —";
+          font: italic large var(--serif);
+          text-align: center;
+        }
+      }
+
       p {
         font: large var(--sans);
         hyphens: auto;
+        line-height: 1.5;
+        text-align: justify;
       }
 
-      pre,
-      code {
+      pre {
         font: medium var(--mono);
       }
 
-      a {
-        text-decoration-thickness: from-font;
+      code {
+        font-family: var(--mono);
       }
     </style>
 
@@ -71,11 +91,19 @@
         const response = await fetch(file)
         const markdown = await response.text()
         const html = marked.parse(markdown)
-        document.body.innerHTML = html
+        document.querySelector("main").innerHTML = html
       }
     </script>
   </head>
   <body>
-    <p>Loading &hellip;</p>
+    <header>
+      <a href="mailto:taronomy@gmail.com"><code>taronomy@gmail.com</code></a>
+    </header>
+    <main>
+      <p>Loading &hellip;</p>
+    </main>
+    <footer>
+      <a href="mailto:taronomy@gmail.com"><code>taronomy@gmail.com</code></a>
+    </footer>
   </body>
 </html>
