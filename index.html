@@ -23,6 +23,7 @@
       html {
         font: medium var(--sans);
         color-scheme: light dark;
+        scroll-behavior: smooth;
       }
 
       body {
@@ -83,12 +84,17 @@
     </style>
 
     <script type="module">
-      import { smartquotes } from "https://unpkg.com/smartypants"
-      import { marked } from "https://unpkg.com/marked"
+      import { marked } from "https://esm.sh/marked"
+      import { gfmHeadingId } from "https://esm.sh/marked-gfm-heading-id"
+      import { markedSmartypantsLite } from "https://esm.sh/marked-smartypants-lite"
 
       const response = await fetch("README.md")
       const markdown = await response.text()
-      const html = marked.parse(smartquotes(markdown))
+
+      const html = marked
+        .use(gfmHeadingId())
+        .use(markedSmartypantsLite())
+        .parse(markdown)
 
       document.querySelector("main").innerHTML = html
     </script>
