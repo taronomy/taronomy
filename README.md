@@ -1,5 +1,7 @@
 # Society of One
 
+margin
+
 - Society predisposes people in it to certain way, People are susceptible to the predispositions and assumptions the social systems create.
 
 ---
