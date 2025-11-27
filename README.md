@@ -18,10 +18,6 @@ _Society of One_ means free individuals collaborating in scalable social units o
 
 > [_Society of One_](#)
 
-</article>
-
-<article id="contents">
-
 ### Contents
 
 0. [Society of One](#)
