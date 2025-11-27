@@ -1,5 +1,3 @@
-<article>
-
 # Society of One
 
 - Society predisposes people in it to certain way, People are susceptible to the predispositions and assumptions the social systems create.
@@ -24,8 +22,6 @@ _Society of One_ means free individuals collaborating in scalable social units o
 1. [Social Systems](#history)
 2. [Post-AI Society](#change)
 3. [Sociogenesis](#project)
-
-</article>
 
 <article id="history">
 
