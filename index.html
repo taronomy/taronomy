@@ -102,18 +102,10 @@
       const response = await fetch("README.md")
       const markdown = await response.text()
       const html = marked.use(markedSmartypantsLite()).parse(markdown)
-      document.querySelector("main").innerHTML = html
+      document.body.innerHTML = html
     </script>
   </head>
   <body>
-    <header>
-      <a href="mailto:taronomy@gmail.com"><code>taronomy@gmail.com</code></a>
-    </header>
-    <main>
-      <p>Loading &hellip;</p>
-    </main>
-    <footer>
-      <a href="mailto:taronomy@gmail.com"><code>taronomy@gmail.com</code></a>
-    </footer>
+    Loading &hellip;
   </body>
 </html>
