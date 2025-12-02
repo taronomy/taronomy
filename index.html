@@ -28,12 +28,8 @@
 
       body {
         margin: auto;
-        max-width: 64ch;
-        padding-inline: 1ch;
-      }
-
-      article {
-        padding-block: 1lh;
+        max-inline-size: 32rem;
+        padding-inline: 1rem;
       }
 
       a {
@@ -47,20 +43,23 @@
       }
 
       h1 {
+        margin-block: 1lh 1ex;
         font: italic xxx-large var(--serif);
         text-align: center;
         position: sticky;
-        top: -1cap;
+        inset-block-start: -1cap;
       }
 
       h2 {
+        margin-block: 1lh 1ex;
         font: xx-large var(--serif);
         text-align: center;
         position: sticky;
-        top: 0;
+        inset-block-start: 0;
       }
 
       h3 {
+        margin-block: 1lh 1ex;
         font: condensed x-large var(--sans);
         text-align: center;
       }
