@@ -30,16 +30,11 @@
         margin: auto;
         max-inline-size: 32rem;
         padding-inline: 1rem;
+        padding-block-end: 50vh;
       }
 
-      a {
-        text-underline-offset: 0.1ex;
-        text-decoration-thickness: from-font;
-
-        &[href^="#"] {
-          color: inherit;
-          text-decoration: none;
-        }
+      article {
+        display: flow-root;
       }
 
       h1 {
@@ -87,6 +82,16 @@
 
       code {
         font-family: var(--mono);
+      }
+
+      a:any-link {
+        text-underline-offset: 0.1ex;
+        text-decoration-thickness: from-font;
+
+        &[href^="#"] {
+          color: inherit;
+          text-decoration: none;
+        }
       }
     </style>
 
