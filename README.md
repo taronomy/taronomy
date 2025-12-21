@@ -1,3 +1,1 @@
-# taronomy
-
-Systemise society.
+# Systemise society
