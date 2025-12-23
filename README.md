@@ -1,8 +1,8 @@
-> Everything flows. I embrace it. 
+> Everything flows. I embrace it.
 
+- Let all obsessions go for free creation.
 - Protect sanity for higher consciousness.
 - Focus on human existence for the vision.
-- Let all obsessions go for free creation.
 
 # Systemise society.
 
