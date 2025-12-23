@@ -1,3 +1,5 @@
+> Everything flows. I embrace it. 
+
 - Protect sanity for higher consciousness.
 - Focus on human existence for the vision.
 - Let all obsessions go for free creation.
