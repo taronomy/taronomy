@@ -1,3 +1,7 @@
+- Protect sanity for higher consciousness.
+- Focus on human existence for the vision.
+- Let all obsessions go for free creation.
+
 # Systemise society.
 
 - Human society is in its infancy, reaching for its singularity.
