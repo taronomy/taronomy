@@ -1,0 +1,15 @@
+html {
+  font-family: system-ui;
+  color-scheme: light dark;
+
+  body {
+    margin: auto;
+    padding: 1rem;
+    max-width: 32rem;
+    line-height: 1.5;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
