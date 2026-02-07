@@ -1,3 +1,3 @@
-# Social systems studio
+# Rewrite the play
 
-Society defines what we are. And you feel something is missing. Change is possible when we play with small social systems.
+Society defines what we are. And you feel something is missing. When we experiment with small social systems, change is possible
