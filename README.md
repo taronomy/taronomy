@@ -4,6 +4,6 @@ Progress can be much more organic if we design and play temporary social systems
 
 A few centuries ago, the act of commerce was considered parasitic. Agrarians did not see the value in moving things around and charging extra. Now, capitalism generates the most information about society.
 
-Inevitably, modern society became satiated with material affluence. Markets are selling more decadence than progress. Lack of meaning and purpose is cornering people into mental conditions and deluded politics. 
+Inevitably, modern society became satiated with material affluence. Markets are selling more decadence than progress. Lack of meaning corners people into mental conditions and deluded politics. 
 
-Meanwhile, machine intelligence frees the human body from labour. We are one step away from solving the most pressing problems or becoming the problem in the eye of the machines. This is time for a new foundation.
+Meanwhile, machine intelligence frees the human body from labour. We are one step away from solving the most pressing problems or becoming the problem. This is time for a new foundation.
