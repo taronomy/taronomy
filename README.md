@@ -1,4 +1,4 @@
-Everything flows. Life's goal is never an arrival. It's to keep changing until we become capable of even more change. Sustainability lives in flexibility across our biology, individuality and society.
+Everything flows. Life's goal is never an arrival. It's to keep changing until we become capable of even more change. Such flexibility is the source of sustainability across our biology, individuality and society.
 
 Progress can be organic when we play temporary social systems. With identity held lightly, we can try different roles and explore what could be. That's how we discover what matters from curiosity, not scarcity.
 
