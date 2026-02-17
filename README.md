@@ -2,7 +2,7 @@ Everything flows. Life's goal is never an arrival. It's to keep changing until w
 
 Progress can be organic when we play temporary social systems. With identity held lightly, we can try different roles and explore what could be. That's how we discover what matters from curiosity, not scarcity.
 
-A few centuries ago, the act of commerce was considered parasitic. Agrarians did not see the value in moving things around and charging extra. Now, capitalism generates the most information about the human future. 
+A few centuries ago, the act of commerce was considered parasitic. Agrarians did not see the value in moving things around and charging extra. Now, capitalism generates the most information about society. 
 
 Inevitably, modern society became satiated with material affluence. Markets are selling more decadence than progress. Lack of meaning is cornering people into mental conditions and political cannibalism. 
 
