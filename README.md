@@ -1,6 +1,6 @@
 Everything flows. Life's goal is never an arrival. It's to keep changing until we become capable of even more change. Such flexibility is the source of sustainability across our biology, individuality and society.
 
-Progress can be organic when we play temporary social systems. With identity held lightly, we can try different roles and explore what could be. That's how we create human movement from curiosity, not scarcity.
+Progress can be organic when we play temporary social systems. With identity held lightly, we can try different roles and explore what could be. That's how we make human movement from curiosity, not scarcity.
 
 A few centuries ago, the act of commerce was considered parasitic. Agrarians did not see the value in moving things around and charging extra. Now, capitalism generates the most information about society. 
 
