@@ -9,6 +9,8 @@ html {
     max-width: 32rem;
 
     footer {
+      margin-block: 10vh;
+      min-height: 80vh;
       text-align: right;
     }
   }
