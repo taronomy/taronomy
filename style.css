@@ -62,6 +62,7 @@ h6,
 th,
 dt {
   font-size: small;
+  font-weight: bold;
   text-transform: uppercase;
 }
 
