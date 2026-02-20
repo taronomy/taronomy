@@ -141,3 +141,14 @@ pre {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
 }
+
+ul.flat {
+  ul,
+  li {
+    display: inline;
+  }
+
+  ul {
+    padding: 0;
+  }
+}
