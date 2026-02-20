@@ -112,7 +112,11 @@ pre {
   padding: 1cap 1em;
 
   &.highlight {
-    [class^="k"] {
+    [class^="k"],
+    gh,
+    gu,
+    ge,
+    gs {
       color: blue;
       @media (prefers-color-scheme: dark) {
         color: lime;
