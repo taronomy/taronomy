@@ -133,8 +133,8 @@ pre {
   }
 }
 
-.language-markdown,
-.language-plaintext {
+.language-markdown pre,
+.language-plaintext pre {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
 }
