@@ -1,0 +1,134 @@
+html {
+  line-height: 1.6;
+  font-family: system-ui;
+  font-synthesis: none;
+
+  body {
+    margin: auto;
+    padding-inline: 1rem;
+    max-width: 32rem;
+
+    footer {
+      padding-block: 20vh;
+      min-height: 60vh;
+      text-align: right;
+    }
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr {
+  margin-block: 1lh 1cap;
+  text-align: center;
+  text-wrap: balance;
+}
+
+h1 {
+  line-height: 1;
+  font-size: xxx-large;
+  letter-spacing: -0.03ch;
+}
+
+h2 {
+  line-height: 1.2;
+  font-size: xx-large;
+  letter-spacing: -0.02ch;
+}
+
+h3 {
+  line-height: 1.4;
+  font-size: x-large;
+  letter-spacing: -0.01ch;
+}
+
+h4 {
+  font-size: large;
+}
+
+h5 {
+  font-size: medium;
+}
+
+h6 {
+  font-size: small;
+  text-transform: uppercase;
+}
+
+hr {
+  border: none;
+  color: currentcolor;
+
+  &::after {
+    content: "— § —";
+  }
+}
+
+p,
+li,
+dt,
+dd {
+  hyphens: auto;
+  margin-block: 1ex;
+  text-align: justify;
+}
+
+blockquote,
+ol,
+ul,
+dl {
+  margin-block: 1cap;
+}
+
+blockquote,
+ol,
+ul,
+dd {
+  margin-inline: 0;
+  padding-inline-start: 2em;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 1rem auto;
+}
+
+table {
+  margin: 1rem auto;
+  border-spacing: 1em 0;
+}
+
+pre {
+  overflow-x: auto;
+  margin-block: 1rem;
+  border: thin dotted;
+  padding: 1cap 1em;
+
+  .highlight {
+    [class^="k"] {
+      color: blue;
+      @media (prefers-color-scheme: dark) {
+        color: lime;
+      }
+    }
+
+    [class^="p"],
+    [class^="o"],
+    [class^="c"] {
+      opacity: 60%;
+    }
+  }
+}
