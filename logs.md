@@ -1,16 +1,11 @@
+* markdown-toc
+{:toc .flat}
 
-<details>
-  <summary>Table of Contents</summary>
-  <p> Unix year and week number.</p>
-  * markdown-toc
-  {:toc}
-</details>
-
-# u56
+# 2026
 
 - 2026 CE
 
-## w08
+## Week 8
 
 hello
 
