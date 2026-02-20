@@ -9,8 +9,6 @@ html {
     max-width: 32rem;
 
     footer {
-      margin-block: 20vh;
-      min-height: 60vh;
       text-align: right;
     }
   }
@@ -111,7 +109,7 @@ pre {
   border: thin dotted;
   padding: 1cap 1em;
 
-  .highlight {
+  &.highlight {
     [class^="k"] {
       color: blue;
       @media (prefers-color-scheme: dark) {
