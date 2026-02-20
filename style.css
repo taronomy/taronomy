@@ -113,10 +113,11 @@ pre {
 
   &.highlight {
     [class^="k"],
-    gh,
-    gu,
-    ge,
-    gs {
+    .gh,
+    .gu,
+    .ge,
+    .gs,
+    .gi {
       color: blue;
       @media (prefers-color-scheme: dark) {
         color: lime;
@@ -125,7 +126,8 @@ pre {
 
     [class^="p"],
     [class^="o"],
-    [class^="c"] {
+    [class^="c"],
+    .gd {
       opacity: 60%;
     }
   }
