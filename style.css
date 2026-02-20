@@ -148,4 +148,12 @@ pre {
     display: inline;
     padding: none;
   }
+
+  ul::before {
+    content: "(";
+  }
+
+  ul::after {
+    content: ")";
+  }
 }
