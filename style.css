@@ -58,7 +58,9 @@ h5 {
   font-size: medium;
 }
 
-h6 {
+h6,
+th,
+dt {
   font-size: small;
   text-transform: uppercase;
 }
