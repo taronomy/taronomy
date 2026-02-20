@@ -112,6 +112,12 @@ pre {
   padding: 1cap 1em;
 
   &.highlight {
+    code.language-markdown,
+    code.language-plaintext {
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+    }
+
     [class^="k"],
     .gh,
     .gu,
