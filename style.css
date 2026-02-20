@@ -141,19 +141,3 @@ pre {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
 }
-
-#markdown-toc {
-  li,
-  ul {
-    display: inline;
-    padding: none;
-  }
-
-  ul::before {
-    content: "(";
-  }
-
-  ul::after {
-    content: ")";
-  }
-}
