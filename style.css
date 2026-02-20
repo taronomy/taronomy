@@ -146,9 +146,6 @@ pre {
   li,
   ul {
     display: inline;
-  }
-
-  ul::before {
-    content: "/";
+    padding: none;
   }
 }
