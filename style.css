@@ -142,12 +142,15 @@ pre {
   overflow-wrap: anywhere;
 }
 
-ul.flat {
+.flat {
+  ol,
   ul,
   li {
     display: inline;
   }
 
+  &,
+  ol,
   ul {
     padding: 0;
   }
