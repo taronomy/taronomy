@@ -143,7 +143,12 @@ pre {
 }
 
 #markdown-toc {
-  li {
+  li,
+  ul {
     display: inline;
+  }
+
+  ul::before {
+    content: "/";
   }
 }
