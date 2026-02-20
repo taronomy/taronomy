@@ -1,7 +1,7 @@
-Unix year and week number
 
 <details>
   <summary>Table of Contents</summary>
+  <p> Unix year and week number.</p>
   * markdown-toc
   {:toc}
 </details>
