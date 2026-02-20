@@ -1,7 +1,10 @@
 Unix year and week number
 
-* markdown-toc
-{:toc}
+<details>
+  <summary>Table of Contents</summary>
+  * markdown-toc
+  {:toc}
+</details>
 
 # u56
 
