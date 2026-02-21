@@ -1,14 +1,11 @@
 # Taro
 
-| Temperament       | Percentile     |
-| ----------------- | -------------- |
-| Novelty seeking   | █████████ 93%  |
-| Harm avoidance    | ██ 23%         |
-| Reward dependence | █████ 50%      |
-| Persistence       | ██████████ 95% |
-
-| Character          | Percentile    |
-| ------------------ | ------------- |
-| Self-directedness  | █████ 48      |
-| Cooperativeness    | ████ 38       |
-| Self-transcendence | ██████████ 96 |
+| TCI                | Percentile      |
+| ------------------ | --------------- |
+| Novelty seeking    | █████████ 93rd  |
+| Harm avoidance     | ██ 23rd         |
+| Reward dependence  | █████ 50th      |
+| Persistence        | ██████████ 95th |
+| Self-directedness  | █████ 48th      |
+| Cooperativeness    | ████ 38th       |
+| Self-transcendence | ██████████ 96th |
