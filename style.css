@@ -15,8 +15,8 @@ html {
     }
 
     footer {
-      margin-block: 10vh;
-      min-height: 80vh;
+      margin-block: 20vh;
+      min-height: 60vh;
       text-align: right;
     }
   }
@@ -142,22 +142,13 @@ pre {
   }
 }
 
-.language-markdown pre,
-.language-plaintext pre {
+.language-markdown pre {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
 }
 
-.flat {
-  ol,
-  ul,
-  li {
-    display: inline;
-  }
-
-  &,
-  ol,
-  ul {
-    padding: 0;
-  }
+.inline,
+.inline * {
+  display: inline;
+  padding: 0;
 }
