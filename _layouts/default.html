@@ -22,7 +22,11 @@
     </header>
 
     <main>
-      <nav>{{ content | toc_only }}</nav>
+      <nav>
+        <ul>
+          {:toc}
+        </ul>
+      </nav>
       <article>{{ content }}</article>
     </main>
 
