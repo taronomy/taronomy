@@ -149,8 +149,11 @@ pre {
   gap: 1rem;
 
   ol,
-  ul,
-  li {
+  ul {
     display: contents;
+  }
+
+  > li {
+    font-weight: bold;
   }
 }
