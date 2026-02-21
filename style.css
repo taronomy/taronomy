@@ -142,13 +142,14 @@ pre {
   }
 }
 
-.language-markdown pre {
+.language-markdown pre,
+.language-plaintext pre {
   white-space: pre-wrap;
   overflow-wrap: anywhere;
 }
 
-.inline,
-.inline * {
+.flat,
+.flat * {
   display: inline;
   padding: 0;
 }
