@@ -2,17 +2,17 @@
 
 | TCI                | Percentile      |
 | ------------------ | --------------- |
-| Novelty seeking    | █████████ 93rd  |
-| Harm avoidance     | ██ 23rd         |
-| Reward dependence  | █████ 50th      |
-| Persistence        | ██████████ 95th |
-| Self-directedness  | █████ 48th      |
-| Cooperativeness    | ████ 38th       |
-| Self-transcendence | ██████████ 96th |
+| Novelty seeking    | --------+- 93rd |
+| Harm avoidance     | -+-------- 23rd |
+| Reward dependence  | ----+----- 50th |
+| Persistence        | ---------+ 95th |
+| Self-directedness  | ----+----- 48th |
+| Cooperativeness    | ---+------ 38th |
+| Self-transcendence | ---------+ 96th |
 
 ## Sapir keyboard layout
 
-Sapir is a keyboard layout by Taro. It's based on Whorf but adds ergonomics for shorter pinkies.
+Sapir is a keyboard layout by Taro. Based on Whorf, Sapir keeps frequent consonants closer to the hands to make it more ergonomic for shorter pinkies.
 
 ```
 Z L H G Q J F O U 
@@ -29,3 +29,5 @@ V X B D K W P
 
 - [Alt Keyboard Layouts](https://discord.com/channels/807843650717483049)
 - [Keyboard layouts doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o)
+- [Oxey's layouts](https://oxey.dev)
+- [Keybr](https://www.keybr.com)
