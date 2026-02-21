@@ -1,11 +1,14 @@
 # Taro
 
-- Temperament
-  - Novelty seeking: very high
-  - Harm avoidance: very low
-  - Reward dependence: moderate
-  - Persistence: very high
-- Character
-  - Self-directedness: moderate
-  - Cooperativeness: low
-  - Self-transcendence: very high
+| Temperament       | Percentile   |
+| ----------------- | ----------   |
+| Novelty seeking   | ||||||||| 93 |
+| Harm avoidance    | || 23        |
+| Reward dependence | ||||| 50     |
+| Persistence       | ||||||||| 95 |
+
+| Character          | Percentile   |
+| ------------------ | ------------ |
+| Self-directedness  | |||| 48      |
+| Cooperativeness    | ||| 38       |
+| Self-transcendence | ||||||||| 96 |
