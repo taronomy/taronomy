@@ -1,8 +1,10 @@
 html {
-  line-height: 1.6;
+  scroll-behavior: smooth;
   font-family: system-ui;
   font-synthesis: none;
-  scroll-behavior: smooth;
+  line-height: 1.6;
+  text-wrap: pretty;
+  hanging-punctuation: first allow-end;
 
   body {
     margin: auto;
@@ -86,6 +88,8 @@ li,
 dt,
 dd {
   margin-block: 1ex;
+  text-align: justify;
+  hyphens: auto;
 }
 
 blockquote,
@@ -149,7 +153,8 @@ pre {
   gap: 1rem;
 
   ol,
-  ul {
+  ul,
+  li {
     display: contents;
   }
 
