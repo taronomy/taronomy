@@ -171,7 +171,13 @@ ul.flat {
     ol,
     ul {
       font-size: small;
+      font-weight: bold;
       text-transform: uppercase;
+
+      ol,
+      ul {
+        font-weight: normal;
+      }
     }
   }
 }
