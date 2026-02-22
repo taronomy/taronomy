@@ -139,6 +139,10 @@ pre {
   }
 }
 
+del {
+  text-decoration-color: red;
+}
+
 .thumb {
   position: fixed;
   inset-inline-start: 1em;
