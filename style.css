@@ -163,5 +163,11 @@ ul.flat {
   ol,
   ul {
     font-weight: normal;
+
+    ol,
+    ul {
+      font-size: small;
+      text-transform: uppercase;
+    }
   }
 }
