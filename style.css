@@ -150,25 +150,14 @@ ol.flat,
 ul.flat {
   display: flex;
   padding: 0;
-  flex-wrap: wrap;
   gap: 1ex 1em;
+  flex-wrap: wrap;
+  font-weight: bold;
 
   ol,
   ul,
   li {
     display: contents;
-  }
-
-  > li {
-    font-weight: bold;
-  }
-
-  > li > li {
     font-weight: normal;
-  }
-
-  > li > li li {
-    font-size: small;
-    text-transform: uppercase;
   }
 }
