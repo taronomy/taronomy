@@ -146,11 +146,12 @@ pre {
   }
 }
 
-.flat {
+ol.flat,
+ul.flat {
   display: flex;
   padding: 0;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1ex 1em;
 
   ol,
   ul,
@@ -160,5 +161,14 @@ pre {
 
   > li {
     font-weight: bold;
+
+    > li {
+      font-weight: normal;
+
+      li {
+        font-size: small;
+        text-transform: uppercase;
+      }
+    }
   }
 }
