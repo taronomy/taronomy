@@ -158,6 +158,10 @@ ul.flat {
   ul,
   li {
     display: contents;
+  }
+
+  ol,
+  ul {
     font-weight: normal;
   }
 }
