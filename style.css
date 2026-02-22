@@ -143,14 +143,14 @@ del {
   text-decoration-color: red;
 }
 
-.thumb {
+.ready {
   position: fixed;
   inset-inline-start: 1em;
   inset-block-end: 1ex;
 }
 
-ol.flat,
-ul.flat {
+ol.wrap,
+ul.wrap {
   display: flex;
   padding: 0;
   gap: 1ex 1em;
