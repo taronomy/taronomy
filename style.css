@@ -161,14 +161,14 @@ ul.flat {
 
   > li {
     font-weight: bold;
+  }
 
-    > li {
-      font-weight: normal;
+  > li > li {
+    font-weight: normal;
+  }
 
-      li {
-        font-size: small;
-        text-transform: uppercase;
-      }
-    }
+  > li > li li {
+    font-size: small;
+    text-transform: uppercase;
   }
 }
