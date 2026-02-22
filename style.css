@@ -9,7 +9,7 @@ html {
   body {
     margin: auto;
     padding-inline: 1rem;
-    max-width: 32rem;
+    max-inline-size: 32rem;
 
     header {
       position: sticky;
@@ -18,7 +18,7 @@ html {
 
     footer {
       margin-block: 20vh;
-      min-height: 60vh;
+      min-block-size: 60vh;
       text-align: right;
     }
   }
@@ -109,7 +109,7 @@ dd {
 
 img {
   display: block;
-  max-width: 100%;
+  max-inline-size: 100%;
   margin: 1rem auto;
 }
 
@@ -152,6 +152,7 @@ ul.flat {
   padding: 0;
   gap: 1ex 1em;
   flex-wrap: wrap;
+  align-items: baseline;
   font-weight: bold;
 
   ol,
