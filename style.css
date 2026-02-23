@@ -145,6 +145,7 @@ del {
 
 .wrap {
   display: flex;
+  gap: 1ex 1em;
   flex-wrap: wrap;
   align-items: baseline;
 
