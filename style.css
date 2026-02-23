@@ -149,6 +149,7 @@ del {
 
   * {
     display: inline;
+    padding: 0;
   }
 
   a {
