@@ -1,5 +1,5 @@
 - markdown-toc
-{:toc .wrap}
+{:toc .links}
 
 # Lorem ipsum {#style}
 
