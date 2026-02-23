@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<nav>
+  <ul class="wrap">
+    {% for log in site.logs %}
+    <li><a href="{{ log.url }}">{{ log.name }} | {{ log.basename }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
