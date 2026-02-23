@@ -143,32 +143,36 @@ del {
   text-decoration-color: red;
 }
 
-.links {
-  padding: 0;
-  font-weight: bold;
-  line-height: 1.8;
-
+ol.links,
+ul.links {
   * {
     display: inline;
-    padding: 0;
   }
 
   a {
-    margin-inline-end: 1em;
+    margin-inline-end: 1ch;
   }
 
+  &,
   ol,
   ul {
+    padding: 0;
+  }
+
+  font-weight: bold;
+
+  > ol,
+  > ul {
     font-weight: normal;
 
-    ol,
-    ul {
+    > ol,
+    > ul {
       font-size: small;
       font-weight: bold;
       text-transform: uppercase;
 
-      ol,
-      ul {
+      > ol,
+      > ul {
         font-weight: normal;
       }
     }
