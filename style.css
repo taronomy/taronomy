@@ -145,17 +145,14 @@ del {
 
 ol.inline,
 ul.inline {
-  display: flex;
-  padding: 0;
-  gap: 1ex 1em;
-  flex-wrap: wrap;
-  align-items: baseline;
   font-weight: bold;
 
   ol,
   ul,
   li {
-    display: contents;
+    display: inline;
+    margin-block: 1ex;
+    margin-inline-end: 1em;
   }
 
   ol,
