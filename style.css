@@ -145,15 +145,22 @@ del {
 
 ol.inline,
 ul.inline {
+  li,
   ol,
-  ul,
-  li {
+  ul {
     display: inline;
   }
 
-  & {
-    font-weight: bold;
+  li {
+    padding-inline-end: 1em;
   }
+
+  ol,
+  ul {
+    padding: 0;
+  }
+
+  font-weight: bold;
 
   ol,
   ul {
