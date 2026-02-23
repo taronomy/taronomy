@@ -149,8 +149,6 @@ ul.inline {
   ul,
   li {
     display: inline;
-    margin-inline-end: 1em;
-    padding: 0;
   }
 
   & {
