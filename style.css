@@ -148,8 +148,7 @@ ul.inline {
   li,
   ol,
   ul {
-    display: inline-box;
-    vertical-align: baseline;
+    display: inline;
   }
 
   &,
