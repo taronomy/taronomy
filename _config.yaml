@@ -3,11 +3,11 @@ theme: null
 collections:
   logs:
     output: true
-    directory: u
+    directory: /u
+    permalink: /u/:name
 
 defaults:
   - scope:
       type: logs
     values:
       layout: logs
-      # permalink: /u/:name
