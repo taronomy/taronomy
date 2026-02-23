@@ -14,10 +14,11 @@
   <body>
     <header>
       <nav>
-        <ul class="wrap">
+        <ul class="inline">
           <li><a href="/">taronomy</a></li>
           <ul>
             <li><a href="/bio">bio</a></li>
+            <!-- TODO: Create new log annually and update links -->
             <li><a href="/u/56">logs</a></li>
             {% if page.dir == "/u/" %}
             <ol>
@@ -34,7 +35,7 @@
             {% endif %}
           </ul>
         </ul>
-        <a href="#" class="ready">^</a>
+        <a href="#" style="position: fixed; inset: auto auto 1ex 1em">^</a>
       </nav>
     </header>
 
