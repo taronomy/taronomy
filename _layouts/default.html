@@ -14,14 +14,24 @@
   <body>
     <header>
       <nav>
-        <ol class="wrap">
+        <ul class="wrap">
           <li><a href="/">taronomy</a></li>
           <ul>
             <li><a href="/bio">bio</a></li>
-            {% assign log = site.logs | last %}
-            <li><a href="{{ log.url }}">logs</a></li>
+            <li><a href="/u/56.md">logs</a></li>
+            <ol>
+              <li><a href="/u/56.md">u56</a></li>
+              <ol>
+                <li><a href="/u/55.md">u55</a></li>
+                <li><a href="/u/54.md">u54</a></li>
+                <li><a href="/u/53.md">u53</a></li>
+                <li><a href="/u/52.md">u52</a></li>
+                <li><a href="/u/51.md">u51</a></li>
+                <li><a href="/u/50.md">u50</a></li>
+              </ol>
+            </ol>
           </ul>
-        </ol>
+        </ul>
         <a href="#" class="ready">^</a>
       </nav>
     </header>
@@ -36,6 +46,16 @@
         <em>Social systems</em><br />
         <a href="mailto:taronomy@gmail.com">taronomy@gmail.com</a>
       </address>
+
+      <ul>
+        <li>page.url | {{ page.url }}</li>
+        <li>page.name | {{ page.name }}</li>
+        <li>page.id | {{ page.id }}</li>
+        <li>page.dir | {{ page.dir }}</li>
+        <li>page.path | {{ page.path }}</li>
+        <li>page.slug | {{ page.slug }}</li>
+        <li>page.ext | {{ page.ext }}</li>
+      </ul>
     </footer>
   </body>
 </html>
