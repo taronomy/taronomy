@@ -161,18 +161,18 @@ ul.links {
 
   font-weight: bold;
 
-  > ol,
-  > ul {
+  ol,
+  ul {
     font-weight: normal;
 
-    > ol,
-    > ul {
+    ol,
+    ul {
       font-size: small;
       font-weight: bold;
       text-transform: uppercase;
 
-      > ol,
-      > ul {
+      ol,
+      ul {
         font-weight: normal;
       }
     }

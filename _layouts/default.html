@@ -15,25 +15,31 @@
     <header>
       <nav>
         <ul class="links">
-          <li><a href="/">taronomy</a></li>
-          <ul>
-            <li><a href="/bio">bio</a></li>
-            <!-- TODO: Update links annually -->
-            <li><a href="/u/56">logs</a></li>
-            {% if page.dir == "/u/" %}
-            <ol>
-              <li><a href="/u/56">u56</a></li>
-              <ol>
-                <li><a href="/u/55">u55</a></li>
-                <li><a href="/u/54">u54</a></li>
-                <li><a href="/u/53">u53</a></li>
-                <li><a href="/u/52">u52</a></li>
-                <li><a href="/u/51">u51</a></li>
-                <li><a href="/u/50">u50</a></li>
-              </ol>
-            </ol>
-            {% endif %}
-          </ul>
+          <li>
+            <a href="/">taronomy</a>
+            <ul>
+              <li><a href="/bio">bio</a></li>
+              <!-- TODO: Update links annually -->
+              <li>
+                <a href="/u/56">logs</a>
+                {% if page.dir == "/u/" %}
+                <ol>
+                  <li>
+                    <a href="/u/56">u56</a>
+                    <ol>
+                      <li><a href="/u/55">u55</a></li>
+                      <li><a href="/u/54">u54</a></li>
+                      <li><a href="/u/53">u53</a></li>
+                      <li><a href="/u/52">u52</a></li>
+                      <li><a href="/u/51">u51</a></li>
+                      <li><a href="/u/50">u50</a></li>
+                    </ol>
+                  </li>
+                </ol>
+                {% endif %}
+              </li>
+            </ul>
+          </li>
         </ul>
         <a href="#" style="position: fixed; inset: auto auto 1ex 1em">^</a>
       </nav>
