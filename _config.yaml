@@ -3,7 +3,6 @@ theme: null
 collections:
   logs:
     output: true
-    directory: /u
     permalink: /u/:name
 
 defaults:
