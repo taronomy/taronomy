@@ -143,19 +143,13 @@ del {
   text-decoration-color: red;
 }
 
-ol.inline,
-ul.inline {
-  vertical-align: baseline;
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
 
-  li,
-  ol,
-  ul {
-    display: inline-block;
-  }
-
-  & ol,
-  ul {
-    padding: 0;
+  * {
+    display: contents;
   }
 
   font-weight: bold;

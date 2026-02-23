@@ -1,5 +1,5 @@
 - markdown-toc
-{:toc .inline}
+{:toc .wrap}
 
 # Lorem ipsum {#style}
 
