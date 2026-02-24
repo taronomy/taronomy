@@ -124,9 +124,9 @@ pre {
     .ge,
     .gs,
     .gi {
-      color: navy;
+      color: blue;
       @media (prefers-color-scheme: dark) {
-        color: cyan;
+        color: lime;
       }
     }
 
