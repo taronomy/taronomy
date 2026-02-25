@@ -100,6 +100,11 @@ dd {
   padding-inline-start: 2em;
 }
 
+blockquote,
+dd {
+  border-inline-start: thin dotted;
+}
+
 img {
   display: block;
   max-inline-size: 100%;
