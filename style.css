@@ -12,8 +12,8 @@ html {
     max-inline-size: 32rem;
 
     footer {
-      margin-block: 10vh;
-      min-block-size: 80vh;
+      margin-block: 20vh;
+      min-block-size: 60vh;
       text-align: right;
     }
   }
