@@ -100,8 +100,7 @@ dd {
   padding-inline-start: 2ch;
 }
 
-blockquote,
-dd {
+blockquote {
   border-inline-start: thin dotted;
 }
 
