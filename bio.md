@@ -1,5 +1,7 @@
 # Taro
 
+Asks what is most significant. Expects excellence and resilience. Fears the vicious cycle of ignorance.
+
 | TCI                |        Percentile |
 | ------------------ | ----------------- |
 | Novelty seeking    | `.........:` 93rd |
