@@ -1,6 +1,5 @@
-# Taro
-
-Asks what is most significant. Expects excellence and resilience. Fears the vicious cycle of ignorance.
+Taro
+: Hi, I'm working on ludic social systems which reframe society into a series of plays. I believe we can shape our own human environments. Excellence is my priority and I start from what is most significant. My biggest fear is the vicious cycle of ignorance. I code in Elixir on my custom keyboard layout Sapir.
 
 | TCI                |        Percentile |
 | ------------------ | ----------------- |
