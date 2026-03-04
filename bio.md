@@ -11,9 +11,7 @@ Taro
 | Cooperativeness    | `...:......` 38th |
 | Self-transcendence | `.........:` 96th |
 
----
-
-- Interests:
+- [Interests]
   - [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
   - [Axel Honneth](https://en.wikipedia.org/wiki/Axel_Honneth)
   - [Cultural evolution](https://en.wikipedia.org/wiki/Cultural_evolution)
