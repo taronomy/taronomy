@@ -1,4 +1,4 @@
-Taro
+_Taro_
 : Hi, I'm working on ludic social systems which reframe society into a series of plays. I believe we can shape our own human environments. Excellence is my priority and I start from what is most significant. My biggest fear is the vicious cycle of ignorance. I code in Elixir on my custom keyboard layout Sapir.
 
 | TCI                |        Percentile |
@@ -11,7 +11,7 @@ Taro
 | Cooperativeness    | `...:......` 38th |
 | Self-transcendence | `.........:` 96th |
 
-- [Interests]
+- Interests:
   - [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
   - [Axel Honneth](https://en.wikipedia.org/wiki/Axel_Honneth)
   - [Cultural evolution](https://en.wikipedia.org/wiki/Cultural_evolution)
