@@ -1,5 +1,5 @@
-_Taro_
-: Hi, I'm working on ludic social systems which reframe society into a series of plays. I believe we can shape our own human environments. Excellence is my priority and I start from what is most significant. My biggest fear is the vicious cycle of ignorance. I code in Elixir on my custom keyboard layout Sapir.
+Taro
+: Hi, I'm working on ludic social systems which reframe society into a series of plays. I believe we can shape our own human environments. My biggest fear is the vicious cycle of ignorance. I start from what is most significant. Excellence is my priority.
 
 | TCI                |        Percentile |
 | ------------------ | ----------------- |
@@ -31,6 +31,7 @@ _Taro_
 - [Panta rhei (doctrine)](https://en.wikipedia.org/wiki/Panta_rhei_(doctrine))
 - [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
 - [Process philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
+- [Sapir keyboard layout](/logs/52#sapir-keyboard-layout)
 - [Seth Godin](https://seths.blog)
 - [Social philosophy](https://en.wikipedia.org/wiki/Social_philosophy)
 - [Sociocybernetics](https://sociocybernetics.org)
