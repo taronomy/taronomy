@@ -1,5 +1,5 @@
 - markdown-toc
-{:toc .links}
+{:toc .cloud}
 
 # Lorem ipsum {#style}
 
