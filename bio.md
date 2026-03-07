@@ -7,6 +7,7 @@ Taro
 | Harm avoidance     | `..:.......` 23rd |
 | Reward dependence  | `....:.....` 50th |
 | Persistence        | `.........:` 95th |
+| ================== | ================= |
 | Self-directedness  | `....:.....` 48th |
 | Cooperativeness    | `...:......` 38th |
 | Self-transcendence | `.........:` 96th |
@@ -17,7 +18,9 @@ Taro
 - [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
 - [Damon Centola](https://www.damoncentola.com)
 - [Daniel Lieberman](https://en.wikipedia.org/wiki/Daniel_Lieberman)
+- [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
 - [E. O. Wilson](https://en.wikipedia.org/wiki/E._O._Wilson)
+- [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)
 - [Elixir Programming Language](https://elixir-lang.org)
 - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 - [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
@@ -31,6 +34,7 @@ Taro
 - [Panta rhei (doctrine)](https://en.wikipedia.org/wiki/Panta_rhei_(doctrine))
 - [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
 - [Process philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
+- [Rosi Braidotti](https://rosibraidotti.com)
 - [Sapir keyboard layout](/logs/52#sapir-keyboard-layout)
 - [Seth Godin](https://seths.blog)
 - [Social philosophy](https://en.wikipedia.org/wiki/Social_philosophy)

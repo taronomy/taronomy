@@ -113,6 +113,10 @@ img {
 table {
   margin: 1rem auto;
   border-spacing: 1em 0;
+
+  tfoot {
+    font-style: italic;
+  }
 }
 
 pre {
