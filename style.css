@@ -152,12 +152,10 @@ del {
 }
 
 .task-list-item {
-  &::marker {
-    content: "☐ ";
-  }
+  list-style: "☐ ";
 
-  &:has([checked])::marker {
-    content: "☑︎ ";
+  &:has([checked]) {
+    list-style: "☑︎ ";
   }
 
   .task-list-item-checkbox {
