@@ -124,31 +124,45 @@ pre {
   margin-block: 1rem;
   border: thin dotted;
   padding: 1cap 1em;
-
-  &.highlight {
-    [class^="k"],
-    .gh,
-    .gu,
-    .ge,
-    .gs,
-    .gi {
-      color: blue;
-      @media (prefers-color-scheme: dark) {
-        color: lime;
-      }
-    }
-
-    [class^="p"],
-    [class^="o"],
-    [class^="c"],
-    .gd {
-      opacity: 60%;
-    }
-  }
 }
 
 del {
   text-decoration-color: red;
+}
+
+.highlight {
+  [class^="k"],
+  .gh,
+  .gu,
+  .ge,
+  .gs,
+  .gi {
+    color: blue;
+    @media (prefers-color-scheme: dark) {
+      color: lime;
+    }
+  }
+
+  [class^="p"],
+  [class^="o"],
+  [class^="c"],
+  .gd {
+    opacity: 60%;
+  }
+}
+
+.task-list-item {
+  &::marker {
+    content: "☐ ";
+  }
+
+  &:has([checked])::marker {
+    content: "☑︎ ";
+  }
+
+  .task-list-item-checkbox {
+    display: none;
+  }
 }
 
 ol.cloud,
