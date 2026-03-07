@@ -155,7 +155,7 @@ del {
   list-style: "☐ ";
 
   &:has([checked]) {
-    list-style: "☑︎ ";
+    list-style: "☒ ";
   }
 
   .task-list-item-checkbox {
