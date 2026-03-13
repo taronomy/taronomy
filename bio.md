@@ -31,6 +31,7 @@ Taro
 - [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 - [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
 - [Meg Wheatley](https://margaretwheatley.com)
+- [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann)
 - [Panta rhei](https://en.wikipedia.org/wiki/Panta_rhei_(doctrine))
 - [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
 - [Process philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
