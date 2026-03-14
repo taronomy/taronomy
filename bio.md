@@ -13,6 +13,7 @@ Taro
 | Self-transcendence | `.........:` 96th |
 
 - [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
+- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
 - [Axel Honneth](https://en.wikipedia.org/wiki/Axel_Honneth)
 - [Cultural evolution](https://en.wikipedia.org/wiki/Cultural_evolution)
 - [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
@@ -28,6 +29,7 @@ Taro
 - [Hypermedia Systems](https://hypermedia.systems)
 - [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
 - [Laozi](https://en.wikipedia.org/wiki/Laozi)
+- [Ludics](https://en.wikipedia.org/wiki/Ludics)
 - [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 - [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
 - [Meg Wheatley](https://margaretwheatley.com)
