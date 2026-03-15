@@ -1,5 +1,28 @@
 # Iternity.
 
+0. Introduction
+  - Define iternity as the principle of living systems.
+  - Define iterations as cycles with the input from the previous ones rather than simple repetition.
+  - Define eternity as an operational goal of life rather than a complete concept in spacetime.
+  - As a summary of the book, cover why iternity is the nature of life and necessitate it for future human society.
+1. Life is between death and birth.
+  1. One long stream
+  2. Motion and structure
+  3. Sex, death, consciousness
+    - Sexual reproduction is costly, risky, and lonely. But it allows genetic shuffle every turn.
+    - Telomere introduced lifespan. But it enables massive genetic storage and multicellular life.
+    - Consciousness hallucinates. But it lets us access and handle informations in our minds and society.
+2. Society lives among us.
+  1. The Other
+  2. Socius
+  3. Beyond the monolith
+3. We play life.
+  1. Machine intelligence
+  2. Free humans
+  3. The ludic society
+
+I expect excellence. Avoid fillers that dilute the density. Elaborate daring statements with precise terms and sharp angles. Beware of the continuity and organic growth of the narrative. The reading experience must be insightful and full of discovery.
+
 - Iternity eventually promotes ludic social systems. The pure nature must support the sociopolitical claim.
 - The join is society as a life form. If iternity is a universal quality of any life form, it naturally flows to society. Or, rather, I should claim that we must apply iternity to society if we want society to be organic.
 - The core theme is how life consolidates motion and structure, order and chaos with iteration and survive for eternity and how it applies to our personal life as sustainable growth
