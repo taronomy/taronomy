@@ -6,13 +6,18 @@
     <meta name="color-scheme" content="dark light" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>taronomy</title>
+    <title>
+      {% if page.basename == "README" %}taronomy{% else %}taronomy/{{
+      page.basename }}{% endif %}
+    </title>
 
     <link rel="stylesheet" href="/style.css" />
   </head>
 
   <body>
     <a href="#" style="position: fixed; inset: auto auto 1ex 1em">^</a>
+
+    {{ page.basename }}
 
     <header>
       <nav>
