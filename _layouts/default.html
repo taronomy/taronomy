@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>
-      {% if page.basename == "README" %}taronomy{% else %}taronomy/{{
-      page.basename }}{% endif %}
+      {% assign path = page.name | split: '.' | first | prepend: "/" %}
+      taronomy{% unless path == "/README" %}{{ path }}{% endunless %}
     </title>
 
     <link rel="stylesheet" href="/style.css" />
@@ -17,7 +17,7 @@
   <body>
     <a href="#" style="position: fixed; inset: auto auto 1ex 1em">^</a>
 
-    {{ page.basename }}
+    {{ page.slug }}
 
     <header>
       <nav>
