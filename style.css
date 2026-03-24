@@ -163,7 +163,8 @@ del {
   }
 }
 
-:is(ol, ul).inline {
+ol.inline,
+ul.inline {
   &,
   * {
     display: inline;
@@ -176,15 +177,18 @@ del {
 
   font-weight: bold;
 
-  :is(ol, ul) {
+  ol,
+  ul {
     font-weight: normal;
 
-    :is(ol, ul) {
+    ol,
+    ul {
       font-size: small;
       font-weight: bold;
       text-transform: uppercase;
 
-      :is(ol, ul) {
+      ol,
+      ul {
         font-weight: normal;
       }
     }
