@@ -163,36 +163,28 @@ del {
   }
 }
 
-ol.cloud,
-ul.cloud {
+:is(ol, ul).inline {
+  &,
   * {
     display: inline;
-  }
-
-  a {
-    margin-inline-end: 1ch;
-  }
-
-  &,
-  ol,
-  ul {
     padding: 0;
+  }
+
+  li:not(& > :first-child)::before {
+    content: "· ";
   }
 
   font-weight: bold;
 
-  ol,
-  ul {
+  :is(ol, ul) {
     font-weight: normal;
 
-    ol,
-    ul {
+    :is(ol, ul) {
       font-size: small;
       font-weight: bold;
       text-transform: uppercase;
 
-      ol,
-      ul {
+      :is(ol, ul) {
         font-weight: normal;
       }
     }

@@ -46,4 +46,4 @@ Taro
 - [Sociocybernetics](https://sociocybernetics.org)
 - [Tamim Ansary](https://www.mirtamimansary.com)
 - [Yuval Noah Harari](https://www.ynharari.com)
-{: .cloud}
+{: .inline}
