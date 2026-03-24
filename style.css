@@ -163,32 +163,32 @@ del {
   }
 }
 
-ol.inline,
-ul.inline {
+:is(ol, ul).inline {
   &,
   * {
     display: inline;
     padding: 0;
   }
 
-  li:not(& > :first-child)::before {
+  li::before {
     content: "· ";
+  }
+
+  & > li:first-child::before {
+    content: none;
   }
 
   font-weight: bold;
 
-  ol,
-  ul {
+  :is(ol, ul) {
     font-weight: normal;
 
-    ol,
-    ul {
+    :is(ol, ul) {
       font-size: small;
       font-weight: bold;
       text-transform: uppercase;
 
-      ol,
-      ul {
+      :is(ol, ul) {
         font-weight: normal;
       }
     }
