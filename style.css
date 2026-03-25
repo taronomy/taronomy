@@ -100,10 +100,6 @@ dd {
   padding-inline-start: 2ch;
 }
 
-blockquote {
-  border-inline-start: thin dotted;
-}
-
 img {
   display: block;
   max-inline-size: 100%;
@@ -120,10 +116,8 @@ table {
 }
 
 pre {
-  overflow-x: auto;
-  margin-block: 1rem;
-  border: thin dotted;
-  padding: 1cap 1em;
+  margin-block: 1lh;
+  white-space: pre-wrap;
 }
 
 del {
