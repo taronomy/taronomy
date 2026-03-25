@@ -6,8 +6,7 @@
     <meta name="color-scheme" content="dark light" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    {% assign path = page.name | split: '.' | first | prepend: "/" %}
-    <title>taronomy{% if path != "/README" %}{{ path }}{% endif %}</title>
+    <title>taronomy{% page.url | remove: ".html" %}</title>
 
     <link rel="stylesheet" href="/style.css" />
   </head>
