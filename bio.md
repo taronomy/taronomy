@@ -28,6 +28,7 @@ Taro
 - [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
 - [History of life](https://en.wikipedia.org/wiki/History_of_life)
 - [Hypermedia Systems](https://hypermedia.systems)
+- [Johan Huizinga](https://en.wikipedia.org/wiki/Johan_Huizinga)
 - [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
 - [Laozi](https://en.wikipedia.org/wiki/Laozi)
 - [Line of flight](https://en.wikipedia.org/wiki/Line_of_flight)
