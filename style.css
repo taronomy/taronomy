@@ -78,10 +78,7 @@ hr {
   }
 }
 
-p,
-li,
-dt,
-dd {
+p {
   margin-block: 1ex;
 }
 
