@@ -83,8 +83,8 @@ p {
 }
 
 blockquote,
-ol,
-ul,
+:not(li) > ol,
+:not(li) > ul,
 dl {
   margin-block: 1cap;
 }
