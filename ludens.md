@@ -1,8 +1,10 @@
 # Homo Ludens
+{:.no_toc}
 
-**A study of the play-element in culture**
+## A study of the play-element in culture
+{:.no_toc}
 
-by J. Huizinga
+J. Huizinga
 : Late Professor of History in the University of Leyden 
 
 0. markdown-toc
