@@ -6,7 +6,8 @@ _A study of the play-element in culture_
 J. Huizinga 
 : Late Professor of History in the University of Leyden
 
-0. markdown-toc {:toc}
+0. markdown-toc 
+{:toc}
 
 A happier age than ours once made bold to call our species by the name of _Homo Sapiens_. In the course of time we have come to realize that we are not so reasonable after all as the Eighteenth Century, with its worship of reason and its naive optimism, thought us; hence modern fashion inclines to designate our species as _Homo Faber:_ Man the Maker. But though _faber_ may not be quite so dubious as _sapiens_ it is, as a name specific of the human being, even less appropriate, seeing that many animals too are makers. There is a third function, however, applicable to both human and animal life, and just as important as reasoning and making—namely, playing. It seems to me that next to _Homo Faber_, and perhaps on the same level as _Homo Sapiens_, **Homo Ludens**, Man the Player, deserves a place in our nomenclature.
 
