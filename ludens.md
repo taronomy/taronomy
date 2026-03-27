@@ -1,172 +1,22 @@
 # Homo Ludens
 
+**A study of the play-element in culture**
 
-A STUDY OF THE PLAY-ELEMENT 
-IN CULTURE 
+by J. Huizinga
+: Late Professor of History in the University of Leyden 
 
+0. markdown-toc
+{:toc}
 
-by 
+A happier age than ours once made bold to call our species by the name of _Homo Sapiens_. In the course of time we have come to realize that we are not so reasonable after all as the Eighteenth Century, with its worship of reason and its naive optimism, thought us; hence modern fashion inclines to designate our species as _Homo Faber:_ Man the Maker. But though _faber_ may not be quite so dubious as _sapiens_ it is, as a name specific of the human being, even less appropriate, seeing that many animals too are makers. There is a third function, however, applicable to both human and animal life, and just as important as reasoning and making—namely, playing. It seems to me that next to _Homo Faber_, and perhaps on the same level as _Homo Sapiens_, **Homo Ludens**, Man the Player, deserves a place in our nomenclature. 
 
-J. HUIZINGA 
+It is ancient wisdom, but it is also a little cheap, to call all human activity “play”. Those who are willing to content themselves with a metaphysical conclusion of this kind should not read this book. Nevertheless, we find no reason to abandon the notion of play as a distinct and highly important factor in the world’s life and doings. For many years the conviction has grown upon me that civilization arises and unfolds in and as play. Traces of such an opinion are to be found in my writings ever since 1903. I took it as the theme for my annual address as Rector of Leyden University in 1933, and afterwards for lectures in Zurich, Vienna and London, in the last instance under the title: “The Play Element of Culture”. Each time my hosts wanted to correct it to “in” Culture, and each time I protested and clung to the genitive, because it was not my object to define the place of play among all the other manifestations of culture, but rather to ascertain how far culture itself bears the character of play. The aim of the present full-length study is to try to integrate the concept of play into that of culture. Consequently, play is to be understood here not as a biological phenomenon but as a cultural phenomenon. It is approached historically, not scientifically. The reader will find that I have made next to no use of any psychological interpretations of play however important these may be, and that I have employed anthropological terms and explanations but sparingly, even where I have had to quote ethnological facts. He will find no mention of mana and the like, and hardly any of magic. Were I compelled to put my argument tersely in the form of theses, one of them would be that anthropology and its sister sciences have so far laid too little stress on the concept of play and on the supreme importance to civilization of the play-factor. 
 
-Late Professor of History in the University of Leyden 
+The reader of these pages should not look for detailed documentation of every word. In treating of the general problems of culture one is constantly obliged to undertake predatory incursions into provinces not sufficiently explored by the raider himself. To fill in all the gaps in my knowledge beforehand was out of the question for me. I had to write now, or not at all. And I wanted to write. 
 
+Leyden, _June 1938._
 
-ROUTLEDGE &amp; KEGAN PAUL 
-London, Boston and Henley 
-
-
-
-First published in German in Switzerland in 1944 
-This edition first published in 1949 
-by Routledge &amp; Kegan Paul Ltd 
-29 Store Street, 
-
-London WCiE yDD 
-g Park Street, 
-
-Boston, Mass. 02108, USA and 
-Broadway House, Newtown Road 
-Henley-on-Thames, Oxon RGg iEN 
-Reprinted in 1980 
-Printed in Great Britain by 
-Redwood Burn Ltd 
-Trowbridge &amp; Esher 
-No part of this book may be reproduced in 
-any form without permission from the 
-publisher, except for the quotation of brief 
-passages in criticism 
-ISBN o 7100 0978 4 
-
-
-
-TABLE OF CONTENTS 
-
-
-Translator’s Note vii 
-
-Foreword ix 
-
-I Nature and Significance of Play as a Cultural 
-
-Phenomenon i 
-
-II The Play-Concept as Expressed in Language 28 
-
-III Play and Contest as Civilizing Functions 4 ® 
-
-IV Play and Law 76 
-
-V Play and War 89 
-
-VI Playing and Knowing 105 
-
-VII Play and Poetry 119 
-
-VIII The Elements of Mythopoiesis 136 
-
-IX Play-Forms in Philosophy 146 
-
-X Play-Forms in Art *5$ 
-
-XI Western Civilization Sub Specie Ludi 1 73 
-
-XII The Play-Element in Contemporary Civiliza¬ 
-
-tion 195 
-
-Index 214 
-
-
-
-TRANSLATOR’S NOTE 
-
-
-This edition is prepared from the German edition published in 
-Switzerland, 1944, and also from the author’s own English 
-translation of the text, which he made shortly before his death. 
-Comparison of the two texts shows a number of discrepancies 
-and a marked difference in style; the translator hopes that the 
-following version has achieved a reasonable synthesis. 
-
-
-
-FOREWORD 
-
-
-A happier age than ours once made bold to call our species by the 
-name of Homo Sapiens. In the course of time we have come to 
-realize that we are not so reasonable after all as the Eighteenth 
-Century, with its worship of reason and its naive optimism, thought 
-us; hence modern fashion inclines to designate our species as 
-Homo Faber: Man the Maker. But though faber may not be quite 
-so dubious as sapiens it is, as a name specific of the human being, 
-even less appropriate, seeing that many animals too are makers. 
-There is a third function, however, applicable to both human and 
-animal life, and just as important as reasoning and making— 
-namely, playing. It seems to me that next to Homo Faber, and 
-perhaps on the same level as Homo Sapiens, Homo Ludens, Man 
-the Player, deserves a place in our nomenclature. 
-
-It is ancient wisdom, but it is also a little cheap, to call all 
-human activity “play”. Those who are willing to content them¬ 
-selves with a metaphysical conclusion of this kind should not read 
-this book. Nevertheless, we find no reason to abandon the notion 
-of play as a distinct and highly important factor in the world’s 
-life and doings. For many years the conviction has grown upon 
-me that civilization arises and unfolds in and as play. Traces of 
-such an opinion are to be found in my writings ever since 1903. 
-I took it as the theme for my annual address as Rector of Leyden 
-University in 1933, and afterwards for lectures in Zurich, Vienna 
-and London, in the last instance under the title: “The Play 
-Element of Culture”. Each time my hosts wanted to correct it 
-to “in” Culture, and each time I protested and clung to the 
-genitive,* because it was not my object to define the place of play 
-among all the other manifestations of culture, but rather to 
-ascertain how far culture itself bears the character of play. The 
-aim of the present full-length study is to try to integrate the 
-concept of play into that of culture. Consequently, play is to be 
-understood here not as a biological phenomenon but as a cultural 
-phenomenon. It is approached historically, not scientifically. The 
-reader will find that I have made next to no use of any psycho- 
-
-* Logically, of course, Huizinga is correct; but as English prepositions are not 
-governed by logic I have retained the more euphonious ablative in this sub-title.— 
-Trans. 
-
-
-
-FOREWORD 
-
-
-logical interpretations of play however important these may be, 
-and that I have employed anthropological terms and explanations 
-but sparingly, even where I have had to quote ethnological facts. 
-He will find no mention of mana and the like, and hardly any of 
-magic. Were I compelled to put my argument tersely in the form 
-of theses, one of them would be that anthropology and its sister 
-sciences have so far laid too little stress on the concept of play 
-and on the supreme importance to civilization of the play-factor. 
-
-The reader of these pages should not look for detailed docu¬ 
-mentation of every word. In treating of the general problems of 
-culture one is constantly obliged to undertake predatory incursions 
-into provinces not sufficiently explored by the raider himself. To 
-fill in all the gaps in my knowledge beforehand was out of the 
-question for me. I had to write now, or not at all. And I wanted 
-to write. 
-
-Leyden, 
-
-June 1938. 
-
-
-
-I 
-
-
-NATURE AND SIGNIFICANCE OF PLAY AS A 
-CULTURAL PHENOMENON 
+## Nature and Significance of Play as a Cultural Phenomenon
 
 Play is older than culture, for culture, however inadequately 
 defined, always presupposes human society, and animals have not 
@@ -197,7 +47,7 @@ we call it “mind” or “will” we say too much. However we may
 regard it, the very fact that play has a meaning implies a non- 
 materialistic quality in the nature of the thing itself. 
 
-Psychology and physiology deal with the observation, descrip¬ 
+Psychology and physiology deal with the observation, descrip 
 tion and explanation of the play of animals, children, and 
 grown-ups. They try to determine the nature and significance 
 of play and to assign it its place in the scheme of life. The high 
@@ -210,7 +60,7 @@ i
 2 
 
 
-HOMO LUDENS 
+
 
 
 of play as a function are generally taken for granted and form the 
@@ -246,7 +96,7 @@ the quantitative methods of experimental science without first
 paying attention to its profoundly aesthetic quality. As a rule they 
 leave the primary quality of play as such, virtually untouched. 
 To each and every one of the above “explanations” it might well 
-be objected: “So far so good, but what actually is the fun of play¬ 
+be objected: “So far so good, but what actually is the fun of play 
 ing? Why does the baby crow with pleasure? Why does the 
 gambler lose himself in his passion? Why is a huge crowd roused 
 to frenzy by a football match?” This intensity of, and absorption 
@@ -260,7 +110,6 @@ openbaring van levensdriften (Amsterdam, 1932).
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 3 
 
 essence, the primordial quality of play. Nature, so our reasoning 
 mind tells us, could just as easily have given her children all those 
@@ -278,7 +127,7 @@ Dutch “aardigkeit” perhaps comes nearest to it (derived from
 “aard” which means the same as “Art” and “Wesen” x in German, 
 and thus evidence, perhaps, that the matter cannot be reduced 
 further). We may note in passing that “fun” in its current usage 
-is of rather recent origin. French, oddly enough, has no cor¬ 
+is of rather recent origin. French, oddly enough, has no cor 
 responding term at all; German half makes up for it by “Spass” 
 and “Witz” together. Nevertheless it is precisely this fun-element 
 that characterizes the essence of play. Here we have to do with 
@@ -313,7 +162,7 @@ play continually confirms the supra-logical nature of the human
 4 
 
 
-HOMO LUDENS 
+
 
 
 situation. Animals play, so they must be more than merely 
@@ -323,12 +172,12 @@ be more than merely rational beings, for play is irrational.
 In tackling the problem of play as a function of culture proper 
 and not as it appears in the life of the animal or the child, we begin 
 where biology and psychology leave off. In culture we find play 
-as a given magnitude existing before culture itself existed, accom¬ 
+as a given magnitude existing before culture itself existed, accom 
 panying it and pervading it from the earliest beginnings right up 
 to the phase of civilization we are now living in. We find play 
 present everywhere as a well-defined quality of action which is 
 different from “ordinary” life. We can disregard the question of 
-how far science has succeeded in reducing this quality to quantita¬ 
+how far science has succeeded in reducing this quality to quantita 
 tive factors. In our opinion it has not. At all events it is precisely 
 this quality, itself so characteristic of the form of life we call “play”, 
 which matters. Play as a special form of activity, as a “significant 
@@ -343,7 +192,7 @@ will be to grasp the value and significance of these images and
 their “imagination”. We shall observe their action in play itself 
 and thus try to understand play as a cultural factor in life. 
 
-The great archetypal activities of human society are all per¬ 
+The great archetypal activities of human society are all per 
 meated with play from the start. Take language, for instance— 
 that first and supreme instrument which man shapes in order to 
 communicate, to teach, to command. Language allows him to 
@@ -351,25 +200,24 @@ distinguish, to establish, to state things; in short, to name them
 and by naming them to raise them into the domain of the spirit. 
 In the making of speech and language the spirit is continually 
 “sparking” between matter and mind, as it were, playing with 
-this wondrous nominative faculty. Behind every abstract ex¬ 
+this wondrous nominative faculty. Behind every abstract ex 
 pression there lie the boldest of metaphors, and every metaphor is 
 a play upon words. Thus in giving expression to life man creates 
 a second, poetic world alongside the world of nature. 
 
-Or take myth. This, too, is a transformation or an “imagina¬ 
+Or take myth. This, too, is a transformation or an “imagina 
 tion” of the outer world, only here the process is more elaborate 
 and ornate than is the case with individual words. In myth. 
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 
 
 
 5 
 
 
 primitive man seeks to account for the world of phenomena by 
-grounding it in the Divine. In all the wild imaginings of mythol¬ 
+grounding it in the Divine. In all the wild imaginings of mythol 
 ogy a fanciful spirit is playing on the border-line between jest and 
 earnest. Or finally, let us take ritual. Primitive society performs 
 its sacred rites, its sacrifices, consecrations and mysteries, all of 
@@ -386,7 +234,7 @@ than a rhetorical comparison to view culture sub specie ludi. The
 thought is not at all new. There was a time when it was generally 
 accepted, though in a limited sense quite different from the one 
 intended here: in the ryth century, the age of world theatre. 
-Drama, in a glittering succession of figures ranging from Shake¬ 
+Drama, in a glittering succession of figures ranging from Shake 
 speare and Calderon to Racine, then dominated the literature of 
 the West. It was the fashion to liken the world to a stage on which 
 every man plays his part. Does this mean that the play-element in 
@@ -402,7 +250,7 @@ that genuine, pure play is one of the main bases of civilisation.
 To our way of thinking, play is the direct opposite of seriousness. 
 At first sight this opposition seems as irreducible to other categories 
 as the play-concept itself. Examined more closely, however, the 
-contrast between play and seriousness proves to be neither con¬ 
+contrast between play and seriousness proves to be neither con 
 clusive nor fixed. We can say: play is non-seriousness. But apart 
 from the fact that this proposition tells us nothing about the 
 positive qualities of play, it is extraordinarily easy to refute. As 
@@ -417,7 +265,7 @@ heading “non-seriousness” yet have no correspondence whatever
 6 
 
 
-HOMO LUDENS 
+
 
 
 with “play”. Laughter, for instance, is in a sense the opposite of 
@@ -426,7 +274,7 @@ Children’s games, football, and chess are played in profound
 seriousness; the players have not the slightest inclination to laugh. 
 It is worth noting that the purely physiological act of laughing is 
 exclusive to man, whilst the significant function of play is common 
-to both men and animals. The Aristotelian animal ridens charac¬ 
+to both men and animals. The Aristotelian animal ridens charac 
 terizes man as distinct from the animal almost more absolutely 
 than homo sapiens. 
 
@@ -434,7 +282,7 @@ What is true of laughter is true also of the comic. The comic
 comes under the category of non-seriousness and has certain 
 affinities with laughter—it provokes to laughter. But its relation 
 to play is subsidiary. In itself play is not comical either for player 
-or public. The play of young animals or small children may some¬ 
+or public. The play of young animals or small children may some 
 times be ludicrous, but the sight of grown dogs chasing one another 
 hardly moves us to laughter. When we call a farce or a comedy 
 “comic”, it is not so much on account of the play-acting as such 
@@ -451,7 +299,7 @@ sense, until Erasmus in his Laos Stultitiae showed the inadequacy of
 the contrast. 
 
 All the terms in this loosely connected group of ideas—play, 
-laughter, folly, wit, jest, joke, the comic, etc.—share the charac¬ 
+laughter, folly, wit, jest, joke, the comic, etc.—share the charac 
 teristic which we had to attribute to play, namely, that of resisting 
 any attempt to reduce it to other terms. Their rationale and 
 their mutual relationships must lie in a very deep layer of our 
@@ -468,12 +316,11 @@ of vice and virtue do not apply here.
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 7 
 
 If, therefore, play cannot be directly referred to the categories 
 of truth or goodness, can it be included perhaps in the realm of the 
 aesthetic? Here our judgement wavers. For although the 
-attribute of beauty does not attach to play as such, play neverthe¬ 
+attribute of beauty does not attach to play as such, play neverthe 
 less tends to assume marked elements of beauty. Mirth and grace 
 adhere at the outset to the more primitive forms of play. In play 
 the beauty of the human body in motion reaches its zenith. In its 
@@ -481,7 +328,7 @@ more developed forms it is saturated with rhythm and harmony,
 the noblest gifts of aesthetic perception known to man. Many and 
 close are the links that connect play with beauty. All the same, 
 we cannot say that beauty is inherent in play as such; so we must 
-leave it at that: play is a function of the living, but is not suscept¬ 
+leave it at that: play is a function of the living, but is not suscept 
 ible of exact definition either logically, biologically, or aesthetically. 
 The play-concept must always remain distinct from all the other 
 forms of thought in which we express the structure of mental and 
@@ -497,16 +344,16 @@ more distinct and articulate in form and their features more
 various and conspicuous, whereas in interpreting primitive play we 
 immediately come up against that irreducible quality of pure 
 playfulness which is not, in our opinion, amenable to further 
-analysis. We shall have to speak of contests and races, of per¬ 
+analysis. We shall have to speak of contests and races, of per 
 formances and exhibitions, of dancing and music, pageants, 
 masquerades and tournaments. Some of the characteristics we 
 shall enumerate are proper to play in general, others to social play 
 in particular. 
 
 First and foremost, then, all play is a voluntary activity. Play 
-to order is no longer play: it could at best be but a forcible imita¬ 
+to order is no longer play: it could at best be but a forcible imita 
 tion of it. By this quality of freedom alone, play marks itself off 
-from the course of the natural process. It is something added there¬ 
+from the course of the natural process. It is something added there 
 to and spread out over it like a flowering, an ornament, a garment. 
 Obviously, freedom must be understood here in the wider sense 
 that leaves untouched the philosophical problem of determinism. 
@@ -518,7 +365,7 @@ and the child; they must play because their instinct drives them to
 8 
 
 
-HOMO LUDENS 
+
 
 
 it and because it serves to develop their bodily faculties and their 
@@ -531,14 +378,14 @@ freedom.
 Be that as it may, for the adult and responsible human being 
 play is a function which he could equally well leave alone. Play is 
 superfluous. The need for it is only urgent to the extent that the 
-enjoyment of it makes it a need. Play can be deferred or sus¬ 
+enjoyment of it makes it a need. Play can be deferred or sus 
 pended at any time. It is never imposed by physical necessity or 
 moral duty. It is never a task. It is done at leisure, during “free 
 time”. Only when play is a recognized cultural function—a rite, 
 a ceremony—is it bound up with notions of obligation and duty. 
 
 Here, then, we have the first main characteristic of play: that it 
-is free, is in fact freedom. A second characteristic is closely con¬ 
+is free, is in fact freedom. A second characteristic is closely con 
 nected with this, namely, that play is not “ordinary” or “real” 
 life. It is rather a stepping out of “real” life into a temporary 
 sphere of activity with a disposition all of its own. Every child 
@@ -557,9 +404,9 @@ prevent it from proceeding with the utmost seriousness, with an
 absorption, a devotion that passes into rapture and, temporarily 
 at least, completely abolishes that troublesome “only” feeling. 
 Any game can at any time wholly run away with the players. The 
-contrast between play and seriousness is always fluid. The in¬ 
+contrast between play and seriousness is always fluid. The in 
 feriority of play is continually being offset by the corresponding 
-superiority of its seriousness. Play turns to seriousness and serious¬ 
+superiority of its seriousness. Play turns to seriousness and serious 
 ness to play. Play may rise to heights of beauty and sublimity that 
 leave seriousness far beneath. Tricky questions such as these will 
 come up for discussion when we start examining the relationship 
@@ -567,7 +414,6 @@ between play and ritual.
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 9 
 
 As regards its formal characteristics, all students lay stress on 
 the disinterestedness of play. Not being “ordinary” life it stands 
@@ -576,7 +422,7 @@ it interrupts the appetitive process. It interpolates itself as a
 temporary activity satisfying in itself and ending there. Such at 
 least is the way in which play presents itself to us in the first 
 instance: as an intermezzo, an interlude in our daily lives. As a 
-regularly recurring relaxation, however, it becomes the accom¬ 
+regularly recurring relaxation, however, it becomes the accom 
 paniment, the complement, in fact an integral part of life in 
 general. It adorns life, amplifies it and is to that extent a necessity 
 both for the individual—as a life function—and for society by 
@@ -584,7 +430,7 @@ reason of the meaning it contains, its significance, its expressive
 value, its spiritual and social associations, in short, as a culture 
 function. The expression of it satisfies all kinds of communal 
 ideals. It thus has its place in a sphere superior to the strictly 
-biological processes of nutrition, reproduction and self-preserva¬ 
+biological processes of nutrition, reproduction and self-preserva 
 tion. This assertion is apparently contradicted by the fact that 
 play, or rather sexual display, is predominant in animal life 
 precisely at the mating-season. But would it be too absurd to 
@@ -596,14 +442,14 @@ festival and ritual—the sacred sphere.
 Now, does the fact that play is a necessity, that it subserves 
 culture, or indeed that it actually becomes culture, detract from 
 its disinterested character? No, for the purposes it serves are 
-external to immediate material interests or the individual satis¬ 
+external to immediate material interests or the individual satis 
 faction of biological needs. As a sacred activity play naturally 
 contributes to the well-being of the group, but in quite another 
 way and by other means than the acquisition of the necessities 
 of life. 
 
 Play is distinct from “ordinary” life both as to locality and 
-duration. This is the third main characteristic of play: its secluded¬ 
+duration. This is the third main characteristic of play: its secluded 
 ness, its limitedness. It is “played out” within certain limits of 
 time and place. It contains its own course and meaning. 
 
@@ -611,7 +457,7 @@ Play begins, and then at a certain moment it is “over”. It plays
 itself to an end. While it is in progress all is movement, change, 
 alternation, succession, association, separation. But immediately 
 connected with its limitation as to time there is a further curious 
-feature of play: it at once assumes fixed form as a cultural pheno¬ 
+feature of play: it at once assumes fixed form as a cultural pheno 
 menon, Once played, it endures as a new-found creation of the 
 
 
@@ -619,7 +465,7 @@ menon, Once played, it endures as a new-found creation of the
 10 
 
 
-HOMO LUDENS 
+
 
 
 mind, a treasure to be retained by the memory. It is transmitted, 
@@ -631,25 +477,25 @@ also of its inner structure. In nearly all the higher forms of play
 the elements of repetition and alternation (as in the refrain ), are 
 like the warp and woof of a fabric. 
 
-More striking even than the limitation as to time is the limita¬ 
-tion as to space. All play moves and has its being within a play¬ 
+More striking even than the limitation as to time is the limita 
+tion as to space. All play moves and has its being within a play 
 ground marked off beforehand either materially or ideally, 
 deliberately or as a matter of course. Just as there is no formal 
-difference between play and ritual, so the “consecrated spot” can¬ 
+difference between play and ritual, so the “consecrated spot” can 
 not be formally distinguished from the play-ground. The arena, 
 the card-table, the magic circle, the temple, the stage, the screen, 
 the tennis court, the court of justice, etc., are all in form and 
 function play-grounds, i.e. forbidden spots, isolated, hedged 
-round, hallowed, within which special rules obtain. All are tem¬ 
+round, hallowed, within which special rules obtain. All are tem 
 porary worlds within the ordinary world, dedicated to the 
 performance of an act apart. 
 
 Inside the play-ground an absolute and peculiar order reigns. 
 Here we come across another, very positive feature of play: it 
-creates order, is order. Into an imperfect world and into the con¬ 
+creates order, is order. Into an imperfect world and into the con 
 fusion of life it brings a temporary, a limited perfection. Play 
 demands order absolute and supreme. The least deviation from 
-it “spoils the game”, robs it of its character and makes it worth¬ 
+it “spoils the game”, robs it of its character and makes it worth 
 less. The profound affinity between play and order is perhaps the 
 reason why play, as we noted in passing, seems to lie to such a 
 large extent in the field of aesthetics. Play has a tendency to be 
@@ -658,7 +504,7 @@ impulse to create orderly form, which animates play in all its
 aspects. The words we use to denote the elements of play belong 
 for the most part to aesthetics, terms with which we try to describe 
 the effects of beauty: tension, poise, balance, contrast, variation, 
-solution, resolution, etc. Play casts a spell over us; it is “enchant¬ 
+solution, resolution, etc. Play casts a spell over us; it is “enchant 
 ing”, “captivating”. It is invested with the noblest qualities we 
 are capable of perceiving in things: rhythm and harmony. 
 
@@ -669,13 +515,12 @@ wants something to “go”, to “come off”; he wants to “succeed”
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY I I 
 
 by his own exertions. Baby reaching for a toy, pussy patting a 
 bobbin, a little girl playing ball—all want to achieve something 
 difficult, to succeed, to end a tension. Play is “tense”, as we say. 
 It is this element of tension and solution that governs all solitary 
-games of skill and application such as puzzles, jig-saws, mosaic¬ 
+games of skill and application such as puzzles, jig-saws, mosaic 
 making, patience, target-shooting, and the more play bears the 
 character of competition the more fervent it will be. In gambling 
 and athletics it is at its height. Though play as such is outside the 
@@ -720,10 +565,10 @@ of punishment. The spoil-sport breaks the magic world, therefore
 12 
 
 
-HOMO LUDENS 
 
 
-he is a coward and must be ejected. In the world of high serious¬ 
+
+he is a coward and must be ejected. In the world of high serious 
 ness, too, the cheat and the hypocrite have always had an easier 
 time of it than the spoil-sports, here called apostates, heretics, 
 innovators, prophets, conscientious objectors, etc. It sometimes 
@@ -740,7 +585,7 @@ of being “apart together” in an exceptional situation, of sharing
 something important, of mutually withdrawing from the rest of 
 the world and rejecting the usual norms, retains its magic beyond 
 the duration of the individual game. The club pertains to play 
-as the hat to the head. It would be rash to explain all the associa¬ 
+as the hat to the head. It would be rash to explain all the associa 
 tions which the anthropologist calls “phratria”—e.g. clans, 
 brotherhoods, etc.—simply as play-communities; nevertheless it 
 has been shown again and again how difficult it is to draw the 
@@ -769,10 +614,9 @@ well. Everything that pertains to saturnalia and carnival customs
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 13 
 
 belongs to it. Even with us a bygone age of robuster private 
-habits than ours, more marked class-privileges and a more com¬ 
+habits than ours, more marked class-privileges and a more com 
 plaisant police recognized the orgies of young men of rank under 
 the name of a “rag”. The saturnalian licence of young men still 
 survives, in fact, in the ragging at English universities, which the 
@@ -780,7 +624,7 @@ Oxford English Dictionary defines as “an extensive display of noisy
 and disorderly conduct carried out in defiance of authority and 
 discipline”. 
 
-The “differentness” and secrecy of play are most vividly ex¬ 
+The “differentness” and secrecy of play are most vividly ex 
 pressed in “dressing up”. Here the “extra-ordinary” nature of 
 play reaches perfection. The disguised or masked individual 
 “plays” another part, another being. He is another being. The 
@@ -801,7 +645,7 @@ means.
 
 The function of play in the higher forms which concern us here 
 can largely be derived from the two basic aspects under which we 
-meet it: as a contest for something or a representation of some¬ 
+meet it: as a contest for something or a representation of some 
 thing. These two functions can unite in such a way that the game 
 “represents” a contest, or else becomes a contest for the best 
 representation of something. 
@@ -813,7 +657,7 @@ plumage to the females, but the essential feature of it lies in the
 parading of something out of the ordinary and calculated to 
 arouse admiration. If the bird accompanies this exhibition with 
 dance-steps we have a performance, a stepping out of common 
-reality into a higher order. We are ignorant of the bird’s sensa¬ 
+reality into a higher order. We are ignorant of the bird’s sensa 
 tions while so engaged. We know, however, that in child-life 
 performances of this kind are full of imagination. The child is 
 
@@ -822,7 +666,7 @@ performances of this kind are full of imagination. The child is
 14 
 
 
-HOMO LUDENS 
+
 
 
 making an image of something different, something more beautiful, 
@@ -832,21 +676,21 @@ child is quite literally “beside himself” with delight, transported
 beyond himself to such an extent that he almost believes he 
 actually is such and such a thing,,without, however, wholly losing 
 consciousness of “ordinary reality”. His representation is not so 
-much a sham-reality as a realization in appearance: “imagina¬ 
+much a sham-reality as a realization in appearance: “imagina 
 tion” in the original sense of the word. 
 
 Passing now from children’s games to the sacred performances 
 in archaic culture we find that there is more of a mental element 
 “at play” in the latter, though it is excessively difficult to define. 
-The sacred performance is more than an actualization in appear¬ 
+The sacred performance is more than an actualization in appear 
 ance only, a sham reality; it is also more than a symbolical 
 actualization—it is a mystical one. In it, something invisible and 
 inactual takes beautiful, actual, holy form. The participants in 
 the rite are convinced that the action actualizes and effects a 
 definite beatification, brings about an order of things higher than 
-that in which they customarily live. All the same this “actualiza¬ 
+that in which they customarily live. All the same this “actualiza 
 tion by representation” still retains the formal characteristics of 
-play in every respect. It is played or performed within a play¬ 
+play in every respect. It is played or performed within a play 
 ground that is literally “staked out”, and played moreover as a 
 feast, i.e. in mirth and freedom. A sacred space, a temporarily 
 real world of its own, has been expressly hedged off for it But 
@@ -857,7 +701,7 @@ community until the sacred play-season comes round again.
 
 Examples can be taken from all over the world. According to 
 ancient Chinese lore the purpose of music and the dance is to 
-keep the world in its right course and to force Nature into bene¬ 
+keep the world in its right course and to force Nature into bene 
 volence towards man. The year’s prosperity will depend on the 
 right performance of sacred contests at the seasonal feasts. If these 
 gatherings do not take place the crops will not ripen. 1 
@@ -873,19 +717,18 @@ Chinese Civilization (Routledge).
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 
 
 
 15 
 
 
 process. The word “represents”, however, does not cover the 
-exact meaning of the act, at least not in its looser, modern con¬ 
+exact meaning of the act, at least not in its looser, modern con 
 notation; for here “representation” is really identification, the 
 mystic repetition or re-presentation of the event. The rite produces 
 the effect which is then not so much shown figuratively as actually 
 reproduced in the action. The function of the rite, therefore, is far 
-from being merely imitative; it causes the worshippers to par¬ 
+from being merely imitative; it causes the worshippers to par 
 ticipate in the sacred happening itself. As the Greeks would say, 
 “it is methectic rather than mimetic”. 1 It is “a helping-out of the 
 action”. 2 
@@ -896,7 +739,7 @@ The psychologist may seek to settle the matter by calling such
 performances an identification compensatrice, a kind of substitute, 
 “a representative act undertaken in view of the impossibility of 
 staging real, purposive action”. 3 Are the performers mocking, or 
-are they mocked? The business of the anthropologist is to under¬ 
+are they mocked? The business of the anthropologist is to under 
 stand the significance of these “imaginations” in the mind of the 
 peoples who practise and believe in them. 
 
@@ -912,11 +755,11 @@ element in archaic ritual.
 Ritual is thus in the main a matter of shows, representations, 
 dramatic performances, imaginative actualizations of a vicarious 
 nature. At the great seasonal festivals the community celebrates 
-the grand happenings in the life of nature by staging sacred per¬ 
+the grand happenings in the life of nature by staging sacred per 
 formances, which represent the change of seasons, the rising and 
 setting of the constellations, the growth and ripening of crops, 
 birth, life and death in man and beast. As Leo Frobenius puts it, 
-archaic man plays the order of nature as imprinted on his con¬ 
+archaic man plays the order of nature as imprinted on his con 
 sciousness. 4 In the remote past, so Frobenius thinks, man first 
 
 *Jane Harrison, Themis: A Study of the Social Origins of Greek Religion (Cambridge, 
@@ -932,7 +775,7 @@ Sinne des Kulturwerdens (Leipzig, 1932).
 
 
 
-1 6 HOMO LUDENS 
+1 6 
 
 assimilated the phenomena of vegetation and animal life and then 
 conceived an idea of time and space, of months and seasons, of 
@@ -956,9 +799,9 @@ consciousness? What are we to make of a mental process that
 begins with an unexpressed experience of cosmic phenomena and 
 ends in an imaginative rendering of them in play? 
 
-Frobenius is right to discard the facile hypothesis which con¬ 
+Frobenius is right to discard the facile hypothesis which con 
 tents itself with hypothecating an innate “play instinct”. The 
-term “instinct”, he says, is “a makeshift, an admission of helpless¬ 
+term “instinct”, he says, is “a makeshift, an admission of helpless 
 ness before the problem of reality”. 1 Equally explicitly and for 
 even better reasons he rejects as a vestige of obsolete thinking the 
 tendency to explain every advance in culture in terms of a 
@@ -983,13 +826,12 @@ leads him to represent his emotion in an act.” So that according
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 
 
 
 17 
 
 
-lo him we are dealing with a necessary mental process of trans¬ 
+lo him we are dealing with a necessary mental process of trans 
 formation. The thrill, the “being seized” by the phenomena of 
 life and nature is condensed by reflex action, as it were, to poetic 
 expression and art. It is difficult to describe the process of creative 
@@ -1009,7 +851,7 @@ it about. A quasi-rationalistic element irresistibly creeps in. For
 Frobenius, play and representation have their raison d’etre after 
 all, in the expression of something else, namely, the “being seized” 
 by a cosmic event. But the very fact that the dramatization is 
-played is, apparently, of secondary importance for him. Theoretic¬ 
+played is, apparently, of secondary importance for him. Theoretic 
 ally at least, the emotion could have been communicated in some 
 other way. In our view, on the contrary, the whole point is the 
 playing. Such ritual play is essentially no different from one of the 
@@ -1035,7 +877,7 @@ order of things finds its first, highest, and holiest expression.
 
 
 
-1 8 HOMO LUDENS 
+1 8 
 
 Gradually the significance of a sacred act permeates the playing. 
 Ritual grafts itself upon it; but the primary thing is and remains 
@@ -1066,14 +908,14 @@ priest performing the rites of sacrifice is only playing? At first
 sight it seems preposterous, for if you grant it for one religion you 
 must grant it for all. Hence our ideas of ritual, magic, liturgy, 
 sacrament and mystery would all fall within the play-concept. In 
-dealing with abstractions we must always guard against over¬ 
+dealing with abstractions we must always guard against over 
 straining their significance. We would merely be playing with 
 words were we to stretch the play-concept unduly. But, all things 
 considered, I do not think we are falling into that error when we 
 characterize ritual as play. The ritual act has all the formal and 
 essential characteristics of play which we enumerated above, 
 particularly in so far as it transports the participants to another 
-world. This identity of ritual and play was unreservedly recog¬ 
+world. This identity of ritual and play was unreservedly recog 
 nized by Plato as a given fact. He had no hesitation in comprising 
 the sacra in the category of play. “I say that a man must be 
 serious with the serious,” he says {Laws, vii, 803). “God alone is 
@@ -1082,7 +924,6 @@ and that is the best part of him. Therefore every man and woman
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 19 
 
 should live life accordingly, and play the noblest games and be of 
 another mind from what they are at present. . . . For they deem 
@@ -1124,7 +965,7 @@ was its spatial separation from ordinary life. A closed space is
 marked out for it, either materially or ideally, hedged off from the 
 everyday surroundings. Inside this space the play proceeds, inside 
 it the rules obtain. Now, the marking out of some sacred spot is 
-also the primary characteristic of every sacred act. This require¬ 
+also the primary characteristic of every sacred act. This require 
 ment of isolation for ritual, including magic and law, is much 
 
 1 Cf. Laws , vii, 796, where Plato speaks of the sacred dances of the Kouretes of 
@@ -1135,7 +976,7 @@ Crete, calling them iv 6 ir\ia walyvia .
 20 
 
 
-HOMO LUDENS 
+
 
 
 more than merely spatial and temporal. Nearly all rites of 
@@ -1149,16 +990,16 @@ sacred space. Sacrament and mystery presuppose a hallowed spot.
 
 Formally speaking, there is no distinction whatever between 
 marking out a space for a sacred purpose and marking it out for 
-purposes of sheer play. The turf, the tennis-court, the chess¬ 
+purposes of sheer play. The turf, the tennis-court, the chess 
 board and pavement-hopscotch cannot formally be distinguished 
 from the temple or the magic circle. The striking similarity 
 between sacrificial rites all over the earth shows that such customs 
 must be rooted in a very fundamental, an aboriginal layer of the 
 human mind. As a rule people reduce this over-all congruity of 
-cultural forms to some “reasonable”, “logical” cause by explain¬ 
+cultural forms to some “reasonable”, “logical” cause by explain 
 ing the need for isolation and seclusion as an anxiety to protect the 
 consecrated individual from noxious influences—because, in his 
-consecrated state, he is particularly exposed to the malign work¬ 
+consecrated state, he is particularly exposed to the malign work 
 ings of ghosts, besides being himself a danger to his surroundings. 
 Such an explanation puts intellection and utilitarian purpose at 
 the beginning of the cultural process: the very thing Frobenius 
@@ -1180,12 +1021,11 @@ knowledge, asked this question.
 
 Needless to say, the mental attitude in which a community 
 performs and experiences its sacred rites is one of high and holy 
-earnest. But let it be emphasized again that genuine and spon¬ 
+earnest. But let it be emphasized again that genuine and spon 
 taneous play can also be profoundly serious. The player can 
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 
 
 
 21 
@@ -1220,7 +1060,7 @@ mood in general and the holy frenzy surrounding the central
 mystery. 
 
 Almost simultaneously with the appearance of the Dutch 
-edition of this book the Hungarian scholar Karl Kerenyi pub¬ 
+edition of this book the Hungarian scholar Karl Kerenyi pub 
 lished a treatise on the nature of the festival which has the closest 
 ties with our theme . 1 According to Kerenyi, the festival too has 
 that character of primacy and absolute independence which we 
@@ -1228,8 +1068,8 @@ predicated of play. “Among the psychic realities,” he says, “the
 feast is a thing in itself, not to be confused with anything else in 
 the world.” Just as we thought the play-concept somewhat 
 negligently treated by the anthropologist, so in his view is the 
-feast. “The phenomenon of the feast appears to have been com¬ 
-pletely passed over by the ethnologist.” “For all science is con¬ 
+feast. “The phenomenon of the feast appears to have been com 
+pletely passed over by the ethnologist.” “For all science is con 
 cerned it might not exist at all.” Neither might play, we would 
 like to add. 
 
@@ -1245,7 +1085,7 @@ In the very nature of things the relationship between feast and
 22 
 
 
-HOMO LUDENS 
+
 
 
 play is very close. Both proclaim a standstill to ordinary life. In 
@@ -1272,7 +1112,7 @@ If we confine ourselves to the sacred rites in archaic culture it
 is not impossible to adumbrate the degree of seriousness with 
 which they are performed. As far as I know, ethnologists and 
 anthropologists concur in the opinion that the mental attitude in 
-which the great religious feasts of savages are celebrated and wit¬ 
+which the great religious feasts of savages are celebrated and wit 
 nessed is not one of complete illusion. There is an underlying 
 consciousness of things “not being real”. A vivid picture of this 
 attitude is given by Ad. E. Jensen in his book on the circumcision 
@@ -1283,7 +1123,7 @@ wonder, seeing that these same men have had the staging of the
 whole ceremony: they have carved and decorated the masks, wear 
 them themselves and after use conceal them from the women. 
 They make the noises heralding the appearance of the ghosts, they 
-trace their footprints in the sand, they blow the flutes that repre¬ 
+trace their footprints in the sand, they blow the flutes that repre 
 sent the voices of the ancestors, and brandish the bull-roarers. In 
 short, says Jensen, “their position is much like that of parents 
 playing Santa Claus for their children: they know of the mask, but 
@@ -1295,7 +1135,6 @@ neophytes alternates between ecstasy, feigned madness, flesh-
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 23 
 
 creeping and boyish swagger. Nor, in the last resort, are the 
 women wholly duped. They know perfectly well who is hiding 
@@ -1316,7 +1155,7 @@ surprised him whilst carving things for a tribal ceremony . 1 The
 unstable nature of religious feeling among the Loango negroes is 
 described by Pechuel-Loesche in terms similar to those used by 
 Jensen. Their belief in the sanctities is a sort of half-belief, and 
-goes with scoffing and pretended indifference. The really im¬ 
+goes with scoffing and pretended indifference. The really im 
 portant thing is the mood , he concludes by saying . 2 R. R. Marett, 
 in his chapter on “Primitive Credulity” in The Threshold of 
 Religion , develops the idea that a certain element of “make- 
@@ -1327,7 +1166,7 @@ be quite absorbed in his role, like a child at play; and, also like a
 child, a good spectator who can be frightened to death by the 
 roaring of something he knows perfectly well to be no ‘real’ lion.” 
 The native, says Malinowski, feels and fears his belief rather than 
-formulates it clearly to himself . 3 He uses certain terms and ex¬ 
+formulates it clearly to himself . 3 He uses certain terms and ex 
 pressions, and these we must collect as documents of belief just as 
 they are, without working them up into a consistent theory. The 
 behaviour of those to whom the savage community attributes 
@@ -1352,7 +1191,7 @@ l Ibid. p. 240.
 24 
 
 
-HOMO LUDENS 
+
 
 
 still warn against drawing the inference that the whole system of 
@@ -1390,7 +1229,7 @@ savage mind “quite another thing” from that in the child-mind,
 he is speaking of the originators of the ritual on the one hand and 
 of the child of to-day on the other. But we know nothing of these 
 originators. All we can study is a ritualistic community which 
-receives its religious imagery as traditional material just as “ready¬ 
+receives its religious imagery as traditional material just as “ready 
 made” as the child does, and responds to it similarly. Secondly, 
 even if we ignore this, the process of “interpreting” the natural 
 surroundings, of “grasping” them and “representing” them in a 
@@ -1401,7 +1240,6 @@ It is only by fanciful metaphors that Frobenius and Jensen force
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 
 
 
 an approach to it. The most we can say of the function that is 
@@ -1434,7 +1272,7 @@ however, knows nothing of the conceptual distinctions between
 “being” and “playing”; he knows nothing of “identity”, “image” 
 or “symbol”. Hence it remains an open question whether we do 
 not come nearest to the mental attitude of the savage performing 
-a ritual act, by adhering to this primary, universally understand¬ 
+a ritual act, by adhering to this primary, universally understand 
 able term “play”. In play as we conceive it the distinction between 
 belief and make-believe breaks down. The concept of play merges 
 quite naturally with that of holiness. Any Prelude of Bach, any 
@@ -1444,7 +1282,7 @@ more direct and more general understanding of its peculiarities
 than any meticulous psychological or sociological analysis would 
 allow. 
 
-Primitive, or let us say, archaic ritual is thus sacred play, indis¬ 
+Primitive, or let us say, archaic ritual is thus sacred play, indis 
 pensable for the well-being of the community, fecund of cosmic 
 insight and social development but always play in the sense Plato 
 
@@ -1453,7 +1291,7 @@ insight and social development but always play in the sense Plato
 26 
 
 
-HOMO LUDENS 
+
 
 
 gave to it—an action accomplishing itself outside and above the 
@@ -1500,7 +1338,6 @@ the Platonic definition of play there is nothing preposterous or
 
 
 
-NATURE AND SIGNIFICANCE OF PLAY 27 
 
 irreverent in doing so. Play consecrated to the Deity, the highest 
 goal of man’s endeavour—such was Plato’s conception of religion. 
@@ -1510,13 +1347,7 @@ logical understanding. The ritual act, or an important part of it,
 will always remain within the play category, but in this seeming 
 subordination the recognition of its holiness is not lost. 
 
-
-
-II 
-
-
-THE PLAY-CONCEPT AS EXPRESSED IN 
-LANGUAGE 
+## The Play-Concept as Expressed in Language
 
 When speaking of play as something known to all, and when 
 trying to analyse or define the idea expressed in that word, we 
@@ -1525,13 +1356,13 @@ and perhaps limited by the word we use for it. Word and idea
 are not born of scientific or logical thinking but of creative 
 language, which means of innumerable languages—for this act 
 of “conception” has taken place over and over again. Nobody 
-will expect that every language, in forming its idea of and ex¬ 
+will expect that every language, in forming its idea of and ex 
 pression for play, could have hit on the same idea or found a single 
 word for it, in the way that every language has one definite word 
 for “hand” $r “foot”. The matter is not as simple as that. 
 
 We can only start from the play-concept that is common to us, 
-i.e. the one covered, with slight variations, by the words cor¬ 
+i.e. the one covered, with slight variations, by the words cor 
 responding to the English word “play” in most modern European 
 languages. Such a concept, we felt, seemed to be tolerably well 
 defined in the following terms: play is a voluntary activity or 
@@ -1546,9 +1377,9 @@ exhibitions and performances of all kinds. We ventured to call the
 category “play” one of the most fundamental in life. 
 
 Now it appears at once that a general play-category has not 
-been distinguished with equal definiteness by all languages every¬ 
+been distinguished with equal definiteness by all languages every 
 where, nor expressed in one word. All peoples play, and play 
-remarkably alike; but their languages differ widely in their con¬ 
+remarkably alike; but their languages differ widely in their con 
 ception of play, conceiving it neither as distinctly nor as broadly 
 as modern European languages do. From a nominalist point of 
 view we might deny the validity of a general concept and say that 
@@ -1558,7 +1389,6 @@ for every human group the concept “play” contains just what is
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 2g 
 
 expressed in the word—or rather words. For it is arguable that 
 one language has succeeded better than others in getting the 
@@ -1567,7 +1397,7 @@ to be the case. One culture has abstracted a general notion of
 play much earlier and more completely than another, with the 
 curious result that there are highly developed languages which 
 have retained totally different words for the various play-forms 
-and that this multiplicity of terms has itself impeded the aggrega¬ 
+and that this multiplicity of terms has itself impeded the aggrega 
 tion of all the forms under one head. One is reminded here of the 
 well-known fact that some of the so-called primitive languages 
 have words for the different species of a common genus, as for eel 
@@ -1590,7 +1420,7 @@ expressions for the play-activity. I think this is more or less true
 of Greek, Sanskrit, Chinese and English. Greek possesses a 
 curious and specific expression for children’s games in the ending 
 -inda. In themselves the syllables do not signify anything; they 
-merely give to any word the connotation of “playing at some¬ 
+merely give to any word the connotation of “playing at some 
 thing”. -inda is an indeclinable and, linguistically speaking, 
 underivable suffix. 2 Greek children played sphairinda —at ball; 
 helkustinda —tug o’ war; streptinda —a throwing game; basilinda — 
@@ -1613,12 +1443,12 @@ kv\Iv3u), both in the sense of “revolving”, variants of dXiw and kv\Iu. The 
 30 
 
 
-HOMO LUDENS 
+
 
 
 general. First of all: rratSta, the most familiar of the three. Its 
 etymology is obvious; it means “of or pertaining to the child”, but 
-is immediately distinguished by its accent from 7rat§ta—childish¬ 
+is immediately distinguished by its accent from 7rat§ta—childish 
 ness. The use of 7rat§ia, however, is not by any means restricted 
 to children’s games. With its derivates 7rat£stv, to play, 7raty[ia, 
 mxtyvtov, a toy, it serves to denote all kinds of play, even the 
@@ -1663,7 +1493,6 @@ to my rectoral address on “The Borderline between Play and Seriousness in Cult
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 31 
 
 book. Despite my admiration for Professor Bolkestein’s lasting 
 and lucid interpretation of Greek culture, and despite the fact that 
@@ -1714,28 +1543,28 @@ the drift of his argument has been re-constructed without undue distortion. Tran
 32 
 
 
-HOMO LUDENS 
+
 
 
 casting; but there is a further connection with shining and 
-radiance. 1 Then, the root las (whence vilasa ) combines the mean¬ 
+radiance. 1 Then, the root las (whence vilasa ) combines the mean 
 ings of shining, sudden appearance, sudden noise, blazing up, 
 moving to and fro, playing and “pursuing” an occupation (as in 
 the German “etwas treiben”). Lastly, the noun lila, with its 
 denominative verb lilayati (the primary sense of which is probably 
-rocking, swinging), expresses all the light, aerial, frivolous, effort¬ 
+rocking, swinging), expresses all the light, aerial, frivolous, effort 
 less and insignificant sides of playing. Over and above this, 
 however, lila is used in the sense of “as if”, to denote “seeming”, 
 “imitation”, the “appearance” of things, as in the English “like”, 
 “likeness” or German “gleich”, “Gleichnis”. Thus gajalilaya 
 (literally: “with elephant play”) means “like an elephant”; 
-gajendralila (literally: “elephant-play-man”) means a man repre¬ 
-senting an elephant or playing the elephant. In all these de¬ 
+gajendralila (literally: “elephant-play-man”) means a man repre 
+senting an elephant or playing the elephant. In all these de 
 nominations of play the semantic starting-point seems to be the 
 idea of rapid movement—a connection found in many other 
 languages. This is not to say, of course, that in the beginning the 
 words denoted rapid movement exclusively and were only later 
-applied to play. To my knowledge, the contest as such is not ex¬ 
+applied to play. To my knowledge, the contest as such is not ex 
 pressed by any of the play-words in Sanskrit; oddly enough there 
 is no specific word for it, although contests of the most various 
 kinds were common in Ancient India. 
@@ -1753,7 +1582,7 @@ Hence the semantic starting-point would seem to be “handling
 something with playful attention”, or “to be lightly engrossed”. 
 The word is not used for games of skill, contests, gambling or 
 theatrical performances. For this, for orderly dramatic play, 
-Chinese has words which belong to the conceptual field of “posi¬ 
+Chinese has words which belong to the conceptual field of “posi 
 tion”, “situation”, “arrangement”. Anything to do with contests 
 is expressed by the special word cheng, the perfect equivalent of 
 the Greek agon', apart from which sai denotes an organized contest 
@@ -1763,7 +1592,6 @@ J We must leave to one side a possible connection with dyu —the clear sky.
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 33 
 
 To Professor Uhlenbeck, my former colleague at Leyden, I am 
 indebted for examples showing how the play-concept is expressed 
@@ -1806,7 +1634,7 @@ Sanskrit and Chinese, while Blackfoot draws the line slightly
 differently. Should we therefore incline after all to Professor 
 Bolkestein’s opinion that this linguistic division corresponds to a 
 deep-seated sociological, psychological and biological difference 
-between play and contest? Not only does the whole of the anthro¬ 
+between play and contest? Not only does the whole of the anthro 
 pological material to be expounded hereafter, militate against 
 
 
@@ -1841,7 +1669,7 @@ sense of school. It can also mean jugglery, i.e. a sham-fight, but
 not the contest as such: here again there is another if slightly 
 different demarcation between contest and play. Lastly, asobu 
 is the word used for those Japanese aesthetic tea-parties where 
-ceramics are passed admiringly from hand to hand amid utter¬ 
+ceramics are passed admiringly from hand to hand amid utter 
 ances of approbation. Associations with rapid movement, shining 
 and jesting seem to be lacking here. 
 
@@ -1864,7 +1692,6 @@ technical term.
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 35 
 
 hear that your father has played dying”. In other words, the 
 revered person is imagined as living in an elevated sphere where 
@@ -1882,13 +1709,13 @@ the ritual act performed in devotion.
 In Semitic languages the semantic field of play, as my late friend 
 Professor Wensinck informed me, is dominated by the root la’ab, 
 obviously cognate with la’at. Here, however, apart from meaning 
-play in its proper sense, the word also means laughing and mock¬ 
+play in its proper sense, the word also means laughing and mock 
 ing. The Arabic la’iba covers playing in general, making mock of, 
 and teasing. In Aramaic la’ab means laughing and mocking. 
 Besides this,'fin Arabic and Syriac the same root serves for the 
 dribbling and drooling of a baby (to be understood, perhaps, from 
 its habit of blowing bubbles with spit, which can confidently be 
-taken as a form of play). The Hebrew sahaq also associates laugh¬ 
+taken as a form of play). The Hebrew sahaq also associates laugh 
 ing and playing. Lastly, it is worth noting that la’iba in Arabic is 
 used for the “playing” of a musical instrument, as in some modern 
 European languages. In Semitic languages, therefore, the play- 
@@ -1897,7 +1724,7 @@ character than in the ones we have examined so far. As we shall
 see, Hebrew affords striking evidence of the identity between the 
 agonistic and the play principle. 
 
-In remarkable contrast to Greek with its changing and hetero¬ 
+In remarkable contrast to Greek with its changing and hetero 
 geneous terms for the play-function, Latin has really only one 
 word to cover the whole field of play: Indus , from ludere, of which 
 lusus is a direct derivative. We should observe that jocus, jocari 
@@ -1908,12 +1735,12 @@ etymology does not appear to lie in the sphere of rapid movement,
 flashing, etc., but in that of non-seriousness, and particularly of 
 “semblance” or “deception”. Ludus covers children’s games, 
 recreation, contests, liturgical and theatrical representations, and 
-games of chance. In the expression lares ludentes it means “danc¬ 
+games of chance. In the expression lares ludentes it means “danc 
 ing”. The idea of “feigning” or “taking on the semblance of” 
 
 
 
-HOMO LUDENS 
+
 
 
 36 
@@ -1928,7 +1755,7 @@ instance is the contest, in the second—probably—it is “practice”.
 It is remarkable that ludus, as the general term for play, has not 
 only not passed into the Romance languages but has left hardly 
 any traces there, so far as I can see. In all of them—and this 
-necessarily means at a quite early period— ludus has been sup¬ 
+necessarily means at a quite early period— ludus has been sup 
 planted by a derivative of jocus, which extended its specific sense of 
 joking and jesting to “play” in general. Thus French has jeu, 
 jouer; Italian gioco, giocare; Spanish juego, jugar, Portuguese jo go, 
@@ -1942,7 +1769,7 @@ wide field. As we saw, in both the Romance and the Germanic
 languages we find it spread out over various groups of concepts 
 dealing with movement or action which have nothing to do with 
 play in the strict or formal sense of the term. Thus, for instance, 
-“play” as applied to the limited mobility of the parts of a mechan¬ 
+“play” as applied to the limited mobility of the parts of a mechan 
 ism is common to French, Italian, English, Spanish, German and 
 Dutch; also, as we noted above, to Japanese. The play-concept 
 would seem to be covering an ever wider field much larger than 
@@ -1966,20 +1793,19 @@ there is no word for play; but from the translation of Mark x, 34:
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 37 
 
 xou e(j.7roa£ouaiv ocutw (“and they will mock him”) by the words 
 jah bilaikand ina, it is tolerably certain that Gothic expressed play 
 by the same laikan which has fathered the ordinary word for play 
 in the Scandinavian languages, and which also appears in this 
 sense in Old English and in High and Low German. In the 
-Gothic texts themselves laikan only occurs in the sense of “leap¬ 
+Gothic texts themselves laikan only occurs in the sense of “leap 
 ing”. As we have seen before, rapid movement must be regarded 
 as the concrete starting-point of many play-words. We recall 
 Plato’s conjecture that the origin of play lies in the need of all 
 young creatures, animal and human, to leap {Laws, ii, 653). Thus 
 in Grimm’s German Dictionary the original meaning of the High 
-German substantive leich is given as “a lively rhythmical move¬ 
+German substantive leich is given as “a lively rhythmical move 
 ment”, its further significations lying wholly in the play-sphere; 
 while the Anglo-Saxon lacan is given in the concrete sense of “to 
 swing, to wave about” like a ship on the waves, or to “flutter” like 
@@ -2008,14 +1834,14 @@ or Morris-dancing, or woodwork:—you “play” it.
 Another significant point is this. No matter what language we 
 think in we have a constant tendency to tone down the idea of play 
 to a merely general activity connected with play proper only by 
-one of its various attributes, such as lightness, tension and uncer¬ 
+one of its various attributes, such as lightness, tension and uncer 
 tainty as to the outcome, orderly alternation, free choice, etc. 
 
 ’See below. 
 
 
 
-HOMO LUDENS 
+
 
 
 38 
@@ -2050,9 +1876,9 @@ somebody else” or “to take another’s place”, vicem gerere. It is
 used for instance of the ram which was offered up in the 
 place of Isaac. This connotation, though proper also to “play” 
 in the sense of “playing a part”, is not the primary one. We must 
-leave aside the question of how far spelian is grammatically con¬ 
+leave aside the question of how far spelian is grammatically con 
 nected with the German “spielen”, and abstain from discussing 
-the relationship between “Spiel” and the English “spell”, “gos¬ 
+the relationship between “Spiel” and the English “spell”, “gos 
 pel”. The ending -spiel as in the German “Beispiel” or 
 “Kirchspiel” and the Dutch kerspel, dingspel (an old judiciary 
 district) is usually derived from the same root as the above 
@@ -2066,7 +1892,6 @@ playing on a musical instrument and all kinds of bodily activity.
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 39 
 
 Later English still preserves much of this wider significance, e.g. 
 in Shakespeare’s Richard the Third, Act IV: 
@@ -2085,7 +1910,7 @@ abstract sense which is not that of play. The oldest meaning is
 to danger for someone or something”. 1 Next comes “to bind or 
 engage oneself ( sich verpjlichten), to attend to, take care of 
 (verpflegen)”. The German pjlegen is also used in connection with 
-the performance of a sacred act, the giving of advice, the adminis¬ 
+the performance of a sacred act, the giving of advice, the adminis 
 tration of justice (Rechtspjlege) , and in other Germanic languages 
 you can “pflegen” homage, thanks, oaths, mourning, work, love, 
 sorcery and—lastly but rarely—even “play”. 2 Hence the word 
@@ -2125,7 +1950,7 @@ Plegen can here be understood unhesitatingly as play.
 
 
 
-HOMO LUDENS 
+
 
 
 40 
@@ -2133,7 +1958,7 @@ HOMO LUDENS
 English plight) - 1 While the Dutch and German words mean “duty” 
 and hardly anything else, pliht means primarily “peril”, 
 secondarily “offence”, “fault”, “blame”, and finally “pledge”, 
-“engagement”. The verb plihtan has the sense of “exposing one¬ 
+“engagement”. The verb plihtan has the sense of “exposing one 
 self to danger”, “to compromise”, “to oblige”. As to pledge, 
 Mediaeval Latin formed the word plegium from the Germanic 
 plegan; and plegium in its turn became the Old French pleige — 
@@ -2150,13 +1975,13 @@ something is at stake. One is tempted to conclude that the words
 play and pflegen together with their derivatives are not only formally 
 but semantically identical. 
 
-This brings us back to the relationship between play and con¬ 
+This brings us back to the relationship between play and con 
 test, and contest and strife in the more general sense. In all 
 Germanic languages and in many others besides, play-terms are 
 regularly applied to armed strife as well. Anglo-Saxon poetry— 
 to limit ourselves to but one example—is full of such terms and 
 phrases. Armed strife, or battle, is called heado-lac or beadu-lac, 
-literally “battle-play”; or asc-plega, “spear-play”. In these com¬ 
+literally “battle-play”; or asc-plega, “spear-play”. In these com 
 pounds we are dealing without a doubt with poetic metaphors, a 
 fully conscious transfer of the play-concept to the battle-concept. 
 The same is true, if less obviously, of the line “Spilodun ther 
@@ -2166,11 +1991,11 @@ of West Francia, Ludwig III, over the Norsemen at Saucourt in
 881. All the same it would be rash to assert that every use of the 
 word “play” in connection with serious strife is nothing but poetic 
 licence. We have to feel our way into the archaic sphere of 
-thought, where serious combat with weapons and all kinds of con¬ 
+thought, where serious combat with weapons and all kinds of con 
 tests ranging from the most trifling games to bloody and mortal 
 strife were comprised, together with play proper, in the single 
 
-Presumably “plight” in the sense of “pledge”, since “plight” meaning “predica¬ 
+Presumably “plight” in the sense of “pledge”, since “plight” meaning “predica 
 ment” is held to be an erroneous spelling. Huizinga’s own note in this place runs: Gf. 
 pleoh, Old Frisian ple =danger [Trans.]. 
 
@@ -2179,7 +2004,6 @@ certaminis, certamen.
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 41 
 
 fundamental idea of a struggle with fate limited by certain rules. 
 Seen in this way, the application of the word “play” to battle can 
@@ -2205,14 +2029,14 @@ here a form of the verb sahaq, meaning primarily “to laugh”, next
 gint the wording is as follows: a.vaffTV]TMcjav 84 to 7rat8dpta xal 
 7tai£dxcoffav evto7uov 7 ](acov. It is clear that there can be no 
 question of poetic licence; the plain fact is that play may be deadly 
-yet still remain play—which is all the more reason for not separat¬ 
+yet still remain play—which is all the more reason for not separat 
 ing play and contest as concepts. 1 A further conclusion emerges 
 from this. Given the indivisibility of play and battle in the archaic 
 mind, the assimilation of hunting to play naturally follows. We 
 find it everywhere in language and literature and there is no need 
 to dwell upon it here. 
 
-When treating of the root of the word “play” ( pflegen ) we dis¬ 
+When treating of the root of the word “play” ( pflegen ) we dis 
 covered that the play-term can occur in the sphere of ceremonial. 
 This is particularly the case with the common Dutch word for 
 marriage— huwelijk —which still reflects the Middle Low Dutch 
@@ -2231,7 +2055,7 @@ called leika in the Gyfaginning,
 42 
 
 
-HOMO LUDENS 
+
 
 
 favour, even liberality, bounty. The starting-point of this rather 
@@ -2240,14 +2064,14 @@ ecgalac and sveorda-lac, sword-dance; hence, according to Grimm,
 in the concept of a solemn, sacrificial dance. 1 
 
 Before concluding our linguistic survey of the play-concept we 
-must discuss some special applications of the word “play”, par¬ 
+must discuss some special applications of the word “play”, par 
 ticularly the use of it in the handling of musical instruments. We 
 mentioned earlier that the Arabic la’iba bears this sense in common 
 with a number of European languages, namely the Germanic (and 
 some of the Slavonic) which, as far back as their mediaeval phase, 
 designate instrumental skill by the word “play”. 2 Of the Romance 
 languages it appears that only French has jeu and jouer in this 
-sense, which might be taken as an indication of Germanic in¬ 
+sense, which might be taken as an indication of Germanic in 
 fluence; while Italian uses sonare, and Spanish tocar. Neither Greek 
 nor Latin has it at all. The fact that “Spielmann” in German 
 (“Speelman” in Dutch) has taken on the connotation “musician” 
@@ -2262,16 +2086,16 @@ It is quite natural that we should tend to conceive music as
 lying within the sphere of play, even apart from these special 
 linguistic instances. Making music bears at the outset all the 
 formal characteristics of play proper: the activity begins and ends 
-within strict limits of time and place, is repeatable, consists essen¬ 
+within strict limits of time and place, is repeatable, consists essen 
 tially in order, rhythm, alternation, transports audience and 
 performers alike out of “ordinary” life into a sphere of gladness 
 and serenity, which makes even sad music a lofty pleasure. In 
 other words, it “enchants” and “enraptures” them. In itself it 
 would be perfectly understandable, therefore, to comprise all 
-music under the heading of play. Yet we know that play is some¬ 
+music under the heading of play. Yet we know that play is some 
 thing different, standing on its own. Further, bearing in mind 
-that the term “playing” is never applied to singing, and to music¬ 
-making only in certain languages, it seems probable that the con¬ 
+that the term “playing” is never applied to singing, and to music 
+making only in certain languages, it seems probable that the con 
 necting link between play and instrumental skill is to be sought in 
 the nimble and orderly movements of the fingers. 
 
@@ -2283,7 +2107,6 @@ playing of instruments), The latter has probably been taken over from Dutch,
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 43 
 
 There is yet another use of the word “play” which is just as 
 widespread and just as fundamental as the equation of play with 
@@ -2297,8 +2120,8 @@ the act of copulation. In the German words “Laich” and
 (coupling of birds), and in the English “lechery” the old 
 Germanic root leik, leikan still persists. Similar applications hold 
 good in Sanskrit, where kridati (play) is frequently used in the 
-erotic sense: e.g. krldaratnam (“the jewel of games”) means copula¬ 
-tion. Professor Buytendijk therefore calls love-play the most per¬ 
+erotic sense: e.g. krldaratnam (“the jewel of games”) means copula 
+tion. Professor Buytendijk therefore calls love-play the most per 
 fect example of all play, exhibiting the essential features of play in 
 the clearest form. 1 But we must be more particular. If we stick 
 to the formal and functional characteristics of play as summed up 
@@ -2333,7 +2156,7 @@ between playing and fighting, we feel compelled to regard the
 44 
 
 
-HOMO LUDENS 
+
 
 
 erotic use of the play-term, universally accepted and obvious 
@@ -2343,7 +2166,7 @@ The conceptual value of a word is always conditioned by the
 word which expresses its opposite. For us, the opposite of play is 
 earnest, also used in the more special sense of work', while the 
 opposite of earnest can either be play or jesting, joking. However, 
-the complementary pair of opposites play-earnest is the more im¬ 
+the complementary pair of opposites play-earnest is the more im 
 portant. Not every language expresses the contrast as simply or as 
 completely as the Germanic group, where the equivalent of 
 “earnest” is found in German and Dutch, while the Scandinavian 
@@ -2375,14 +2198,13 @@ We can say, perhaps, that in language the play-concept seems
 to be much more fundamental than its opposite. The need for a 
 comprehensive term expressing “not-play” must have been rather 
 feeble, and the various expressions for “seriousness” are but a 
-secondary attempt on the part of language to invent the con¬ 
+secondary attempt on the part of language to invent the con 
 ceptual opposite of “play”. They are grouped round the ideas of 
-“zeal”, “exertion”, “painstaking”, despite the fact that in them¬ 
+“zeal”, “exertion”, “painstaking”, despite the fact that in them 
 selves all these qualities may be found associated with play as well. 
 
 
 
-THE PLAY-CONCEPT AS EXPRESSED IN LANGUAGE 45 
 
 The appearance of a term for “earnest” means that people have 
 become conscious of the play-concept as an independent entity— 
@@ -2402,13 +2224,7 @@ serious”. Play is a thing by itself. The play-concept as such is of
 a higher order than is seriousness. For seriousness seeks to 
 exclude play, whereas play can very well include seriousness. 
 
-
-
-Ill 
-
-
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 
-
+## Play and Contest as Civilizing Function
 
 When speaking of the play-element in culture we do not mean 
 that among the various activities of civilized life an important 
@@ -2426,23 +2242,23 @@ playing that society expresses its interpretation of life and the
 world. By this we do not mean that play turns into culture, rather 
 that in its earliest phases culture has the play-character, that it 
 proceeds in the shape and the mood of play. In the twin union 
-of play and culture, play is primary. It is an objectively recogniz¬ 
+of play and culture, play is primary. It is an objectively recogniz 
 able, a concretely definable thing, whereas culture is only the 
 term which our historical judgement attaches to 1 a particular 
 instance. Such a conception approximates to that of Frobenius 
 who, in his Kulturgeschichte Afrikas, speaks of the genesis of culture 
 “als eines aus dem naturlichen ‘Sein’ aufgestiegenen ‘Spieles’ ” (as 
-a “play” emerging out of natural “being”). In my opinion, how¬ 
+a “play” emerging out of natural “being”). In my opinion, how 
 ever, Frobenius conceives the relationship between play and 
 culture too mystically and' describes it altogether too vaguely. He 
 fails to put his finger on the point where culture emerges from 
 P lay - 
 
 As a culture proceeds, either progressing or regressing, the 
-original relationship we have postulated between play and non¬ 
+original relationship we have postulated between play and non 
 play does not remain static. As a rule the play-element gradually 
 recedes into the background, being absorbed for the most part in 
-the sacred sphere. The remainder crystallizes as knowledge: folk¬ 
+the sacred sphere. The remainder crystallizes as knowledge: folk 
 lore, poetry, philosophy, or in the various forms of judicial and 
 social life. The original play-element is then almost completely 
 
@@ -2450,7 +2266,6 @@ social life. The original play-element is then almost completely
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 47 
 
 hidden behind cultural phenomena. But at any moment, even in 
 a highly developed civilization, the play-“instinct” may reassert 
@@ -2477,9 +2292,9 @@ a rule it is played between two parties or teams. A dance, a
 pageant, a performance may, however, be altogether lacking in 
 antithesis. Moreover “antithetical” does not necessarily mean 
 “contending” or “agonistic”. A part-song, a chorus, a minuet, the 
-voices in a musical ensemble, the game of cat’s cradle—so interest¬ 
+voices in a musical ensemble, the game of cat’s cradle—so interest 
 ing to the anthropologist because developed into intricate systems 
-of magic with some primitive peoples—are all examples of anti¬ 
+of magic with some primitive peoples—are all examples of anti 
 thetical play which need not be agonistic although emulation may 
 sometimes be operative in them. Not infrequently an activity 
 which is self-contained—for instance the performance of a 
@@ -2499,14 +2314,14 @@ proper to a game. An important distinction emerges here. In
 
 
 
-HOMO LUDENS 
+
 
 
 48 
 
 games of pure chance the tension felt by the player is only feebly 
 communicated to the onlooker. In themselves, gambling games 
-are very curious subjects for cultural research, but for the develop¬ 
+are very curious subjects for cultural research, but for the develop 
 ment of culture as such we must call them unproductive. They 
 are sterile, adding nothing to life or the mind. The picture 
 changes as soon as play demands application, knowledge, skill, 
@@ -2514,7 +2329,7 @@ courage and strength. The more “difficult” the game the greater
 the tension in the beholders. A game of chess may fascinate the 
 onlookers although it still remains unfruitful for culture and devoid 
 of visible charm. But once a game is beautiful to look at its 
-cultural value is obvious; nevertheless its aesthetic value is not in¬ 
+cultural value is obvious; nevertheless its aesthetic value is not in 
 dispensable to culture. Physical, intellectual, moral or spiritual 
 values can equally well raise play to the cultural level. The more 
 apt it is to raise the tone, the intensity of life in the individual or 
@@ -2529,27 +2344,26 @@ concept? We saw how the Greeks distinguished aycov from
 in mxiSix the childish was evoked so vividly that it could hardly 
 have been applied to the serious contests that formed the core of 
 Hellenic social life. The word aycov, on the other hand, defined 
-the contest from quite a different point of view. Its original mean¬ 
+the contest from quite a different point of view. Its original mean 
 ing appears to have been a “gathering” (compare ayopa— 
 “market-place”—to which aycov is related). Thus, as a term, it 
 had nothing to do with play proper. The essential oneness of play 
 and contest, however, still peeps through when, as we have seen, 
 Plato uses TOxtyviov for the armed ritual dances of the Kouretes 
-(toc tcov Koopyj-rcov ivonXix raayvia) and toxiSioc for sacred per¬ 
+(toc tcov Koopyj-rcov ivonXix raayvia) and toxiSioc for sacred per 
 formances in general. That the majority of Greek contests were 
 fought out in deadly earnest is no reason for separating the agon 
 from play, or for denying the play-character of the former. The 
 contest has all the formal and most of the functional features of a 
 game. Dutch and German both have a word which expresses this 
-unity very clearly: wedkamp and Wettkampf respectively. It con¬ 
+unity very clearly: wedkamp and Wettkampf respectively. It con 
 tains the idea of a play-ground (Latin campus ) and that of a wager 
 (Wette). It is, moreover, the normal word for “contest” in those 
-languages. We would allude once more to the remarkable testi¬ 
+languages. We would allude once more to the remarkable testi 
 mony from the Second Book of Samuel, where a fight to the death 
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 49 
 
 between two groups was still called “playing”, the word used 
 being taken from the sphere of laughter. On numerous Greek 
@@ -2570,7 +2384,7 @@ purpose. That is to say, the action begins and ends in itself, and
 the outcome does not contribute to the necessary life-processes of 
 the group. The popular Dutch saying to the effect that “it is not 
 the marbles that matter, but the game”, expresses this clearly 
-enough. Objectively speaking, the result of the game is unim¬ 
+enough. Objectively speaking, the result of the game is unim 
 portant and a matter of indifference. On a visit to England the 
 Shah of Persia is supposed to have declined the pleasure of 
 attending a race meeting, saying'that he knew very well that one 
@@ -2587,7 +2401,7 @@ whether Oxford wins, or Cambridge.
 “There is something at stake”—the essence of play is contained 
 in that phrase. But this “something” is not the material result of 
 the play, not the mere fact that the ball is in the hole, but the 
-ideal fact that the game is a success or has been successfully con¬ 
+ideal fact that the game is a success or has been successfully con 
 cluded. Success gives the player a satisfaction that lasts a shorter 
 or a longer while as the case may be. The pleasurable feeling of 
 satisfaction mounts with the presence of spectators, though these 
@@ -2601,7 +2415,7 @@ Miss Harrison ( Themis , pp. 22 I, 323) agrees with him, wrongly, as it seems to
 5 ° 
 
 
-HOMO LUDENS 
+
 
 
 “out” is doubly delighted when somebody is watching him. In 
@@ -2618,7 +2432,7 @@ cannot be called by that name.
 What is “winning”, and what is “won”? Winning means 
 showing oneself superior in the outcome of a game. Nevertheless, 
 the evidence of this superiority tends to confer upon the winner a 
-semblance of superiority in general. In this respect he wins some¬ 
+semblance of superiority in general. In this respect he wins some 
 thing more than the game as such. He has won esteem, obtained 
 honour; and this honour and esteem at once accrue to the benefit 
 of the group to which the victor belongs. Here we have another 
@@ -2651,7 +2465,6 @@ purely symbolical object thrown down into the “ring” or play-
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 51 
 
 ground as a token of challenge. It is not quite identical with 
 “prize”, which conveys the idea of something intrinsically 
@@ -2660,7 +2473,7 @@ a laurel-wreath. It is very curious how the words “prize”, “price”
 and “praise” all derive more or less directly from the Latin 
 pretium but develop in different directions. Pretium arose originally 
 in the sphere of exchange and valuation, and presupposed a 
-counter-value. The mediaeval pretium justum or “just price” cor¬ 
+counter-value. The mediaeval pretium justum or “just price” cor 
 responded approximately to the idea of the modern “market 
 value”. Now while price remains bound to the sphere of economics, 
 prize moves into that of play and competition, and praise acquires 
@@ -2679,7 +2492,7 @@ merchant makes them.
 We might say that proper to all the derivations of the Latin root 
 vad is a sense of passion, of chance, of daring, as regards both 
 economic activity and play activity. Pure avarice neither trades 
-nor plays; it does not gamble. To dare, to take risks, to bear un¬ 
+nor plays; it does not gamble. To dare, to take risks, to bear un 
 certainty, to endure tension—these are the essence of the play 
 spirit. Tension adds to the importance of the game and, as it 
 increases, enables the player to forget that he is only playing. 
@@ -2691,7 +2504,7 @@ endurance and suffering are united. If we bear in mind that in
 savage society the majority of agonistic activities really are 
 “agonizing”, involving as they do mental and physical hardship; 
 and if we remember also the intimate connection between dycov 
-and dyama (which latter word originally meant simply “con¬ 
+and dyama (which latter word originally meant simply “con 
 test”, but later “death-struggle” and “fear”), we shall see that in 
 athletics we are still moving in that sphere of serious competition 
 which forms our theme. 
@@ -2700,7 +2513,7 @@ Competition is not only “for” something but also “in” and
 
 
 
-HOMO LUDENS 
+
 
 
 52 
@@ -2725,14 +2538,14 @@ Medea and Ariadne. Gunther owes his victory to Siegfried. The
 Kauravas in the Mahabharata win by cheating at dice. Freya 
 double-crosses Wotan into granting the victory to the Langobards. 
 The Ases of Eddie mythology break the oath they have sworn to 
-the Giants. In all these instances the act of fraudulently out¬ 
+the Giants. In all these instances the act of fraudulently out 
 witting somebody else has itself become a subject for competition, 
 a new play-theme, as it were. 1 
 
 The hazy border-line between play and seriousness is illustrated 
 very tellingly by the use of the words “playing” or “gambling” for 
 the machinations on the Stock Exchange. The gambler at the 
-roulette table will readily concede that he is playing; the stock¬ 
+roulette table will readily concede that he is playing; the stock 
 jobber will not. He will maintain that buying and selling on the 
 off-chance of prices rising or falling is part of the serious business 
 of life, at least of business life, and that it is an economic function 
@@ -2753,7 +2566,6 @@ Josselin de Jong, De oorsprong van den goddelijken bedrieger , ibid. Lett. No. 1
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 53 
 
 agreement in the hope of future fulfilment have sprung directly 
 from the wager, so that it is a moot point whether play or serious 
@@ -2771,13 +2583,13 @@ Even in the 17th century dealings in life-insurances were still
 called “betting”. 
 
 Anthropology has shown with increasing clarity how social life 
-in the archaic period normally rests on the antagonistic and anti¬ 
+in the archaic period normally rests on the antagonistic and anti 
 thetical structure of the community itself, and how the whole 
 mental world of such a community corresponds to this profound 
 dualism. We find traces of it everywhere. The tribe is divided 
 into two opposing halves, called “phratriai” by the anthropologist, 
 which are separated by the strictest exogamy. The two groups 
-are further distinguished by their totem—a term somewhat reck¬ 
+are further distinguished by their totem—a term somewhat reck 
 lessly jargonized out of the special field to which it belongs, but 
 very convenient for scientific use. A man may be a raven-man or 
 a tortoise-man, thereby acquiring a whole system of obligations, 
@@ -2786,7 +2598,7 @@ as the case may be. The mutual relationship of the two tribal
 halves is one of contest and rivalry, but at the same time of 
 reciprocal help and the rendering of friendly service. Together 
 they enact, as it were, the public life of the tribe in a never-ending 
-series of ceremonies precisely formulated and punctiliously per¬ 
+series of ceremonies precisely formulated and punctiliously per 
 formed. The dualism that sunders the two halves extends over 
 their whole conceptual and imaginative world. Every creature, 
 every thing has its place on one side or the other, so that the entire 
@@ -2807,7 +2619,7 @@ S R. Ehrenberg, Das ^eitalter der Fugger, Jena i8g6, II, p.19.
 
 
 
-54 HOMO LUDENS 
+54 
 
 Along with the tribal division goes the sexual division, which is 
 likewise the expression of a cosmic duality as in the Chinese j yin 
@@ -2835,7 +2647,7 @@ fertility and the ripening of crops. It is a well-known fact that
 such an idea underlies most primitive ritual. Every ceremony well 
 performed, every game or contest duly won, every act of sacrifice 
 auspiciously concluded, fervently convinces archaic man that a 
-boon and a blessing have thereby been procured for the com¬ 
+boon and a blessing have thereby been procured for the com 
 munity. The sacrifices or sacred dances have been successfully 
 executed; now all is well, the higher powers are on our side, the 
 cosmic order is safeguarded, social well-being is assured for us and 
@@ -2849,14 +2661,13 @@ in the men’s house, bore a markedly dramatic character. In a
 state of ecstatic excitement and intoxication animal-dances were 
 performed with masks, there were carousings and feastings, bets, 
 tricks and tours deforce of all kinds. Women were excluded, but the 
-antithetical nature of the festival was still preserved. The effective¬ 
+antithetical nature of the festival was still preserved. The effective 
 ness of the ceremonial depended on competition and regular 
 alternation. There was a group of hosts and a group of guests. If 
 one of them represented the yang principle, standing for sun, 
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 55 
 
 warmth and summer, the other embodied yin, comprising moon, 
 coldness, winter. 
@@ -2886,7 +2697,7 @@ masterly fashion how the agonistic principle plays a part in the
 development of Chinese civilization far more significant even than 
 the agon in the Hellenic world, and in which the essentially ludic 
 character shows up much more clearly there than in Greece. For 
-in ancient China almost every activity took the form of a cere¬ 
+in ancient China almost every activity took the form of a cere 
 monial contest; the crossing of a river, the climbing of a mountain, 
 cutting wood or picking flowers. A typical Chinese legend about 
 the founding of a kingdom shows the hero-prince vanquishing his 
@@ -2894,11 +2705,11 @@ opponents by miraculous proofs of strength or amazing feats, thus
 demonstrating his superiority. As a rule the tourney ends in the 
 death of the vanquished party. 
 
-The point for us is that all these contests, even where fantastic¬ 
+The point for us is that all these contests, even where fantastic 
 ally depicted as mortal and titanic combats, with all their 
-peculiarities still belong to the domain of play. This becomes par¬ 
+peculiarities still belong to the domain of play. This becomes par 
 ticularly evident as soon as we compare the contests which Chinese 
-tradition has in mythical or heroic form, with those seasonal con¬ 
+tradition has in mythical or heroic form, with those seasonal con 
 tests still in living use to-day in various parts of the world, namely 
 
 Civilization, p. 204. Jos£ Ortega y Gasset has also outlined the same theme in his 
@@ -2907,7 +2718,7 @@ essay on El origen deportivo del estado, El Espictador vii, pp. 103-143, Madrid,
 
 
 
-HOMO LUDENS 
+
 
 
 56 
@@ -2930,7 +2741,7 @@ culture could not do better than read Nguyen’s book with its
 wealth of examples. 
 
 All these forms of contest betray their connection with ritual 
-over and over again by the constant belief that they are indis¬ 
+over and over again by the constant belief that they are indis 
 pensable for the smooth running of the seasons, the ripening of 
 crops, the prosperity of the whole year. 
 
@@ -2952,14 +2763,13 @@ the ideas of happiness, luck and fate seem to lie very close to the
 realm of the sacred. In order to realize these mental associations 
 we moderns have only to think of the sort of futile auguries we all 
 used to practise in childhood without really believing in them, and 
-which a perfectly balanced adult not in the least given to super¬ 
+which a perfectly balanced adult not in the least given to super 
 stition may sometimes catch himself doing. As a rule we do not 
 
 l Les chants allemis des gar fans et dcs Jilles en Annam, Paris, 1933. 
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 57 
 
 attribute much importance to them. It is rather rare to find such 
 futilities actually recorded in literature, but as an example I 
@@ -3015,7 +2825,7 @@ Gottingen, 1907. Ph. H. Kl. ix, 2, p. 9.
 
 
 
-HOMO LUDENS 
+
 
 
 58 
@@ -3038,7 +2848,7 @@ The only return expected by the donors but incumbent on the
 recipients lies in the obligation of the latter to reciprocate the 
 feast within a certain period and if possible to surpass it. This 
 curious donative festival dominates the entire communal life of 
-the tribes that know it: their ritual, their law, their art. Any im¬ 
+the tribes that know it: their ritual, their law, their art. Any im 
 portant event will be the occasion for a potlatch—a birth, a death, 
 a marriage, an initiation ceremony, a tattooing, the erection of a 
 tomb, etc. A chieftain will give a potlatch when he builds a house 
@@ -3051,7 +2861,7 @@ taking part in the feast the other clan incurs the obligation to give
 a potlatch on a still grander scale. Should it fail to do so it forfeits 
 its name, its honour, its badge and totems, even its civil and 
 religious rights. The upshot of all this is that the possessions of the 
-tribe circulate among the houses of the “quality” in an adventur¬ 
+tribe circulate among the houses of the “quality” in an adventur 
 ous way. It is to be assumed that originally the potlatch was 
 always held between two phratriai. 
 
@@ -3069,7 +2879,6 @@ Vichange (L’Annfo Sociologique, N.S. i), 1923—4.
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 59 
 
 with dramatic ritual and are accompanied by haughty challenges. 
 The action always takes the form of a contest: if one chieftain 
@@ -3078,7 +2887,7 @@ canoe, his opponent is under an obligation to destroy at least as
 much or more if possible. A man will defiantly send the potsherds 
 to his rival or display them as a mark of honour. It is related of 
 the Tlinkit, a tribe akin to the Kwakiutl, that if a chieftain wanted 
-to affront a rival he would kill a number of his own slaves, where¬ 
+to affront a rival he would kill a number of his own slaves, where 
 upon the other, to avenge himself, had to kill an even greater 
 number of his. 1 
 
@@ -3102,7 +2911,7 @@ The potlatch and everything connected with it hinges on
 winning, on being superior, on glory, prestige and, last but not 
 least, revenge. Always, even when only one person is the feast- 
 giver, there are two groups standing in opposition but bound by 
-a spirit of hostility and friendship combined. In order to under¬ 
+a spirit of hostility and friendship combined. In order to under 
 stand this ambivalent attitude we must recognize that the essential 
 feature of the potlatch is the winning of it. The opposed groups 
 do not contend for wealth or power but simply for the pleasure of 
@@ -3125,7 +2934,7 @@ incidendis camelorum pedibus.
 6 o 
 
 
-HOMO LUDENS 
+
 
 
 bride. The proceedings at a potlatch also have something of a 
@@ -3136,10 +2945,10 @@ the slightest blunder invalidates the whole action. Coughing and
 laughing are threatened with severe penalties. 
 
 The mental world in which the ceremony takes place is the 
-world of honour, pomp, braggadocio and challenge. The per¬ 
+world of honour, pomp, braggadocio and challenge. The per 
 formers dwell in the realms of chivalry and heroism, where 
 illustrious names and coats of arms and splendid lineages bulk 
-large. This is not the ordinary world of toil and care, the cal¬ 
+large. This is not the ordinary world of toil and care, the cal 
 culation of advantage or the acquisition of useful goods. Aspiration 
 here turns to the esteem of the group, a higher rank, marks of 
 superiority. The mutual relations and obligations of the two 
@@ -3147,7 +2956,7 @@ phratriai of the Tlinkit are expressed by a word which means
 “showing respect”. These relations are continually turned into 
 actual deeds by an exchange of services and presents. 
 
-To the best of my knowledge, anthropology seeks the explana¬ 
+To the best of my knowledge, anthropology seeks the explana 
 tion of the potlatch mainly in magical and mythical ideas. G. W. 
 Locker provides an excellent example of this in his book The 
 Serpent in Kwakiutl Religion (Leyden, 1932). 
@@ -3159,23 +2968,22 @@ identification of men and animals, etc., are constantly displayed
 in the potlatch. But that does not prevent us from understanding 
 it as a sociological phenomenon having no ties whatever with any 
 definite system of religion. We have only to think ourselves into 
-a society wholly dominated by those primary impulses and in¬ 
+a society wholly dominated by those primary impulses and in 
 centives which, in a more cultivated phase, are peculiar to 
 boyhood. Such a society will be animated in the highest degree 
 by things like group-honour, admiration for wealth and liberality, 
 trust and friendship; it will lay great stress on challenges, bettings 
-and “darings” of all kinds, competitions, adventures and the ever¬ 
+and “darings” of all kinds, competitions, adventures and the ever 
 lasting glorification of the self by displays of studied indifference 
 to material values. In brief, the potlatch spirit is akin to the 
 thoughts and feelings of the adolescent. Quite apart from any 
 connections it may have with the genuine, technically organized 
 potlatch as a ritual performance, a contest in the giving away or 
-destruction of one’s own property is psychologically quite under¬ 
+destruction of one’s own property is psychologically quite under 
 standable. That is why instances of this kind which are not based 
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 6 1 
 
 on a definite system of religion are of particular importance, as, 
 for example, the one described by R. Maunier from a report 
@@ -3200,7 +3008,7 @@ with the potlatch is, in my view, the agonistic “instinct” pure and
 simple. They must all be regarded first and foremost as a violent 
 expression of the human need to fight. Once this is admitted we 
 may call them, strictly speaking, “play”—serious play, fateful and 
-fatal play, bloody play, sacred play, but nonetheless that play¬ 
+fatal play, bloody play, sacred play, but nonetheless that play 
 ing which, in archaic society, raises the individual or the collective 
 personality to a higher power. Mauss and Davy pointed to the 
 play-character of the potlatch long ago, though considering it 
@@ -3209,7 +3017,7 @@ effet un jeu et une preuve.” Davy, who approaches it from the
 juristic side and is only concerned to demonstrate the potlatch as 
 a law-creating custom, likens the communities that practise it to 
 big gambling dens where, as a result of bets and challenges, 
-reputations are made and whole fortunes exchange hands. Con¬ 
+reputations are made and whole fortunes exchange hands. Con 
 sequently, when Held comes to the conclusion that dicing and 
 primitive games of chess are not genuine games of chance 
 because they pertain to the realm of the sacred and are an 
@@ -3226,7 +3034,7 @@ games.
 62 
 
 
-HOMO LUDENS 
+
 
 
 Livy complaining of the prodigal luxury of the ludi publici as 
@@ -3255,7 +3063,7 @@ from one of the island groups east of New Guinea and going in
 two opposite directions. Its purpose is the mutual exchange, by 
 the various tribes concerned, of certain articles having no economic 
 value either as necessities or useful implements, but highly prized 
-as precious and notorious ornaments. These ornaments are neck¬ 
+as precious and notorious ornaments. These ornaments are neck 
 laces of red, and bracelets of white, shells. Many of them bear 
 names, like the famous gems of Western history. In the kula they 
 pass temporarily from the possession of one group into that of the 
@@ -3272,14 +3080,13 @@ and at the end of the ceremony everybody feels he has had his
 
 *Book vii, 2, 13. 
 
-a The objects in the kula custom may perhaps be compared with what the eth¬ 
+a The objects in the kula custom may perhaps be compared with what the eth 
 nologists call Renommiergeld —bragging-money. 
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 63 
 
-full share of honour and glory. The voyage itself is often adventur¬ 
+full share of honour and glory. The voyage itself is often adventur 
 ous and beset with perils. The entire cultural treasury of the tribes 
 concerned is bound up with the kula, it comprises their ornamental 
 carving of canoes, their poetry, their code of honour and manners. 
@@ -3289,7 +3096,7 @@ community take on the lineaments of a noble game more purely
 than with these Papuans of Melanesia. Competition expresses 
 itself in a form so pure and unalloyed that it seems to excel all 
 similar customs practised by peoples much more advanced in 
-civilization. At the root of this sacred rite we recognize un¬ 
+civilization. At the root of this sacred rite we recognize un 
 mistakably the imperishable need of man to live in beauty. There 
 is no satisfying this need save in play. 
 
@@ -3299,7 +3106,7 @@ individual and social, is the desire to be praised and honoured for
 one’s excellence. In praising another each praises himself. We 
 want to be honoured for our virtues. We want the satisfaction of 
 having done something well. Doing something well means doing 
-it better than others. In order to excel one must prove one’s ex¬ 
+it better than others. In order to excel one must prove one’s ex 
 cellence; in order to merit recognition, merit must be made 
 manifest. Competition serves to give proof of superiority. This is 
 particularly true of archaic society. 
@@ -3309,7 +3116,7 @@ of honour is not the abstract idea of moral perfection as measured
 by the commandments of a supreme heavenly power. The idea of 
 virtue, as the word for it in the Germanic languages shows, is still, 
 in its current connotation, inextricably bound up with the 
-idiosyncrasy of a thing. Tugend in German (deugd in Dutch) cor¬ 
+idiosyncrasy of a thing. Tugend in German (deugd in Dutch) cor 
 responds directly to the verb taugen ( deugen ), meaning to be fit or 
 apt for something, to be the true and genuine thing in one’s kind. 
 Such is the sense of the Greek apETY) and the Middle High German 
@@ -3327,7 +3134,7 @@ and Modern Life, Oxford, 1935, p. 102 f.
 
 
 
-HOMO LUDENS 
+
 
 
 64 
@@ -3340,13 +3147,13 @@ of manliness or “virility”, as for instance the Latin virtus, which
 retained its meaning of “courage” for a very long time—until, in 
 fact, Christian thought became dominant. The same is true of 
 the Arabic muru’a, comprising, like the Greek ape-nf), the whole 
-semantic complex of strength, valour, wealth, right, good manage¬ 
+semantic complex of strength, valour, wealth, right, good manage 
 ment, morality, urbanity, fine manners, magnanimity, liberality 
 and moral perfection. In every archaic community that is 
 healthy, being based on the tribal life of warriors and nobles, there 
 will blossom an ideal of chivalry and chivalrous conduct, whether 
 it be in Greece, Arabia, Japan or mediaeval Christendom. And 
-this virile ideal of virtue will always be bound up with the con¬ 
+this virile ideal of virtue will always be bound up with the con 
 viction that honour, to be valid, must be publicly acknowledged 
 and forcibly maintained if need be. Even in Aristotle honour is 
 called the “prize of virtue”. 1 His thought is, of course, far above 
@@ -3372,7 +3179,7 @@ ethical. It still means above all the fitness of the citizen for his
 tasks in the polis, and the idea it originally contained of exercise 
 by means of contests still retains much of its old weight. 
 
-That nobility is based on virtue is implicit from the very begin¬ 
+That nobility is based on virtue is implicit from the very begin 
 ning of both concepts and right through their evolution, only the 
 meaning of virtue changes as civilization unfolds. Gradually the 
 
@@ -3380,7 +3187,6 @@ l Eth. Nic. iv, 1123 D 35. 2 Ibid. i, 1095 D 26.
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 65 
 
 idea of virtue acquires another content: it rises to the ethical and 
 religious plane. The nobility, who once lived up to their ideal of 
@@ -3388,7 +3194,7 @@ virtue merely by being brave and vindicating their honour, must
 now, if they are to remain true to their tasks and to themselves, 
 either enrich the ideal of chivalry by assimilating into it those 
 higher standards of ethics and religion (an attempt which usually 
-turned out lamentably enough in practice!) or else content them¬ 
+turned out lamentably enough in practice!) or else content them 
 selves with cultivating an outward semblance of high living and 
 spotless honour by means of pomp, magnificence and courtly 
 manners. The ever-present play-element, originally a real factor 
@@ -3406,7 +3212,7 @@ becomes a contest in its own right. It is remarkable how large a
 place these bragging and scoffing matches occupy in the most 
 diverse civilizations. Their play-character is beyond dispute: we 
 have only to think of the doings of little boys to qualify such 
-slanging-matches as a form of play. All the same, we must dis¬ 
+slanging-matches as a form of play. All the same, we must dis 
 tinguish carefully between the formal boasting or. scoffing 
 tournament and the more spontaneous bravado which used to 
 inaugurate or accompany a fight with weapons, though it is not 
@@ -3417,7 +3223,7 @@ collision of offended honours, than an armed combat. 1 All sorts
 of actions, some of the most singular nature, have a technical 
 significance as marks of shame or honour for him who perpetrates 
 or suffers them. Thus, the contemptuous gesture of Remus in 
-jumping over Romulus’ wall at the dawn of Roman history con¬ 
+jumping over Romulus’ wall at the dawn of Roman history con 
 stitutes, in Chinese military tradition, an obligatory challenge. A 
 variant of it shows the warrior riding up to his enemy’s gate and 
 calmly counting the planks with his whip. 2 In the same tradition 
@@ -3430,7 +3236,7 @@ are the citizens of Meaux, standing on the wall and shaking the
 66 
 
 
-HOMO LUDENS 
+
 
 
 dust off their caps after the besiegers have fired their cannons. 
@@ -3483,7 +3289,6 @@ Malinowski, Argonauts of the Western Pacific, p. 168.
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 67 
 
 in the third degree, means to wound or to mutilate. Now among 
 the significations of mu’aqara we also find: “conviciis et dictis 
@@ -3509,15 +3314,15 @@ comes from the semantic field of “defeat” and “rout”.
 
 Honour, virtue, praise and glory are, in Arabic, semantically 
 akin, just as the equivalent ideas in Greek gravitate round ape-nf). 1 
-With the Arabs the central idea is ’ird, which can best be trans¬ 
+With the Arabs the central idea is ’ird, which can best be trans 
 lated by “honour”, provided that we take it in an extremely 
-concrete sense. The highest demand of a noble life is the obliga¬ 
+concrete sense. The highest demand of a noble life is the obliga 
 tion to preserve your honour safe and unsullied. Your adversary, 
 on the other hand, is supposed to be animated by a consuming 
 desire to damage and demolish your ’ird with an insult. Here too, 
 as in Greece, any physical, social, or moral excellence constitutes 
 a basis for honour and glory, hence is an element of virtue. The 
-Arab glories in his victories and his courage, he takes an in¬ 
+Arab glories in his victories and his courage, he takes an in 
 ordinate pride in the numerousness of his clan or his children, in 
 his liberality, his authority, his strength, his eyesight, or the 
 beauty of his hair. All this makes up his ’izz, ’izza , i.e. his 
@@ -3535,7 +3340,7 @@ ed. Encyclopedic de l’Islam, s.v. mufakhara .
 68 
 
 
-HOMO LUDENS 
+
 
 
 properly called hidja’ . Contests for honour, the mufakhara, used to 
@@ -3588,7 +3393,6 @@ Bonn, 186:.
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 69 
 
 the slanging-match in the story of Alboin at the Court of the 
 Gepidae, evidently rescued by Paulus Diaconus from the old 
@@ -3639,7 +3443,7 @@ x Historia Langobardorum (Mon. Germ. Hist. SS. Langobard.), i, 24.
 
 
 
-HOMO LUDENS 
+
 
 
 70 
@@ -3677,7 +3481,7 @@ ermine cloak will vanish and his moustache catch fire ”. 3
 Geoffroi Gaimar’s rhymed chronicle of King William Rufus of 
 England shows him indulging in similar braggadocio with Walter 
 Tyrel, shortly before the latter’s’fatal bow-shot in the New Forest 
-that cost the king his life . 4 Later, in the Middle Ages, this con¬ 
+that cost the king his life . 4 Later, in the Middle Ages, this con 
 vention of boasting and scoffing seems to have dwindled to an 
 affair between heralds at tournaments. They glorify the feats of 
 arms performed by their masters, praise their ancestry and some- 
@@ -3698,7 +3502,6 @@ Gestis Regum Anglorum, ed. Stubbs, London, 1888, iv, p. 320.
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 71 
 
 times mock the ladies. On the whole heralds are a despised tribe, 
 a rabble of braggers and vagabonds. 1 The 16th century still 
@@ -3718,12 +3521,12 @@ Long before sociology and anthropology became aware of the
 extraordinary importance of the agonistic factor in general, 
 Jacob Burckhardt coined the word “agonal” and described the 
 purport of it as one of the main characteristics of Hellenic culture. 
-Burckhardt, however, was not equipped to perceive the wide¬ 
+Burckhardt, however, was not equipped to perceive the wide 
 spread sociological background of the phenomenon. He thought 
 that the agonistic habit was specifically Greek and that its range 
 was limited to a definite period of Greek history. According to 
 him, the earliest type known to Greek history is the “heroic” man, 
-who is followed by the “colonial” or “agonal” man, to be super¬ 
+who is followed by the “colonial” or “agonal” man, to be super 
 seded in his turn by, successively, the man of the 5th century, the 
 4th century (who have no specific names) and finally, after 
 Alexander, by the “Hellenistic man. 3 The “colonial” or 
@@ -3733,9 +3536,9 @@ is “an impulse such as no other people has ever known”. 4
 
 It is only to be expected that Burckhardt’s views were limited 
 by classical philology. His great work, published after his death 
-as Griechische Kulturgeschichte, had taken shape from a series of lec¬ 
+as Griechische Kulturgeschichte, had taken shape from a series of lec 
 tures delivered at Basel University during the eighties, before any 
-general sociology existed to digest all the ethnological and anthro¬ 
+general sociology existed to digest all the ethnological and anthro 
 pological data, most of which, indeed, were only coming to light 
 
 
@@ -3750,7 +3553,7 @@ Fr. Godefroy’s Dictionnaire de I’ancienne langue fran{aise, Paris, 1885, see
 
 
 
-HOMO LUDENS 
+
 
 
 72 
@@ -3780,13 +3583,13 @@ ready to attribute a certain significance to them. 6
 
 Ehrenberg also follows Burckhardt in focussing “the agonal” on 
 the period that succeeded the “heroic” one, conceding at the 
-same time that the latter already had a certain agonistic com¬ 
+same time that the latter already had a certain agonistic com 
 plexion. He says that on the whole the Trojan War was devoid of 
 agonistic features; only after the “de-heroizing of the warrior- 
 class” (“Entheroisierung des Kriegertums”) did the need arise to 
-create a substitute for heroism in “the agonal”, which was there¬ 
+create a substitute for heroism in “the agonal”, which was there 
 fore a “product” of a younger phase of culture. 7 All this is based 
-more or less on Burckhardt’s striking aphorism: “A people know¬ 
+more or less on Burckhardt’s striking aphorism: “A people know 
 ing war has no need of tournaments”. 6 Such an assumption may 
 sound plausible enough to our thinking but, as regards all archaic 
 periods of culture, it has been proved absolutely wrong by 
@@ -3811,7 +3614,6 @@ Univ. Prag, xv, 1935.
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 73 
 
 sociology and ethnology alike. No doubt the few centuries of 
 Greek history when the contest reigned supreme as the life- 
@@ -3826,7 +3628,7 @@ a superficial view, they might have the appearance of national
 sports pure and simple. Pindar’s triumphal songs celebrating the 
 great contests belong wholly to the rich harvest of religious poetry 
 he produced, of which, indeed, they are the sole survivors. 1 The 
-sacred character of the agon was everywhere apparent. The com¬ 
+sacred character of the agon was everywhere apparent. The com 
 petitive zeal of the Spartan boys in enduring pain before the altar 
 is only one example of the cruel trials connected with initiation 
 to manhood, such as can be found all over the earth among 
@@ -3834,7 +3636,7 @@ primitive peoples. Pindar shows a victor in the Olympic games
 breathing new life into the nostrils of his aged grandfather. 2 
 
 Greek tradition divides contests in general into such as are 
-public or national, military and juridical, and such as are con¬ 
+public or national, military and juridical, and such as are con 
 cerned with strength, wisdom and wealth. The classification 
 would seem to reflect an earlier, agonistic phase of culture. The 
 fact that litigation before a judge is called an “agon” should not 
@@ -3847,7 +3649,7 @@ word.
 The Greeks used to stage contests in anything that offered the 
 bare possibility of a fight. Beauty contests for men were part of 
 the Panathenaean and Thesean festivals. At symposia contests 
-were held in singing, riddle-solving, keeping awake and drink¬ 
+were held in singing, riddle-solving, keeping awake and drink 
 ing. Even in the last-named the sacred element is not lacking: 
 7 roXuro&gt;cna and axpocToirocna (bulk-drinking and drinking neat) 
 formed part of the Choen festival—or feast of pitchers. Alexander 
@@ -3865,19 +3667,19 @@ them the prize-winner. 4 We may note in passing that contests
 74 
 
 
-HOMO LUDENS 
+
 
 
 in swallowing large quantities of food and drink, or guzzling- 
 matches, also occur in connection with the potlatch. 
 
 A too narrow conception of the agonistic principle has induced 
-Ehrenberg to deny it to Roman civilization, or actually to attri¬ 
+Ehrenberg to deny it to Roman civilization, or actually to attri 
 bute to it an anti-agonistic character. 1 It is true that contests 
 between free men played a comparatively small part here, but 
 this is not to say that the agonistic element was altogether lacking 
 in the structure of Roman civilization. Rather we are dealing 
-with the singular phenomenon showing how the competitive im¬ 
+with the singular phenomenon showing how the competitive im 
 pulse shifted, at an early period, from the protagonist to the 
 spectator, who merely watches the struggles of others appointed 
 for that purpose. Without a doubt this shift is closely connected 
@@ -3895,7 +3697,7 @@ disturbance invalidated the whole performance. This points to
 the sacred character of the action. 
 
 It is of the utmost significance that these Roman gladiatorial 
-combats, bloody, superstitious and illiberal as they were, never¬ 
+combats, bloody, superstitious and illiberal as they were, never 
 theless kept to the last the simple word “ludus” with all its 
 associations of freedom and joyousness. How are we to understand 
 this? 
@@ -3904,7 +3706,7 @@ We shall have to revert once more to the place occupied by the
 agon in Greek civilization. According to the view expressed by 
 Burckhardt and taken up again by Ehrenberg, there is a sequence 
 of stages as follows: first an archaic period, also called the “heroic”, 
-which saw the rise of Hellas by serious combat and war, but lack¬ 
+which saw the rise of Hellas by serious combat and war, but lack 
 ing the agonistic principle as a social factor. Then, as the nation 
 had consumed its best forces in these heroic struggles and was 
 gradually losing its heroic temper, Greek society began to move 
@@ -3917,7 +3719,6 @@ And undoubtedly the predominance of the agonistic principle
 
 
 
-PLAY AND CONTEST AS CIVILIZING FUNCTIONS 75 
 
 does lead to decadence in the long run. Ehrenberg goes on to say 
 that the very pointlessness and meaninglessness of the agon finally 
@@ -3939,7 +3740,7 @@ some playful, but all rooted in ritual and productive of culture by
 allowing the innate human need of rhythm, harmony, change, 
 alternation, contrast and climax, etc., to unfold in full richness. 
 Coupled with this play-sense is a spirit that strives for honour, 
-dignity, superiority and beauty. Magic and mystery, heroic long¬ 
+dignity, superiority and beauty. Magic and mystery, heroic long 
 ings, the foreshadowings of music, sculpture and logic all seek 
 form and expression in noble play. A later generation will call 
 the age that knew such aspirations “heroic”. 
@@ -3954,10 +3755,10 @@ purely as possible the unique nature of this civilizing force.
 During the growth of a civilization the agonistic function attains 
 its most beautiful form, as well as its most conspicuous, in the 
 archaic phase. As a civilization becomes more complex, more 
-variegated and more overladen, and as the technique of produc¬ 
+variegated and more overladen, and as the technique of produc 
 tion and social life itself become more finely organized, the old 
 cultural soil is gradually smothered under a rank layer of ideas, 
-systems of thought and knowledge, doctrines, rules and regula¬ 
+systems of thought and knowledge, doctrines, rules and regula 
 tions, moralities and conventions which have all lost touch with 
 play. Civilization, we then say, has grown more serious; it 
 assigns only a secondary place to playings The heroic period is 
@@ -3965,12 +3766,7 @@ over, and the agonistic phase, too, seems a thing of the past.
 
 1 0 p. cit. p. 96. 
 
-
-
-IV 
-
-
-PLAY AND LAW 
+## Play and Law
 
 At first sight few things would seem to be further apart than the 
 domain of law, justice and jurisprudence, and play. High 
@@ -3998,7 +3794,7 @@ sacred in form, where the two contending parties invoked the
 decision of an arbiter. Such a conception of the lawsuit must not 
 be regarded as a later development, a mere transfer of ideas, let 
 alone the degeneration that Ehrenberg seems to think it is. 2 On 
-the contrary, the whole development goes in the opposite direc¬ 
+the contrary, the whole development goes in the opposite direc 
 tion, for the juridical process started by being a contest and the 
 agonistic nature of it is alive even to-day. 
 
@@ -4015,7 +3811,6 @@ discernible to-day in all forms of judicial life. The pronouncement
 
 
 
-PLAY AND LAW 
 
 
 77 
@@ -4053,7 +3848,7 @@ means the only very ancient feature which the strong sense of
 tradition so peculiar to the British has preserved in law. The 
 sporting element and the humour so much in evidence in British 
 legal practice is one of the basic features of law in archaic society. 
-Of course this element is not wholly lacking in the popular tradi¬ 
+Of course this element is not wholly lacking in the popular tradi 
 tion of other countries as well. Even law proceedings on the 
 Continent, though much more persistently serious than in 
 England, bear traces of it. The style and language in which the 
@@ -4068,7 +3863,7 @@ life by which both high-born and low-born men are measured as ‘equals’.”
 
 
 
-HOMO LUDENS 
+
 
 
 78 
@@ -4077,7 +3872,7 @@ argument, some of them highly sophistical, which has reminded a
 legal friend of mine, a judge, of the Javanese adat. Here, he says, 
 the spokesmen poke little sticks into the ground at each well- 
 aimed argument, so that he who has accumulated most sticks 
-carries the day victoriously. The play-character of legal proceed¬ 
+carries the day victoriously. The play-character of legal proceed 
 ings was faithfully observed by Goethe in his description of a 
 sitting of a Venetian court in the Doge’s Palace. 1 
 
@@ -4088,11 +3883,11 @@ before a judge will always and in all circumstances be dominated
 by the intense desire of each party to gain his cause. The desire to 
 win is so strong that the agonistic factor cannot be discounted for 
 a single moment. If this does not of itself suffice to disclose the 
-connection between legal justice and play, the formal charac¬ 
-teristics of the law as practised lend added weight to our conten¬ 
+connection between legal justice and play, the formal charac 
+teristics of the law as practised lend added weight to our conten 
 tion. The judicial contest is always subject to a system of restrictive 
 rules which, quite apart from the limitations of time and place, 
-set the lawsuit firmly and squarely in the domain of orderly, anti¬ 
+set the lawsuit firmly and squarely in the domain of orderly, anti 
 thetical play. The active association of law and play, particularly 
 in archaic culture, can be seen from three points of view. The 
 lawsuit can be regarded as a game of chance, a contest, or a 
@@ -4100,7 +3895,7 @@ verbal battle.
 
 We moderns cannot conceive justice apart from abstract 
 righteousness, however feeble our conception of it may be. For 
-us, the lawsuit is primarily a dispute about right and wrong; win¬ 
+us, the lawsuit is primarily a dispute about right and wrong; win 
 ning and losing take only a second place. Now it is precisely this 
 preoccupation with ethical values that we must abandon if we 
 are to understand archaic justice. Turning our eyes from the 
@@ -4120,7 +3915,6 @@ Htaliemsche Reise, Oct. 3rd.
 
 
 
-PLAY AND LAW 
 
 
 79 
@@ -4141,7 +3935,7 @@ from it. An oracular decision of this kind is arrived at by trying
 out the uncertain prospects of success. You draw sticks, or cast 
 stones, or prick between the pages of the Holy Book, and the 
 oracle will respond. In Exodus xxviii 30, Moses is bidden “to put 
-in the breastplate of judgement the Urim and Thummim” (what¬ 
+in the breastplate of judgement the Urim and Thummim” (what 
 ever they were), so that Aaron “shall bear the judgement of the 
 children of Israel upon his heart before the Lord continually”. 
 The breastplate is worn by the High Priest, and it is with this that 
@@ -4157,7 +3951,7 @@ two golden scales and put into them the two portions of bitter
 death, one for the stallion-subduing Trojans and one for the 
 bronze-bearing Achaeans.” 2 
 
-This weighing or pondering of Zeus is at the same time his judg¬ 
+This weighing or pondering of Zeus is at the same time his judg 
 ing (Sixa^eiv). The ideas of Divine Will, fate and chance are 
 perfectly fused here. The scales of justice—a metaphor born 
 undoubtedly of this Homeric image—are the emblem of uncertain 
@@ -4177,12 +3971,12 @@ eighteenth book of the Iliad, represents a legal proceeding with
 8 o 
 
 
-HOMO LUDENS 
+
 
 
 judges sitting within the sacred circle, and at the centre of this 
 there are “two talents of gold” (Suo ycuaoLG TaXavra) for him 
-who pronounces the most righteous judgement. 1 These are com¬ 
+who pronounces the most righteous judgement. 1 These are com 
 monly interpreted as being the sum of money for which the parties 
 concerned are pleading. But,, all things considered, they would 
 seem to be rather a stake or a prize than an object of litigation; 
@@ -4201,7 +3995,7 @@ The Greek Sixtj (right, justice) has a scale of meanings which
 range from the purely abstract to something very concrete indeed. 
 It may signify justice as an abstract concept, or an equitable share, 
 or indemnification, or even more: the parties to a lawsuit give 
-and take Sixt), the judge allots Si/.rj. It also means the legal pro¬ 
+and take Sixt), the judge allots Si/.rj. It also means the legal pro 
 cess itself, the verdict and the punishment. Though we might 
 suppose the more concrete significations of a word to be the more 
 original, as regards dike Werner Jaeger takes the opposite view. 
@@ -4228,7 +4022,6 @@ turns into that of Tyche, the goddess of uncertain fate. She too
 
 
 
-PLAY AND LAW 
 
 
 81 
@@ -4243,7 +4036,7 @@ be seen in Germanic lore. The word lot in Dutch retains to this
 day the sense of man’s destiny—that which is “allotted” or “sent” 
 to him (“Schicksal” in German)—and also means the visible 
 token of his chances in a lottery, i.e. the longest or shortest match- 
-stick, or a ticket. One can hardly say which of the two significa¬ 
+stick, or a ticket. One can hardly say which of the two significa 
 tions is the more original, because in archaic thought the two 
 ideas merge in one. Zeus holds the divine decrees of fate and 
 j ustice in one and the same balance. The Ases of Eddie mythology 
@@ -4261,7 +4054,7 @@ at Quierzy. 1
 
 The concept of judgement (“Urteil” in German) naturally leads 
 us to consider the ordeal (“Gottesurteil”—God’s judgement). The 
-etymological connection can be seen at a glance if we thus com¬ 
+etymological connection can be seen at a glance if we thus com 
 pare the words in both languages. The word “ordeal” means 
 nothing more nor less than divine judgement. But it is not so easy 
 to determine what exactly the ordeal meant for the archaic mind. 
@@ -4269,7 +4062,7 @@ At first sight it might appear as if primitive man believed that the
 gods showed by the outcome of a trial or casting, which of the 
 parties is right or—what amounts to the same thing—in which 
 direction they have disposed fate. Of course the idea of a miracle 
-proving which side is right is only a secondary Christian inter¬ 
+proving which side is right is only a secondary Christian inter 
 pretation. But the above view—of divine judgement—is itself 
 probably an interpretation coming from a still earlier phase of 
 culture. The original starting-point of the ordeal must have been 
@@ -4286,7 +4079,7 @@ chichte, Leipzig, 1912, p. 75.
 82 
 
 
-HOMO LUDENS 
+
 
 
 of every contest, be it a trial of strength or a game of chance, is a 
@@ -4311,16 +4104,16 @@ the primary thing is play, which is the seed of that ideal growth.
 
 Sometimes the legal dispute in archaic society takes the form of 
 a wager or even a race. The idea of a wager is always forcing itself 
-upon us in this connection, as we saw when describing the pot¬ 
+upon us in this connection, as we saw when describing the pot 
 latch, where the mutual challenges bring about a primitive system 
 of contract and liability. But apart from the potlatch and the 
 ordeal proper, over and over again in primitive legal customs we 
 come across the contest for justice, that is to say, for a decision and 
 the recognition of a stable relationship in a particular instance. 
-Otto Gierke collected a great many strange examples of this blend¬ 
+Otto Gierke collected a great many strange examples of this blend 
 ing of play and justice under the title of “Humour in Law”. He 
 considered them merely as illustrating the playfulness of the 
-“popular spirit”, but actually they only find their rightful ex¬ 
+“popular spirit”, but actually they only find their rightful ex 
 planation in the agonistic origin of the legal function. The popular 
 spirit is certainly playful, though in a far deeper sense than 
 Gierke supposed; and this playfulness is pregnant with meaning. 
@@ -4335,12 +4128,11 @@ we are dealing with judgement by trial of strength or play of chance.
 
 
 
-PLAY AND LAW 
 
 
 83 
 
-It is certainly no accident that contests play a particularly im¬ 
+It is certainly no accident that contests play a particularly im 
 portant part in the choosing of a bride or bridegroom. The English 
 word “wedding”, like the Dutch “bruiloft”, harks back to the 
 dawn of legal and social history. “Wedding,” derived from the 
@@ -4387,7 +4179,7 @@ a Nubian tale to this effect.
 
 
 
-HOMO LUDENS 
+
 
 
 84 
@@ -4438,16 +4230,15 @@ P- 337 S Q'
 
 
 
-PLAY AND LAW 
 
 
 85 
 
 arguments for the intimate connections between culture and play, 
-namely the drumming-matches or singing-matches of the Green¬ 
+namely the drumming-matches or singing-matches of the Green 
 land Eskimo. We shall deal rather more extensively with this 
 because here we have a practice still in living use (at least it was 
-until recently) in which the cultural function we know as juris¬ 
+until recently) in which the cultural function we know as juris 
 diction has not yet separated from the sphere of play. 1 
 
 When an Eskimo has a complaint to make against another he 
@@ -4496,7 +4287,7 @@ Eskimos, Anthropos xix-xx, 1924-5.
 86 
 
 
-HOMO LUDENS 
+
 
 
 there is no other way of moulding public opinion. 1 Even murders 
@@ -4549,7 +4340,6 @@ a Stumpfl, op. cit. p. 16.
 
 
 
-PLAY AND LAW 
 
 
 87 
@@ -4561,7 +4351,7 @@ approach to the Eskimo custom is the Arabic munafara or nifar,
 the competition for fame and honour in the presence of an arbiter. 
 The Latin word iurgum also shows the original connection 
 between the lawsuit and invective. It is an elliptic form of ius- 
-igium (ius + agere ), quite literally “law proceeding”; the connec¬ 
+igium (ius + agere ), quite literally “law proceeding”; the connec 
 tion still echoes faintly in the English “objurgation”. Compare 
 also “litigation” ( litigium: quarrel-proceeding). In the light of the 
 drumming-matches purely literary productions like Archilochus’ 
@@ -4588,7 +4378,7 @@ for scandal.
 
 In Rome, too, any and every means of undoing the other party 
 in a lawsuit was held as licit for a long time. The parties draped 
-themselves in mourning, sighed, sobbed, loudly invoked the com¬ 
+themselves in mourning, sighed, sobbed, loudly invoked the com 
 mon weal, packed the court with witnesses and clients to make 
 the proceedings more impressive. 3 In short, they did everything 
 that we do to-day. One thinks of the lawyer who thumped the 
@@ -4609,7 +4399,7 @@ the report of the psychiatrist’s findings. Littmann describes an
 88 
 
 
-HOMO LUDENS 
+
 
 
 Abyssinian court-sitting as follows: “With carefully studied and 
@@ -4621,17 +4411,14 @@ to strengthen the accusation and utterly confound the accused”.
 
 It was only when Stoicism became the fashion that efforts were 
 made to free juristic eloquence of the play-character and purify it 
-in accordance with the severe standards of truth and dignity pro¬ 
+in accordance with the severe standards of truth and dignity pro 
 fessed by the Stoics. The first man who attempted to put this new 
 approach into practice was a certain Rutilius Rufus. He lost his 
 cause and had to retreat into exile. 
 
 
 
-V 
-
-
-PLAY AND WAR 
+## Play and War
 
 
 Ever since words existed for fighting and playing, men have been 
@@ -4646,7 +4433,7 @@ mind. Indeed, all fighting that is bound by rules bears the formal
 characteristics of play by that very limitation. We can call it the 
 most intense, the most energetic form of play and at the same time 
 the most palpable and primitive. Young dogs and small boys 
-fight “for fun”, with rules limiting the degree of violence; never¬ 
+fight “for fun”, with rules limiting the degree of violence; never 
 theless the limits of licit violence do not necessarily stop at the 
 spilling of blood or even at killing. The mediaeval tournament 
 was always regarded as a sham-fight, hence as play, but in its 
@@ -4679,7 +4466,7 @@ the sphere of equals, against groups not recognized as human
 90 
 
 
-HOMO LUDENS 
+
 
 
 beings and thus deprived of human rights—barbarians, devils, 
@@ -4687,7 +4474,7 @@ heathens, heretics and “lesser breeds without the law”. In such
 circumstances war loses its play-quality altogether and can only 
 remain within the bounds of civilization in so far as the parties to 
 it accept certain limitations for the sake of their own honour. 
-Until recently the “law of nations” was generally held to consti¬ 
+Until recently the “law of nations” was generally held to consti 
 tute such a system of limitation, recognizing as it did the ideal of 
 a community of mankind with rights and claims for all, and 
 expressly separating the state of war—by declaring it—from peace 
@@ -4701,11 +4488,11 @@ development of the agon) can be called an agonistic function of
 society? Several forms of combat at once suggest themselves as 
 being non-agonistic: the surprise, the ambush, the raid, the 
 punitive expedition and wholesale extermination cannot be 
-described as agonistic forms of warfare, though they may be sub¬ 
+described as agonistic forms of warfare, though they may be sub 
 servient to an agonistic war. Moreover the political objectives of 
 war also lie outside the immediate sphere of contest: conquest, 
 subjection or domination of another people. The agonistic element 
-only becomes operative when the war-making parties regard them¬ 
+only becomes operative when the war-making parties regard them 
 selves and each other as antagonists contending for something to 
 which they feel they have a right. This feeling is almost always 
 present, though it is often exploited only as a pretext. Even when 
@@ -4717,7 +4504,7 @@ origin of wars, ancient or modern, by immediate material interests
 and the lust for power. Though the statesmen who plan the war 
 may themselves regard it as a question of power-politics, in the 
 great majority of cases the real motives are to be found less in the 
-“necessities” of economic expansion, etc., than in pride and vain¬ 
+“necessities” of economic expansion, etc., than in pride and vain 
 glory, the desire for prestige and all the pomps of superiority. The 
 great wars of aggression from antiquity down to our own times all 
 find a far more essential explanation in the idea of glory, which 
@@ -4727,7 +4514,7 @@ outbursts of glorifying war, so lamentably familiar to us, carry us
 
 
 
-PLAY AND WAR 
+ 
 
 
 91 
@@ -4736,7 +4523,7 @@ back to the Babylonian and Assyrian conception of war as a divine
 injunction to exterminate foreign peoples to the greater glory 
 of God. 
 
-In certain archaic forms of warfare the play-element finds im¬ 
+In certain archaic forms of warfare the play-element finds im 
 mediate and, comparatively speaking, more pleasant expression. 
 We are once more dealing with that same sphere of archaic 
 thought in which chance, fate, judgement, contest and play lie 
@@ -4751,7 +4538,7 @@ between decision and Deity is explicit in the German word for
 ordeal—“Gottesurteil”, though fundamentally the ordeal is 
 simply judgement, any judgement whatsoever. Every decision 
 acquired by the ritually correct forms is a “judgement of God”. 
-It is only secondarily that the technical idea of the ordeal is asso¬ 
+It is only secondarily that the technical idea of the ordeal is asso 
 ciated with definite proofs of miraculous power. In order to 
 understand these associations we have to look beyond our 
 customary division between the juridical, the religious, and the 
@@ -4781,15 +4568,15 @@ factor by “the cessation of normal social conditions”. Trans.
 
 
 
-HOMO LUDENS 
+
 
 
 92 
 
 Wakidi’s description of the Battle of Badr, where Mohammed 
-defeated the Koraishites. Three of Mohammed’s warriors chal¬ 
+defeated the Koraishites. Three of Mohammed’s warriors chal 
 lenged a like number of heroes in the enemy ranks; they introduce 
-themselves with due form and hail each other as worthy adversar¬ 
+themselves with due form and hail each other as worthy adversar 
 ies. 1 The First World War witnessed a revival of aristeia in the 
 dropping of challenges by airmen. The single combat can also 
 serve as an augury of battle, in which form it is known to both 
@@ -4801,7 +4588,7 @@ of the battle itself. When the Vandals were at war with the
 Alemans in Spain the hostile parties decided to have their conflict 
 settled by a single combat. 3 We must not regard this as having 
 provided an omen or as being an humanitarian measure designed 
-to avoid the spilling of blood, but simply as an appropriate sub¬ 
+to avoid the spilling of blood, but simply as an appropriate sub 
 stitute for war, a concise proof, in agonistic form, of the superiority 
 of one of the parties: victory proves that the cause of the victors is 
 favoured by the gods, is therefore a “just” cause. Needless to say, 
@@ -4811,7 +4598,7 @@ avoiding unnecessary bloodshed. Even very early on, as in the
 case of the Merovingian king Theoderich at Quierzy on the Oise, 
 the warriors say: “Better for one to fall than the whole army”. 4 
 In the later Middle Ages it was quite customary for kings or 
-princes at war to set about staging a single combat between them¬ 
+princes at war to set about staging a single combat between them 
 selves and so to end their “querelle”. The preparations for it were 
 made with great solemnity and in elaborate detail, the express 
 motive always being “pour eviter effusion de sang chrestien et la 
@@ -4838,7 +4625,7 @@ J Granet, Chinese Civilization, p. 266; cf. J. de Vries, Altgerman. Religionsg. 
 
 
 
-PLAY AND WAR 
+ 
 
 
 93 
@@ -4847,7 +4634,7 @@ decision in this way, was still operative. The Emperor Charles V
 twice challenged Francois I to a single combat with due ceremony, 
 and this case was by no means the last. 1 
 
-Single combat as a substitute for battle is of course quite differ¬ 
+Single combat as a substitute for battle is of course quite differ 
 ent from “trial by battle” in the strict sense of the words, as a 
 legal means to the settlement of a dispute. The important place 
 held by the “judicial duel” in Mediaeval law is well known. It is a 
@@ -4874,7 +4661,7 @@ peculiar handicaps designed to give equal chances to unequal
 antagonists—as when a man fighting a woman has to stand in a 
 pit up to his waist—are the regulations and handicaps appropriate 
 to armed play. In the later Middle Ages, it would seem, the 
-judicial duel generally ended without much harm done. It re¬ 
+judicial duel generally ended without much harm done. It re 
 mains an open question whether this play-quality is to be regarded 
 as a sign of decadence or whether it is to be attributed to the 
 nature of the custom itself, which did not, however, preclude 
@@ -4896,7 +4683,7 @@ z Lehrbuch der deutschen Religionsg. Leipzig, 1907, p. 89.
 94 
 
 
-HOMO LUDENS 
+
 
 
 “until the stars grow visible”, or until one of the combatants— 
@@ -4911,9 +4698,9 @@ and the wholly fictitious royal duel, it is small wonder that the
 ordinary duel as found among many European peoples to this day 
 should have the same ludic character. The private duel avenges 
 outraged honour. Both ideas—honour that can be outraged and 
-the need to avenge it—belong to the archaic sphere, notwith¬ 
+the need to avenge it—belong to the archaic sphere, notwith 
 standing their undiminished psychological and social significance 
-in modern society. A person’s honourable qualities must be mani¬ 
+in modern society. A person’s honourable qualities must be mani 
 fest to all and, if their recognition is endangered, must be asserted 
 and vindicated by agonistic action in public. Where recognition 
 of personal honour is concerned the point is not whether honour 
@@ -4924,7 +4711,7 @@ the judicial duel. Essentially they are the same: the continual
 struggle for prestige, which is a fundamental value comprising 
 both right and might. Vengeance is the satisfaction of the sense 
 of honour, and honour will be satisfied no matter how perverse, 
-criminal or morbid. In Greek iconography “Dike” (justice) fre¬ 
+criminal or morbid. In Greek iconography “Dike” (justice) fre 
 quently blends with the figure of Nemesis (vengeance) just as she 
 does with “Tyche” (fortune). 2 The duel also reveals its deep- 
 seated identity with the judicial decision in the fact that, like the 
@@ -4937,7 +4724,7 @@ the private duel may take on extremely sanguinary forms. The
 principals and their seconds may indulge in a group-fight on 
 horseback with pistols—a regular cavalry engagement. Such were 
 the proportions to which the duel had grown in France during the 
-16th century. A trifling difference of words between two noble¬ 
+16th century. A trifling difference of words between two noble 
 men might well involve six or even eight persons in a deadly 
 encounter. Honour forbade refusal as a second. Montaigne speaks 
 of such a duel between three of Henri’s mignons and three noble- 
@@ -4946,7 +4733,7 @@ of such a duel between three of Henri’s mignons and three noble-
 
 
 
-PLAY AND WAR 95 
+ 95 
 
 men from the court of the Due de Guise. Richelieu tried to 
 abolish this fierce usage, but victims continued to fall to it right 
@@ -4987,13 +4774,13 @@ accordance with a code of honour and in ritual form, for brutal
 violence will still assert itself; it only means that war will be seen 
 as a sacred duty and in an honourable light, that it will be played 
 out more or less in conformity with that ideal. It is always a 
-difficult question to determine how far war has really been in¬ 
+difficult question to determine how far war has really been in 
 fluenced by such conceptions. Most of the tales we hear of noble 
 battles in beautiful style are based not so much on the sober 
 
 
 
-HOMO LUDENS 
+
 
 
 96 
@@ -5010,7 +4797,7 @@ them that the idea of chivalry sprang and hence, ultimately, of
 international law. Of these two factors, chivalry was one of the 
 great stimulants of mediaeval civilization, and however constantly 
 the ideal was belied in reality it served as a basis for international 
-law, which is one of the indispensable safeguards for the com¬ 
+law, which is one of the indispensable safeguards for the com 
 munity of mankind. 
 
 The agonistic or ludic element in war may be illustrated by 
@@ -5035,7 +4822,7 @@ among them frustrated a ratification of the verdict.
 
 Speaking of the battle of Mycale Herodotus calls the Islands 
 and the Hellespont the “prizes” (asOXa) as between the Greeks 
-and the Persians; but this may be no more than a popular meta¬ 
+and the Persians; but this may be no more than a popular meta 
 phor. Herodotus himself evidently has some doubts about the 
 value of the “match” point of view in war. Through the mouth 
 of Mardonius, who takes part in the imaginary council of war at 
@@ -5044,7 +4831,7 @@ the Greeks who solemnly announce their wars beforehand, then
 
 
 
-PLAY AND WAR 
+ 
 
 
 97 
@@ -5065,7 +4852,7 @@ times. According to Granet’s sketch of Chinese warfare in what
 he calls the feudal age, there can be no talk of victory unless the 
 prince’s honour emerges with enhanced splendour from the field 
 of battle. This is not procured by gaining the advantage, still less 
-by using it to the utmost, but by showing moderation. Modera¬ 
+by using it to the utmost, but by showing moderation. Modera 
 tion alone proves the victor’s heroic virtue. Two noble lords, 
 Chin and Ch’in, face one another encamped. The two armies are 
 ranged and do not fight. At night a messenger from Ch’in comes 
@@ -5098,7 +4885,7 @@ In making camp the lay-out is carefully orientated to the four
 
 
 
-HOMO LUDENS 
+
 
 
 98 
@@ -5121,7 +4908,7 @@ of satire is seldom lacking, and this makes the playful character of
 it still more evident. The Chinese war lords of ancient times used 
 to exchange jugs of wine which were solemnly drunk amid 
 reminiscences of a more peaceful past and protestations of mutual 
-esteem. 1 They greeted one another with all manner of compli¬ 
+esteem. 1 They greeted one another with all manner of compli 
 ments and reverences, swapped weapons just like Glaucos and 
 Diomedes. Even at the siege of Breda—not the famous one of 
 1625 immortalized by Velasquez’ Lances, but that of 1637 when 
@@ -5142,7 +4929,7 @@ In the year 1400 a certain Count of Virneburg offered battle to
 the town of Aachen on a fixed day and place, and counsels the 
 people to bring the Bailiff of Julich with them, the cause of the 
 mischief. 3 Such appointments regarding the time and place of a 
-battle are of the utmost importance in treating war as an honour¬ 
+battle are of the utmost importance in treating war as an honour 
 able contest which is at the same time a judicial decision. The 
 
 
@@ -5152,7 +4939,7 @@ Hbid. p. 268. *Ibid. p. 269.
 
 
 
-PLAY AND WAR 
+ 
 
 
 99 
@@ -5165,9 +4952,9 @@ where the battle-ground is marked out with wooden pegs or
 hazel-switches. The idea still lingers in the English expression 
 “pitched battle”, meaning one that is conducted according to 
 military rules. It is difficult to say how far the demarcation of the 
-ground actually went in serious warfare; being essentially ritualis¬ 
+ground actually went in serious warfare; being essentially ritualis 
 tic it might be fulfilled symbolically by putting up some token 
-that represented a real fence or paling. 1 But as regards the cere¬ 
+that represented a real fence or paling. 1 But as regards the cere 
 monial offer of time and place for a battle, mediaeval history 
 abounds in examples. It is true that the rule was to decline or 
 disregard the offer, which at once shows us the purely formal 
@@ -5184,10 +4971,10 @@ the King of France offered King Edward the choice of two places
 and four separate days for battle, or more if desired. 3 The English 
 king sent answer that he was unable to cross the Seine and had 
 been expecting the enemy for three days already. At Najera in 
-Spain in 1367 Henry of Trastamara gave up his extremely favour¬ 
+Spain in 1367 Henry of Trastamara gave up his extremely favour 
 able position in order to meet the enemy at any cost in open field, 
 and was beaten. It was reported by the Domei agency that after 
-the capture of Canton in December, 1938, the Japanese com¬ 
+the capture of Canton in December, 1938, the Japanese com 
 mander proposed to Chiang Kai-shek that the latter should fight 
 an engagement, which would be decisive, in the plains of Southern 
 China for the purpose of saving his military honour, and then 
@@ -5209,7 +4996,7 @@ victor should remain on the battlefield for three days. The former
 100 
 
 
-HOMO LUDENS 
+
 
 
 was eagerly contended for. Sometimes the right to vanguard 
@@ -5218,10 +5005,10 @@ privilege of certain families and counties. Disputes in this matter
 often had bloody consequences. When in 1396 a picked army of 
 knights, whose lethal qualities had been proved by the recent wars 
 in France, entered with uncommon pomp upon a crusade against 
-the Turk, the chances of victory were thrown away in vain hag¬ 
+the Turk, the chances of victory were thrown away in vain hag 
 gling for precedence at Nicopolis, with the result that the knightly 
 host was annihilated. As to remaining in the field for three days, 
-it is possible to trace in this constantly reiterated demand some¬ 
+it is possible to trace in this constantly reiterated demand some 
 thing of the juridical “sessio triduana”. At any rate it is certain 
 that in all these ceremonial and ritual usages as recorded by 
 tradition from all parts of the world, we see war clearly originating 
@@ -5242,7 +5029,7 @@ rules”. Once a thorough-going system of international obligations
 based on ethics has been developed, there is hardly any room for 
 the agonistic element in the relations of States, for the system tries 
 to sublimate the instinct of political struggle in a true sense of 
-justice and equity. In a community of States bound by one inter¬ 
+justice and equity. In a community of States bound by one inter 
 national law universally recognized there is, in theory, no reason 
 for agonistic warfare among its own members. Even so, such a 
 community will not have lost all the features of a play-community. 
@@ -5256,7 +5043,7 @@ l Ibid. p. 100; ibid. p. 140.
 
 
 
-PLAY AND WAR 
+ 
 
 
 lOl 
@@ -5264,14 +5051,14 @@ lOl
 
 in mind that this game is the living principle of ;all civilization. 
 
-Things have now come to such a pass that the system of inter¬ 
+Things have now come to such a pass that the system of inter 
 national law is no longer acknowledged, or observed, as the very 
 basis of culture and civilized living. As soon as one member or 
 more of a community of States virtually denies the binding 
 character of international law and, either in practice or in theory, 
 proclaims the interests and power of its own group—be it nation, 
 party, class, church or whatsoever else—as the sole norm of its 
-political behaviour, not only does the last vestige of the imme¬ 
+political behaviour, not only does the last vestige of the imme 
 morial play-spirit vanish but with it any claim to civilization at 
 all. Society then sinks down to the level of the barbaric, and 
 original violence retakes its ancient rights. 
@@ -5311,7 +5098,7 @@ sphere of honour, virtue, and beauty.
 102 
 
 
-HOMO LUDENS 
+
 
 
 Such an ideal of noble strife, fulfilled in myth and legend, is 
@@ -5324,14 +5111,14 @@ class, hardening their courage and heightening their sense of duty.
 The ideal of noble contest is particularly evident in a society 
 where a military nobility with moderate landed property obeys a 
 monarch regarded as divine or sacred, and where the central 
-duty of life is loyalty to your lord. Only in such a feudally con¬ 
+duty of life is loyalty to your lord. Only in such a feudally con 
 structed society, in which no free man is required to work, can 
 chivalry flourish and with it the tournament. Only under a 
 feudal aristocracy are deadly serious vows made to accomplish 
 unheard-of feats; only here do banners, crests and scutcheons 
 become objects of veneration, chivalric orders bloom, and 
 questions of rank and precedence become the most vital in life. 
-Only a feudal aristocracy has time for such things. The funda¬ 
+Only a feudal aristocracy has time for such things. The funda 
 mental character of this whole complex of ideals, manners and 
 institutions is to be seen almost more clearly in the land of the 
 Rising Sun than in Mediaeval Christendom or Islam. The 
@@ -5349,8 +5136,8 @@ to know, the value of coins. It is recorded that a Japanese Prince
 by name Kenshin, when warring with another Prince by name 
 Shingen who dwelt in the mountains, was informed by a third 
 party that he, though not in open feud with Prince Shingen, had 
-cut the latter’s supply of salt. Whereupon Prince Kenshin com¬ 
-manded his subjects to send salt to the enemy, expressing his con¬ 
+cut the latter’s supply of salt. Whereupon Prince Kenshin com 
+manded his subjects to send salt to the enemy, expressing his con 
 tempt of such economic warfare by saying: “I fight not with salt 
 but with the sword!” 1 
 
@@ -5360,7 +5147,7 @@ courage and self-control has contributed much to the civilizations
 
 
 
-PLAY AND WAR 
+ 
 
 
 103 
@@ -5380,7 +5167,7 @@ cadets, holding it up as the absolute condition of all the pure and
 noble arts of peace. “No great art ever yet rose on earth, but 
 among a nation of soldiers. . . . There is no great art possible 
 to a nation but that which is based on battle,” etc. “I found, 
-in brief”, he continues—not without a certain naive superfici¬ 
+in brief”, he continues—not without a certain naive superfici 
 ality in his marshalling of the historical evidence—“that all the 
 great nations learned their truth of word, and strength of thought, 
 in war; that they were nourished in war, and wasted by peace; 
@@ -5412,7 +5199,7 @@ better of him, and he arrests the flight of his thought so as to
 
 
 
-HOMO LUDENS 
+
 
 
 104 
@@ -5422,7 +5209,7 @@ evidently thinking of the murderous civil war raging across the
 Atlantic. 1 
 
 Among the human virtues—or had we better say “qualities”?— 
-there is one that seems to have sprung direct from the aristo¬ 
+there is one that seems to have sprung direct from the aristo 
 cratic and agonistic warrior-life of archaic times: loyalty. Loyalty 
 is the surrender of the self to a person, cause or idea without 
 arguing the reasons for this surrender or doubting the lasting 
@@ -5462,12 +5249,7 @@ on me.
 1 The Crown of Wild Olive: Four Lectures on Industry and War , iii: War. 
 2 The Waning of the Middle Ages , chs. ii—x. 
 
-
-
-VI 
-
-
-PLAYING AND KNOWING 
+## Playing and Knowing
 
 
 The urge to be first has as many forms of expression as society 
@@ -5503,7 +5285,7 @@ deeply rooted in ritual and form an essential part of it. The
 questions which the hierophants put to one another in turn or 
 by way of challenge are riddles in the fullest sense of the word, 
 exactly resembling the riddles in a parlour-game but for their 
-sacred import. The function of these ritual riddle-solving com¬ 
+sacred import. The function of these ritual riddle-solving com 
 petitions is shown at its clearest in Vedic lore. At the great 
 sacrificial festivals they were as essential a part of the ceremony 
 
@@ -5512,7 +5294,7 @@ sacrificial festivals they were as essential a part of the ceremony
 
 
 
-106 HOMO LUDENS 
+106 
 
 as the sacrifice itself. The Brahmins competed in jatavidya, 
 knowledge of the origins, or in brahmodya, which might best be 
@@ -5539,7 +5321,7 @@ In these hymns the predominating element is their riddle-form,
 the solution of which depends on knowledge of ritual and its 
 symbols. But in this riddle-form there lurks the profoundest 
 wisdom concerning the origins of existence. Paul Deussen, not 
-without justice, calls the tenth hymn “probably the most admir¬ 
+without justice, calls the tenth hymn “probably the most admir 
 able piece of philosophy to have come down to us from ancient 
 times”. 2 
 
@@ -5547,12 +5329,12 @@ times”. 2
 sky above it. What kept closing in? Where? And whose the 
 enclosure? And was the plunging abyss all water? 
 
-“Death then was not, nor not-death; and there was no dis¬ 
+“Death then was not, nor not-death; and there was no dis 
 tinction between day and night. Nothing breathed save 
 That, windlessly of itself; there was nothing beyond That 
 anywhere.” 3 
 
-The interrogative form of the riddle has here been partly super¬ 
+The interrogative form of the riddle has here been partly super 
 seded by the affirmative form, but the poetical structure of the 
 hymn still reflects the original riddle-character. After verse 5 
 the interrogative form returns: 
@@ -5571,7 +5353,6 @@ Once it is admitted that this hymn derives from the ritual
 
 
 
-PLAYING AND KNOWING IO7 
 
 riddle-song which, in its turn, is the literary redaction of riddle- 
 contests actually held, the genetic connection between the riddle- 
@@ -5580,7 +5361,7 @@ possible.
 
 Some hymns of the Atharvaveda —for instance Nos. X, 7, and 
 X, 8—appear to string together whole sequences of enigmatic 
-questions under a common head, and either solved or left un¬ 
+questions under a common head, and either solved or left un 
 answered: 
 
 “Whither the moons and whither the half-moons, and the year 
@@ -5594,7 +5375,7 @@ waters, desirous of truth, never at any time cease?”
 
 Archaic thought, brooding in rapture on the mysteries of 
 Being, is hovering here over the border-line between sacred 
-poetry, profoundest wisdom, mysticism and sheer verbal mysti¬ 
+poetry, profoundest wisdom, mysticism and sheer verbal mysti 
 fication. It is not for us to account for each separate element in 
 these outpourings. The poet-priest is continually knocking at the 
 door of the Unknowable, closed to him as to us. All we can say 
@@ -5629,7 +5410,7 @@ a Piaget, The Language and Thought of the Child, ch. v, Routledge.
 io8 
 
 
-HOMO LUDENS 
+
 
 
 riddles is as indispensable as the sacrifice itself. 1 It forces the 
@@ -5654,12 +5435,12 @@ It is well known to every student of Vedic literature, the
 Brahmanas especially, that the explanations given there of the 
 origin of things are as inconsistent as they are varied, and as 
 subtle as they are often far-fetched. There is no general system, 
-no discernible rhyme or reason. But, bearing in mind the funda¬ 
+no discernible rhyme or reason. But, bearing in mind the funda 
 mental play-character of these cosmogonic speculations and the 
 fact that they all derive from the ritual riddle, it will then dawn 
-upon us that their confusion need not rest so much on the hair¬ 
+upon us that their confusion need not rest so much on the hair 
 splitting habits of priests, each intent on exalting his particular 
-sacrifice above others, or on capricious fancy, 5 as on the circum¬ 
+sacrifice above others, or on capricious fancy, 5 as on the circum 
 stance that the innumerable contradictory interpretations had 
 once been so many different solutions to ritual riddles. 
 
@@ -5684,7 +5465,6 @@ Genootschap xli, 1909, p. 370.
 
 
 
-PLAYING AND KNOWING IOg 
 
 accounted the highest wisdom to put a riddle nobody can answer. 
 Both motifs are united in the Ancient Hindu tale of King Yanaka, 
@@ -5706,7 +5486,7 @@ a game with itself. The degree of seriousness with which the
 story was accepted in the sacred canon is as indefinable and in 
 the last resort as immaterial as the question whether anybody 
 really lost his head for being unable to answer a riddle. That is 
-not the most curious thing about it. The chief, the really remark¬ 
+not the most curious thing about it. The chief, the really remark 
 able thing is the play-motif as such. 
 
 Greek tradition, too, has the riddle-solving and death-penalty 
@@ -5737,7 +5517,7 @@ l Satapatha-Brahmana , xi, 6, 3, 3; Brhaddranyaka-Upanishad, iii, 1—9.
 110 
 
 
-HOMO LUDENS 
+
 
 
 in Hel; but before the end of the contest day breaks, and the 
@@ -5786,20 +5566,19 @@ play and seriousness. It was both at once: a ritual element of
 
 
 
-PLAYING AND KNOWING 
 
 
 III 
 
 
-the highest importance and yet essentially a game. As civiliza¬ 
+the highest importance and yet essentially a game. As civiliza 
 tion develops, the riddle branches out in two directions: mystic 
 philosophy on the one hand and recreation on the other. But in 
 this development we must not think of seriousness degenerating 
 into play or of play rising to the level of seriousness. It is rather 
 that civilization gradually brings about a certain division between 
 two modes of mental life which we distinguish as play and 
-seriousness respectively, but which originally formed a con¬ 
+seriousness respectively, but which originally formed a con 
 tinuous mental medium wherein that civilization arose. 
 
 The riddle or, to put it less specifically, the set problem, is, 
@@ -5845,7 +5624,7 @@ filled in very convincingly by the editor.
 112 
 
 
-HOMO LUDENS 
+
 
 
 The question calculated to “catch” your opponent is properly 
@@ -5875,16 +5654,16 @@ them to drink until they have answered his questions. All those
 who ignore this injunction fall lifeless to the ground. Whereupon 
 Yudhisthira declares himself ready to answer the spirit’s questions, 
 and there now ensues a game of question and answer in Which 
-nearly the whole system of Hindu ethics is expounded—a remark¬ 
+nearly the whole system of Hindu ethics is expounded—a remark 
 able instance of the transition from the sacred cosmological riddle 
-to the “jeu d’esprit”. Properly viewed, the theological disputa¬ 
+to the “jeu d’esprit”. Properly viewed, the theological disputa 
 tions of the Reformation, such as the one between Luther and 
 Zwingli at Marburg in 1529 or between Theodore Beza with 
 his Calvinist colleagues and a number of Catholic prelates at 
 Poissy in 1561, are nothing less than a direct continuation of an 
 age-old ritual custom. 
 
-The literary outcome of the interrogative discourse is particu¬ 
+The literary outcome of the interrogative discourse is particu 
 larly interesting in the case of the Pali treatise called Milindapanha 
 —the Questions of King Menander, one of the Graeco-Indian 
 princes who reigned in Bactria in the 2nd century b.c. The text, 
@@ -5897,7 +5676,6 @@ not be attractive; therefore, it is good not to marry at all. Trans.]
 
 
 
-PLAYING AND KNOWING 
 
 
 "3 
@@ -5943,9 +5721,9 @@ discourses. Gangleri enters upon his dispute with Har, which is in
 the form of a wager, after first having drawn King Gylf’s attention 
 to his abilities by juggling with seven swords. 
 
-Gradual transitions lead from the sacred riddle-contest con¬ 
+Gradual transitions lead from the sacred riddle-contest con 
 cerning the origin of things to the catch-question contest, with 
-honour, possessions, or dear life at stake, and finally to the philo¬ 
+honour, possessions, or dear life at stake, and finally to the philo 
 sophical and theological disputation. Closely related to the latter 
 are other forms of dialogue, such as the litany and catechism of a 
 religious doctrine. Nowhere are all these forms so inextricably 
@@ -6006,7 +5784,6 @@ Kaiser Friedrich II als Fragesteller, Kultur—v. Universelfes, pp. 53 ~ 67 &gt;
 
 
 
-PLAYING AND KNOWING 
 
 
 “5 
@@ -6019,7 +5796,7 @@ to return to earth? etc. The old voices are mingled with the new.
 
 The second set of “Sicilian Questions” to Ibn Sabin is much 
 more purely philosophical, and is sceptical and Aristotelian in 
-tone. But it too shows traces of the old spirit. The young Moham¬ 
+tone. But it too shows traces of the old spirit. The young Moham 
 medan philosopher frankly lectures the Emperor: “Your questions 
 are foolish and awkward and contradictory!” The Emperor takes 
 this pertness in good part, and for this one of his German 
@@ -6061,7 +5838,7 @@ points as clearly as anything can to the riddle. Zeno asks: “If
 
 
 
-HOMO LUDENS 
+
 
 
 116 
@@ -6091,7 +5868,7 @@ Pythagorean conception of the 183 worlds lying side by side in
 the shape of an equilateral triangle. 4 
 
 All these samples of early philosophizing are pervaded by a 
-strong sense of the agonistic structure of the universe. The pro¬ 
+strong sense of the agonistic structure of the universe. The pro 
 cesses in life and the cosmos are seen as the eternal conflict of 
 opposites which is the root-principle of existence, like the Chinese 
 
@@ -6135,7 +5912,6 @@ Trans.]
 
 
 
-PLAYING AND KNOWING 
 
 
 H 7 
@@ -6156,7 +5932,7 @@ conceived as legal strife. Such a view shows up the play-character
 of archaic culture very clearly. According to Werner Jaeger, the 
 ideas of Kosmos, Dike and Tisis —order, justice and punishment— 
 were taken from the domain of law, where they belonged, and 
-transferred to the universal process, so that this could be under¬ 
+transferred to the universal process, so that this could be under 
 stood in terms of a lawsuit. 1 Similarly, he says, odziot originally 
 meant guilt before the law, but only later became the generally 
 accepted term for the idea of natural causality. Unfortunately 
@@ -6193,7 +5969,7 @@ had been appointed for them “by a large oath”. 3 It is impossible
 118 
 
 
-HOMO LUDENS 
+
 
 
 to gauge the full significance of this mythico-mystical proposition. 
@@ -6202,15 +5978,9 @@ is still moving in that region of ritual combat which vouchsafes
 the divine decision and which, as we saw, was at the bottom of 
 law and justice in archaic times. 
 
+## Play and Poetry
 
-
-VII 
-
-
-PLAY AND POETRY 
-
-
-In touching on the origins of Greek philosophy and its connec¬ 
+In touching on the origins of Greek philosophy and its connec 
 tion with the sacred contest in knowledge and wisdom, we 
 inevitably touch the shadowy border-line between the religious 
 or philosophical mode of expression and the poetic. It is therefore 
@@ -6222,9 +5992,9 @@ lose touch with play, so prominent in the earlier phases, the
 function of the poet still remains fixed in the play-sphere where 
 it was born. Poiesis, in fact, is a play-function. It proceeds within 
 the play-ground of the mind, in a world of its own which the 
-mind creates for it. There things have a very different physi¬ 
+mind creates for it. There things have a very different physi 
 ognomy from the one they wear in “ordinary life”, and are bound 
-by ties other than those of logic and causality. If a serious state¬ 
+by ties other than those of logic and causality. If a serious state 
 ment be defined as one that may be made in terms of waking 
 life, poetry will never rise to the level of seriousness. It lies beyond 
 seriousness, on that more primitive and original level where the 
@@ -6238,7 +6008,7 @@ hundred years ago. 1
 
 Poesis doctrinae tamquam somnium —poetry is like a dream of 
 philosophic love, 2 says the deep-minded Francis Bacon. The 
-mythical imaginings of savages, those children of nature, con¬ 
+mythical imaginings of savages, those children of nature, con 
 cerning the origins of existence often contain the seeds of a wisdom 
 which will find expression in the logical forms of a later age. 
 Philology and comparative religion are taking pains to penetrate 
@@ -6256,7 +6026,7 @@ Rubi6 i Lluch, Barcelona, 1936, i, p. 297 sq.
 120 
 
 
-HOMO LUDENS 
+
 
 
 more and more deeply into the mythical origins of faith . 1 Ancient 
@@ -6306,7 +6076,7 @@ rhetor spring from that primordial composite type, the vates. The
 
 
 
-PLAY AND POETRY 
+ 
 
 
 121 
@@ -6322,7 +6092,7 @@ in the thulr of Old Norse literature, thyle in Anglo-Saxon. Modern
 German philology renders the word by Kultredner, literally “cult 
 orator ”. 2 The most typical example of the thulr is the starkadr, 
 which Saxo Grammaticus rightly translates as vates. The thulr 
-sometimes appears as the speaker of liturgical formulae, some¬ 
+sometimes appears as the speaker of liturgical formulae, some 
 times as the performer in a sacred drama; sometimes as sacrificial 
 priest, sometimes even as sorcerer. At other times he seems to be 
 no more than a court-poet and orator, and his office no more 
@@ -6330,7 +6100,7 @@ than that of the scurra —buffoon or jester. The corresponding
 verb— thylja —-means the reciting of religious texts, the practising 
 of sorcery, or simply mumbling. The thulr is the repository of all 
 mythological knowledge and poetic lore. He is the wise old man 
-who knows the people’s history and tradition, who acts as spokes¬ 
+who knows the people’s history and tradition, who acts as spokes 
 man at the festivities and can recite the pedigrees of the heroes 
 and other worthies by heart. His special office is the competitive 
 peroration and the wisdom-match. In this capacity we meet him 
@@ -6365,7 +6135,7 @@ der Baltischen Kommission zu Kiel, iv, 1, 1927).
 122 
 
 
-HOMO LUDENS 
+
 
 
 Poetry, in its original culture-making capacity, is born in and 
@@ -6414,7 +6184,7 @@ van Wetenschappen, 1935 -
 
 
 
-PLAY AND POETRY 
+ 
 
 
 I2 3 
@@ -6442,7 +6212,7 @@ Islands. Here only improvisation counts. The inhabitants of
 Babar sing much more than do those of Buru, both communally 
 and alone at their work. Sitting in the tops of the coconut-palms 
 tapping the sap, the men sing mournful or mocking songs at the 
-expense of their companions in the neighbouring trees. Some¬ 
+expense of their companions in the neighbouring trees. Some 
 times the latter type of song leads to envenomed singing-duels, 
 which in former times might end in bloody violence and murder. 
 All songs consist of two lines known as the “trunk” and the “top” 
@@ -6473,7 +6243,7 @@ Asiatique, rev, 1924, p. 126.
 124 
 
 
-HOMO LUDENS 
+
 
 
 Undoubtedly akin to the pantun is the Japanese form of poetry 
@@ -6532,7 +6302,7 @@ Paris, 1936.
 
 
 
-PLAY AND POETRY 
+ 
 
 
 125 
@@ -6587,7 +6357,7 @@ and again seen in this play-motif, which is akin to both the
 126 
 
 
-HOMO LUDENS 
+
 
 
 “fatal” riddle and the game of forfeits, a means of expressing, 
@@ -6597,7 +6367,7 @@ this playing the most fertile soil for its own development. Let us
 borrow a couple of instances from the work of Nguyen van Huyen: 
 
 The pupils of a certain Dr. Tan had to pass the house of a girl 
-who lived next door to the teacher on their way to school. When¬ 
+who lived next door to the teacher on their way to school. When 
 ever they passed they always said: “You are sweet, you are really 
 a dear!” This made her quite angry, so one day she waited for 
 them and said: “Well, if you love me, I’ll give you a sentence. 
@@ -6605,7 +6375,7 @@ If any of you can give me the corresponding sentence I shall love
 him, otherwise you’ll all have to slink past my house in shame!” 
 She gave the sentence, and none of the pupils knew the right 
 answer, so in future they had to make a detour round the teacher’s 
-house. 1 Here we have an epic svayamvara or the wooing of Brun¬ 
+house. 1 Here we have an epic svayamvara or the wooing of Brun 
 hild in the guise of an Annamese village-school idyll. 
 
 Or again, Khanh-du, of the House of Tran, had been dismissed 
@@ -6639,7 +6409,7 @@ one another in literature. We remarked above that all forms of
 
 
 
-PLAY AND POETRY 
+ 
 
 
 127 
@@ -6656,7 +6426,7 @@ only hymns and incantations are put into verse but lengthy
 treatises such as the Ancient Hindu sutras and sastras or the earlier 
 products of Greek philosophy. Empedocles pours his knowledge 
 into a poem, and Lucretius still follows him in this. The preference 
-for verse form may have been due in part to utilitarian considera¬ 
+for verse form may have been due in part to utilitarian considera 
 tions: a bookless society finds it easier to memorise its texts in 
 this way. But there is a deeper reason, namely, that life in archaic 
 society is itself metrical and strophical in structure, as it were. 
@@ -6665,7 +6435,7 @@ things. Right up to 1868 the Japanese used to compose the
 weightiest part of a State document in poetic form. Legal 
 historians have paid special attention to the traces of poetry in 
 law, at least in Germanic tradition. Every student of Germanic 
-law knows the passage in Old Frisian Law where a clause con¬ 
+law knows the passage in Old Frisian Law where a clause con 
 cerning the various “needs” or needful occasions on which an 
 orphan’s inheritance has to be sold, suddenly breaks into lyrical 
 alliterative style: 
@@ -6693,7 +6463,7 @@ where poetic wording was the natural means of expression. In its
 128 
 
 
-HOMO LUDENS 
+
 
 
 sudden flight into poetry this Old Frisian example is typical of 
@@ -6759,7 +6529,7 @@ which is what matters here.
 
 
 
-PLAY AND POETRY 
+ 
 
 
 129 
@@ -6796,7 +6566,7 @@ In it, the line between the barely conceivable and the flatly
 impossible has not yet been drawn with any sharpness. For the 
 savage, with his extremely limited powers of logical co-ordination 
 and arrangement, practically everything is possible. Despite its 
-absurdities and enormities, its boundless exaggeration and con¬ 
+absurdities and enormities, its boundless exaggeration and con 
 fusion of proportions, its carefree inconsistencies and whimsical 
 variations, the myth does not strike him as anything impossible. 
 For all that, however, we would still like to ask whether the 
@@ -6815,7 +6585,7 @@ borne along as traditional lore by a culture which has in the
 I 3° 
 
 
-HOMO LUDENS 
+
 
 
 meantime more or less outgrown the primitive imagination, only 
@@ -6829,7 +6599,7 @@ poetic consciousness that we are apt to overlook their absolutely
 barbaric character. In the Eddie mythology we may perhaps 
 have some inkling of it—unless Wagner has rendered us immune 
 and deadened our senses; but on the whole it remains true that 
-only a mythology without direct hold on our aesthetic sensi¬ 
+only a mythology without direct hold on our aesthetic sensi 
 bilities can reveal to us the full measure of its savageness. We 
 see this clearly enough in the ancient Hindu myths and the wild 
 phantasmagorias with which ethnologists regale us from all over 
@@ -6845,7 +6615,7 @@ all these mythological figures as handed down by tradition are
 remnants of a barbarous society no longer compatible with the 
 spiritual level that had been reached in the meantime. Hence in 
 the period of their literary redaction myths, in order to be held 
-in honour as sacred lore, must either suffer a mystical interpreta¬ 
+in honour as sacred lore, must either suffer a mystical interpreta 
 tion at the hands of priests or be cultivated purely as literature. 
 To the degree that belief in the literal truth of the myth diminishes, 
 the play-element, which had been proper to it from the beginning, 
@@ -6862,7 +6632,7 @@ unmoved mover of the world.
 
 
 
-PLAY AND POETRY 
+ 
 
 
 I 3 I 
@@ -6881,7 +6651,7 @@ these mythical happenings. It is not the tone of the Christian,
 consciously superior to the heathenishness his faith has vanquished 
 and therefore inclined to mock it a little, still less is it the tone of 
 the convert execrating the past as a time of diabolical darkness; 
-it is rather one of half-belief, midway between play and serious¬ 
+it is rather one of half-belief, midway between play and serious 
 ness, a tone which had echoed of old in all mythical thinking and 
 probably sounded very little different in the heyday of heathenism. 
 The seeming incongruity between absurd mythological themes— 
@@ -6889,7 +6659,7 @@ savage fancies pure and simple, as in the stories of Hrungnir,
 Groa and Aurwandil—and a highly developed poetic technique 
 is likewise quite in accord with the very nature of myth which, 
 however crude in substance, always and everywhere seeks the 
-loftiest form of expression. The name of the first treatise, Gyl¬ 
+loftiest form of expression. The name of the first treatise, Gyl 
 faginning —i.e. the Fooling of Gylfi—is itself full of significance. 
 It takes the old, well-known form of a cosmogonic interrogative 
 discourse, just like Thor’s dispute in the hall of Utgardaloki. 
@@ -6903,7 +6673,7 @@ hairy giants and wicked, crafty dwarfs; rude and outlandish
 prodigies and marvels which are all in the end mercifully dispelled 
 as mere illusion. No doubt this is mythology in the last stages of 
 decrepitude—chaotic, fatuous, would-be fanciful. It would, 
-however, be rash to regard these features as a latter-day degenera¬ 
+however, be rash to regard these features as a latter-day degenera 
 tion of ideas once grand and heroic. On the contrary, lack of 
 style is an intrinsic part of myth. 
 
@@ -6917,7 +6687,7 @@ Burn Islanders.
 I 3 2 
 
 
-HOMO LUDENS 
+
 
 
 The formal elements of poetry are manifold: metrical and 
@@ -6928,7 +6698,7 @@ The same is true of the motifs of poetry which, however numerous
 they may be in any one language, occur everywhere and at all 
 times. These patterns, forms and motifs are so familiar to us that 
 we take their existence for granted and seldom pause to ask what 
-the common denominator is that makes them so and not other¬ 
+the common denominator is that makes them so and not other 
 wise. This denominator, which makes for the astonishing 
 uniformity and limitation of the poetic mode in all periods of 
 human society, might perhaps be found in the fact that the 
@@ -6941,7 +6711,7 @@ limits of time and space, in a visible order, according to rules
 freely accepted, and outside the sphere of necessity or material 
 utility. The play-mood is one of rapture and enthusiasm, and is 
 sacred or festive in accordance with the occasion. A feeling of 
-exaltation and tension accompanies the action, mirth and relaxa¬ 
+exaltation and tension accompanies the action, mirth and relaxa 
 tion follow. 
 
 Now it can hardly be denied that these qualities are also 
@@ -6967,7 +6737,7 @@ this tension to others. But there are none too many of these
 
 
 
-PLAY AND POETRY 133 
+ 133 
 
 situations—that is the point. Broadly speaking, such situations 
 rise either from conflict, or love, or both together. 
@@ -6977,7 +6747,7 @@ competition implies play. In the great majority of cases the
 central theme of poetry and literature generally is strife—i.e. the 
 task that the hero has to perform, the trials he has to undergo, 
 the obstacles he has to surmount. The very word “hero” for the 
-chief protagonist is telling enough. The task will be extra¬ 
+chief protagonist is telling enough. The task will be extra 
 ordinarily difficult, seemingly impossible. More often than not 
 it will be tackled as the result of a challenge, or a vow, a promise 
 or whim of the beloved. All these motifs carry us straight back to 
@@ -6990,7 +6760,7 @@ carries a secret. Once more we are close to the old and sacred
 game of the hidden being who will only reveal himself to the 
 initiated. 
 
-As a form of competition proper, archaic poetry is barely dis¬ 
+As a form of competition proper, archaic poetry is barely dis 
 tinguishable from the ancient riddle-contest. The one produces 
 wisdom, the other words of beauty. Both are dominated by a 
 system of play-rules which fix the range of ideas and symbols to 
@@ -7018,7 +6788,7 @@ language, with deliberate intent.
 134 
 
 
-HOMO LUDENS 
+
 
 
 What poetic language does with images is to play with them. 
@@ -7031,7 +6801,7 @@ more vital than the satisfaction of literary aspirations. It puts
 ritual into words, it is the arbiter of social relationships, the 
 vehicle of wisdom, justice and morality. All this it does without 
 prejudice to its play-character, for the setting of archaic culture 
-itself is the play-circle. At this stage cultural activities are per¬ 
+itself is the play-circle. At this stage cultural activities are per 
 formed as social games; even the most utilitarian gravitate 
 towards one play-group or another. But as civilization increases 
 in spiritual amplitude, the regions where the play-factor is weak 
@@ -7067,7 +6837,7 @@ by the dozen. One of the treatises in the younger Edda, the
 
 
 
-PLAY AND POETRY 
+ 
 
 
 135 
@@ -7092,9 +6862,9 @@ to the trobarclus —the making of recondite poetry.
 Modern schools of lyric which move and have their being in 
 realms not generally accessible and are fond of wrapping the 
 sense in an enigmatic word, are thus remaining true to the essence 
-of their art. With their restricted circle of readers who under¬ 
+of their art. With their restricted circle of readers who under 
 stand or are at least acquainted with their special language, they 
-are a closed cultural group of very ancient descent. It is question¬ 
+are a closed cultural group of very ancient descent. It is question 
 able, however, whether the civilization that surrounds them is 
 capable of appreciating their purpose sufficiently to nurture an 
 art whose raison d'etre is yet the fulfilment of a vital function. 
@@ -7104,13 +6874,7 @@ art whose raison d'etre is yet the fulfilment of a vital function.
 does not necessarily preclude their connection with tabu concepts. See Alberta A. 
 Portengen, De Oudgermaansche dichtertaal in haar etymologisch verband, Leyden, 1915. 
 
-
-
-VIII 
-
-
-THE ELEMENTS OF MYTHOPOIESIS 
-
+## The Elements of Mythopoiesis
 
 As soon as the effect of a metaphor consists in describing things 
 or events in terms of life and movement, we are on the road to 
@@ -7155,7 +6919,6 @@ and from his ears the four quarters of the horizon; thus did they
 
 
 
-THE ELEMENTS OF MYTHOPOIESIS I 37 
 
 (the gods) 1 fashion the worlds”. They burnt Purusha as an 
 offering. The hymn is a mixture of age-old myth-fantasies and 
@@ -7183,11 +6946,11 @@ edification of coming generations. As we have already said, the
 Gylfaginning, where all this occurs, in its whole structure, tone and 
 tendency seems to be playing with the old mythological themes 
 in a way that can hardly be called serious. We must ask ourselves, 
-therefore, whether the mentality responsible for these personifica¬ 
+therefore, whether the mentality responsible for these personifica 
 tions is not wedded to a certain playfulness at the outset. In 
 other words, recapitulating what we have said about myth in 
 general, we feel some doubt whether in fact the primitive Hindus 
-and Scandinavians ever really believed with the full force of con¬ 
+and Scandinavians ever really believed with the full force of con 
 viction in such figments as the creation of the world from human 
 limbs. At any rate the reality of this belief cannot be proved. We 
 may go so far as to say that it is extremely improbable. 
@@ -7207,12 +6970,12 @@ and Man, Built Before the Flood , etc.—for a very different interpretation. Tr
 
 
 
-HOMO LUDENS 
+
 
 
 138 
 
-belief-value of the personification it contains becomes problem¬ 
+belief-value of the personification it contains becomes problem 
 atical, not to say illusory. Personification is then used quite 
 consciously as the material of poetry, even when the ideas it 
 helps to formulate are still counted as holy. This verdict also 
@@ -7263,15 +7026,14 @@ P- 75 -
 
 
 
-THE ELEMENTS OF MYTHOPOIESIS 1 39 
 
 ness, preserved this primitive faculty of personification (which is 
 not strictly anthropomorphic) in the practice of the so-called 
 indigitamenta, an official rite whereby new divinities were installed 
-in times of violent public excitement, with a view to tranquilliz¬ 
+in times of violent public excitement, with a view to tranquilliz 
 ing these outbursts of collective emotion by giving them fixed 
 form as sacred entities. It was a brilliant psychological trick for 
-resolving dangerous social tensions and exorcising them by pro¬ 
+resolving dangerous social tensions and exorcising them by pro 
 jection and propitiation. Thus Pallor and Pavor—Paleness and 
 Fear—had their shrines, likewise Aius Locutius, the Voice that 
 had warned against the Gauls, and Rediculus, who had caused 
@@ -7293,7 +7055,7 @@ Poverty, his bride, with holy fervour and pious rapture. But if
 we ask in sober earnest whether St. Francis actually believed in a 
 spiritual and celestial being whose name was Poverty, who really 
 was the idea of poverty, we begin to waver. Put in cold blood like 
-that the question is too blunt; we are forcing the emotional con¬ 
+that the question is too blunt; we are forcing the emotional con 
 tent of the idea. St. Francis’ attitude was one of belief and unbelief 
 mixed. The Church hardly authorized him in an explicit belief 
 of that sort. His conception of Poverty must have vacillated 
@@ -7304,7 +7066,7 @@ with the figure of poverty. The saint’s whole life is full of pure
 play-factors and play-figures, and these are not the least attractive 
 part of him. Similarly Henry Suso, the German mystic of the 
 next century, in his sweet mystico-lyrical musings indulges in the 
-same sort of game with his beloved, Eternal Wisdom. The play¬ 
+same sort of game with his beloved, Eternal Wisdom. The play 
 ground of the saints and mystics is far beyond the sphere of 
 
 1 Essai sur le Jon, p. 112. 
@@ -7314,7 +7076,7 @@ ground of the saints and mystics is far beyond the sphere of
 140 
 
 
-HOMO LUDENS 
+
 
 
 ordinary mortals, and still further from the rational thinking 
@@ -7330,8 +7092,8 @@ allegory and the conception of celestial—or infernal—beings in
 theology. We would be doing an injustice to a poet-theologian 
 like Alain de Lille if we described the whole poetic treasury of 
 his Anticlaudianus or De Planctu Naturae, so rich in images, simply 
-as a literary “game”. His images are too deep for that; the pro¬ 
-fundities of his philosophical and theological thought are abso¬ 
+as a literary “game”. His images are too deep for that; the pro 
+fundities of his philosophical and theological thought are abso 
 lutely bound up with them. On the other hand he remains fully 
 aware of the imaginary character of his apparatus. Even Hilde- 
 gard of Bingen lays no claim to the metaphysical reality of the 
@@ -7366,7 +7128,6 @@ afd. Letterkunde, lxxiv, B, No. 6, 193a, p. 82 sq.
 
 
 
-THE ELEMENTS OF MYTHOPOIESIS I4I 
 
 If this innate tendency of the mind, which invests the objects 
 of ordinary life with personality, is in fact rooted in play then we 
@@ -7416,7 +7177,7 @@ well ask whether abstract speech can ever get on without them.
 142 
 
 
-HOMO LUDENS 
+
 
 
 Not only the elements of myth but those of poetry too are best 
@@ -7445,7 +7206,7 @@ from. The lyric must be understood here in a very wide sense,
 so as to include not only the lyrical genre as such but all moods 
 expressive of rapture. In the scale of poetic speech lyrical 
 expression is the farthest removed from logic and comes closest to 
-music and the dance. The lyric is the language of mystic con¬ 
+music and the dance. The lyric is the language of mystic con 
 templation, oracles and magic. Here the poet experiences most 
 strongly the sensation of being inspired from without; here he is 
 closest to supreme wisdom but also to inanity. The utter surrender 
@@ -7457,14 +7218,13 @@ lyrical poet alone who needs it; the whole genre must of necessity
 move outside the limitations of the intellect. One of the basic 
 features of lyrical imagination is the tendency to maniacal 
 exaggeration. Poetry must be exorbitant. The cosmogonic and 
-mystical fantasies of the Rig-veda and the lofty genius of Shake¬ 
+mystical fantasies of the Rig-veda and the lofty genius of Shake 
 speare meet in the most daring images, for Shakespeare had 
 passed through the whole tradition of classicism and yet retained 
 the full impetus of the archaic vates. 
 
 
 
-THE ELEMENTS OF MYTHOPOIESIS 
 
 
 143 
@@ -7499,7 +7259,7 @@ seriously, no matter whether we find it in myths which are part
 of a system of belief or in pure literature or in the fantasies of 
 children. In every case we are dealing with the same play-habit 
 of the mind. Involuntarily we always judge archaic man’s belief 
-in the myths he creates by our own standards of science, phil¬ 
+in the myths he creates by our own standards of science, phil 
 osophy or religious conviction. A half-joking element verging on 
 make-believe is inseparable from true myth. Here we are up 
 against that “thaumaturgic part of poetry” whereof Plato speaks. 2 
@@ -7516,7 +7276,7 @@ lyric understood as a play-function once its ties with music have
 3 Sophistes 268 D: iroirjaetos . ... rb davfiaTOirouKbv pidpiov. 
 
 
-144 HOMO LUDENS 
+144 
 
 gone. Only the drama, because of its intrinsically functional 
 character, its quality of being an action, remains permanently 
@@ -7560,12 +7320,11 @@ time the “acting out” of a myth-theme grew into the regular
 performance, with mime and dialogue, of a sequence of events 
 constituting a story with a plot. 
 
-Comedy and tragedy alike come under the heading of competi¬ 
+Comedy and tragedy alike come under the heading of competi 
 tion, which, as we have seen, is in all circumstances to be called 
 
 
 
-THE ELEMENTS OF MYTHOPOIESIS 145 
 
 play. The Greek dramatists composed their works competitively 
 for the feast of Dionysus. Though the State did not organize the 
@@ -7582,7 +7341,7 @@ The actual matter of the drama was also agonistic. The comedy,
 for instance, debated an issue or attacked a person or a point of 
 view, as in the case of Aristophanes deriding Socrates or Euripides. 
 As to the mood in which the drama was performed it was one of 
-Dionysian ecstasy and dithyrambic rapture. The player, with¬ 
+Dionysian ecstasy and dithyrambic rapture. The player, with 
 drawn from the ordinary world by the mask he wore, felt himself 
 transformed into another ego which he did not so much represent 
 as incarnate and actualize. The audience was swept along with 
@@ -7592,7 +7351,7 @@ expression fully accord with the sacred origin of the drama. The
 mental sphere from which the drama springs knows no distinction 
 between play and seriousness. With Aeschylus the experience of 
 the most formidable seriousness is accomplished in the form of 
-play. With Euripides the tone wavers between profound serious¬ 
+play. With Euripides the tone wavers between profound serious 
 ness and frivolity. The true poet, says Socrates in Plato’s 
 Symposium, must be tragic and comic at once, and the whole of 
 human life must be felt as a blend of tragedy and comedy . 1 
@@ -7600,13 +7359,7 @@ human life must be felt as a blend of tragedy and comedy . 1
 
 1 Symposium 223 D, Philebus 50 B. 
 
-
-
-IX 
-
-
-PLAY-FORMS IN PHILOSOPHY 
-
+## Play-Forms in Philosophy
 
 At the centre of the circle we are trying to describe with our 
 idea of play there stands the figure of the Greek sophist. He may 
@@ -7650,7 +7403,6 @@ like a miraculous being, likened to the heroes of athletics; in
 
 
 
-PLAY-FORMS IN PHILOSOPHY 147 
 
 short, the profession of sophist was quite on a par with sport. The 
 spectators applauded and laughed at every well-aimed crack. It 
@@ -7674,7 +7426,7 @@ sophists, and that they all retain traces of this ancient kinship.
 The sophists themselves were perfectly well aware of the playful 
 character of their art. Gorgias called his Encomium on Helen a 
 game (naiyviov) and his treatise On Nature has been termed a 
-play-study in rhetoric . 4 Those who object to such an interpreta¬ 
+play-study in rhetoric . 4 Those who object to such an interpreta 
 tion, as Capelle does , 5 should bear in mind that over the whole 
 field of sophist eloquence no sharp distinction can be made 
 between play and seriousness and that the term “play” fits the 
@@ -7688,7 +7440,7 @@ to the tribe of nomads; vagrancy and parasitism are his birthright.
 Nevertheless these same sophists were responsible for the milieu 
 which gave rise to the Hellenic idea of education and culture. 
 Greek knowledge and Greek science were not products of the 
-school as we understand it. That is to say, they were not the by¬ 
+school as we understand it. That is to say, they were not the by 
 products of an educational system designed to train the citizen 
 for useful and profitable occupations. For the Greek, the treasures 
 of the mind were the fruit of his leisure—cr^oXf)—and for the 
@@ -7702,7 +7454,7 @@ b Vorsokratiker, p- 344-
 
 
 
-HOMO LUDENS 
+
 
 
 I48 
@@ -7738,7 +7490,7 @@ said: “If you want it to be true you’d better begin with me”. 3
 Chrysippus wrote a whole treatise on certain sophisms. All these 
 catch-questions rest on the condition that your opponent shall 
 tacitly accept the logical validity of the game without raising 
-objections and spoiling everything like Diogenes. The proposi¬ 
+objections and spoiling everything like Diogenes. The proposi 
 tions could be stylistically adorned with rhymes, refrains or other 
 artifices. 
 
@@ -7756,7 +7508,6 @@ grammar and logic, and sometimes verging on the profundities of
 
 
 
-PLAY-FORMS IN PHILOSOPHY 
 
 
 : 49 
@@ -7776,7 +7527,7 @@ The Greeks themselves always realized how much they were
 playing in these matters. In Euthydemos Plato makes Socrates 
 disdain the artifices of sophistry as a fooling with doctrine. “This 
 stuff”, he says, “teaches you nothing about the nature of things; 
-you only learn how to fool people with subtleties and equivoca¬ 
+you only learn how to fool people with subtleties and equivoca 
 tions. It is no better than tripping somebody up or taking his 
 chair away as he is about to sit down”. “When you say that you 
 want to make a sage of this boy”, he goes on, “are you fooling or 
@@ -7785,7 +7536,7 @@ Stranger from Elea that the sophist belongs to the sort of people
 “who give themselves up to play” (tmv toxiSiSc; [xetexovtoov). 3 
 Parmenides, pressed to pronounce upon the problem of existence, 
 calls this task “playing a difficult game” (7Tpay[xaTEiwSr) toxiSuxv 
-TOxi^Eiv), 4 and then launches forth into the profoundest onto¬ 
+TOxi^Eiv), 4 and then launches forth into the profoundest onto 
 logical questions, keeping all the time to the game of question 
 and answer. “The One can have no parts, is unlimited, hence 
 formless; it is nowhere, it is motionless, timeless, unknowable”. 
@@ -7819,7 +7570,7 @@ Euthydemos 293 C; Cratylus 386 D.
 
 
 
-HOMO LUDENS 
+
 
 
 150 
@@ -7828,7 +7579,7 @@ need not be surprised to find even Socrates and Plato reckoned
 among the jugglers and thaumaturges just like the sophists. 1 If 
 these things do not suffice to reveal the play-element in philosophy 
 there is ample evidence of it in the Platonic dialogues themselves. 
-The dialogue is an art-form, a fiction; for obviously real con¬ 
+The dialogue is an art-form, a fiction; for obviously real con 
 versation, however polished it may have been with the Greeks, 
 could never have had the gloss of the literary dialogue. In Plato’s 
 hands it is a light, airy thing, quite artificial. The setting of 
@@ -7854,7 +7605,7 @@ when the Protagoras ends by reversing the points of view, or when
 it is doubtful whether the funeral speech in the Menexenos is 
 meant seriously or not? 
 
-Plato’s speakers themselves regard their philosophic pre¬ 
+Plato’s speakers themselves regard their philosophic pre 
 occupations as a pleasant pastime. Youth loves to dispute, age 
 to be honoured. 5 “That”, says Callicles in Gorgias, “is the long 
 and short of it, as you will understand if you now leave philosophy 
@@ -7876,7 +7627,6 @@ Paris, 1931, p. 52.
 
 
 
-PLAY-FORMS IN PHILOSOPHY I5I 
 
 distraction. In order to establish for all time the fundamental 
 errors of the sophists, their logical and ethical deficiencies, Plato 
@@ -7890,7 +7640,7 @@ But, we may ask, can philosophy ever do this?
 
 We can sketch the successive stages of philosophy roughly as 
 follows: it starts in the remote past from the sacred riddle-game, 
-which is at one and the same time ritual and festival entertain¬ 
+which is at one and the same time ritual and festival entertain 
 ment. On the religious side it gives rise to the profound philosophy 
 and theosophy of the Upanishads, to the intuitive flashes of the 
 pre-Socratics; on the play side it produces the sophist. The two 
@@ -7902,9 +7652,9 @@ quackery and intellectual smartness. The agonistic factor in
 Greece was so strong that it allowed rhetoric to expand at the cost 
 of pure philosophy, which was put in the shade by sophistication 
 parading as the culture of the common man. Gorgias was typical 
-of this deterioration of culture: he turned away from true phil¬ 
+of this deterioration of culture: he turned away from true phil 
 osophy to waste his spirit in the praise and misuse of glittering 
-words and false wit. After Aristotle the level of philosophic think¬ 
+words and false wit. After Aristotle the level of philosophic think 
 ing sank; emulation carried to extremes and narrow doctrinairism 
 won the day. A similar declension was to repeat itself in the later 
 Middle Ages, when the age of the great scholastics who sought to 
@@ -7912,7 +7662,7 @@ understand the innermost meaning of things was followed by
 one in which words and formulae alone sufficed. 
 
 The play-element in all this is not easy to fix with any accuracy. 
-Sometimes a childish pun or a shallow witticism misses pro¬ 
+Sometimes a childish pun or a shallow witticism misses pro 
 fundity by but a hair’s breadth. Gorgias’ famous treatise On 
 Not-being, in which he categorically rejects all serious knowledge 
 in favour of a radical nihilism, is as much a play-phenomenon as 
@@ -7923,7 +7673,7 @@ treated fatuous sophistries constructed on some grammatical
 
 
 
-HOMO LUDENS 
+
 
 
 J 52 
@@ -7933,7 +7683,7 @@ precisely the same way. 1
 
 For the rest, disputation and declamation reigned supreme, 
 and were ever a theme of public competition. Public speaking 
-was a form of exhibitionism, a pretext for showing off and swank¬ 
+was a form of exhibitionism, a pretext for showing off and swank 
 ing with words. When a Greek author wanted to set out and get 
 a judgement on some controversial question he presented it in 
 literary form as a dispute. Thus Thucydides puts the case for 
@@ -7967,7 +7717,7 @@ led philosophy back to its antique origins.
 We have no wish to go into the deep question of how far the 
 process of reasoning is itself marked by play-rules, i.e. is only 
 valid within a certain frame of reference where those rules are 
-accepted as binding. May it not be that in all logic, and particu¬ 
+accepted as binding. May it not be that in all logic, and particu 
 larly in the syllogism, there is always a tacit understanding to 
 
 1 Prantl, op. cit. p. 494. 
@@ -7979,7 +7729,6 @@ Nietzsche: sa vie et sa pense'e, Paris, 1920, i, p. I41; iii, p. 162.
 
 
 
-PLAY-FORMS IN PHILOSOPHY 
 
 
 *53 
@@ -8010,11 +7759,11 @@ out”. 1 Pleasantries like: “You have horns for you haven’t lost
 any horns therefore you have them still!” echoed through the 
 whole literature of the Schools and never seemed to lose their 
 exquisite savour. Evidently it was too much for the average 
-intellect to detect the logical fallacy which makes such proposi¬ 
+intellect to detect the logical fallacy which makes such proposi 
 tions purely asinine. 
 
 The spectacle of philosophy at play during the Dark Ages is 
-seen in the conversion of the Visigoths from Arianism to Catholic¬ 
+seen in the conversion of the Visigoths from Arianism to Catholic 
 ism at Toledo in the year 589, which took the form of a regular 
 theological tourney with high prelates on both sides. A no less 
 striking illustration of the sportive character of philosophy during 
@@ -8033,7 +7782,7 @@ x De Doctrina Christiana , ii, p. 31.
 
 
 
-HOMO LUDENS 
+
 
 
 154 
@@ -8064,7 +7813,7 @@ and Alcuin answers: “The keeper of knowledge”. “What is the
 word?”—“The betrayer of thought”. “Who begot the word?”— 
 “The tongue”. “What is the tongue?”—“The scourge of the air”. 
 “What is the air?”—“The preserver of life”. “What is life?”— 
-“The delight of the happy, the bane of the sorrowful, the expecta¬ 
+“The delight of the happy, the bane of the sorrowful, the expecta 
 tion of death”. “What is man?”—“The slave of death, the guest 
 of one place, a traveller passing”. All this strikes a familiar 
 note: it is the old game of question and answer, the riddle- 
@@ -8075,9 +7824,9 @@ Scandinavians.
 
 Towards the end of the 1 ith century the young countries of the 
 West were pervaded by an all-consuming thirst for knowledge of 
-life and everything that existed. It would ere long find institu¬ 
+life and everything that existed. It would ere long find institu 
 tional form in the University, one of the greatest single creations 
-of mediaeval civilization, and in Scholasticism its highest ex¬ 
+of mediaeval civilization, and in Scholasticism its highest ex 
 pression. The beginnings of this great spiritual ferment were 
 marked by the almost febrile agitation which seems inseparable 
 
@@ -8085,7 +7834,6 @@ marked by the almost febrile agitation which seems inseparable
 
 
 
-PLAY-FORMS IN PHILOSOPHY 
 
 
 155 
@@ -8100,7 +7848,7 @@ and bloodiest form, either by groups of knights roaming the
 countryside bent on mutual destruction or by single champions 
 in search of worthy adversaries (the historical forerunners of the 
 knight-errant so beloved by a later literature), coincided in time 
-with the evil, lamented by Peter Damiani, of professional wind¬ 
+with the evil, lamented by Peter Damiani, of professional wind 
 bags who wandered about prating of their art and gaining signal 
 victories like the Greek sophists of old. In the Schools of the 
 12th century the most violent rivalry, going to all the lengths of 
@@ -8115,7 +7863,7 @@ as pupils. 1 These often make a mint of money as did the sophists
 in Greece. Roscelinus, in his envenomed calumniation of 
 Abelard, shows us the latter counting up, every evening, the 
 money that his false teachings brought him and daily dissipating 
-it in debaucheries. Abelard himself declares that he only under¬ 
+it in debaucheries. Abelard himself declares that he only under 
 took his studies in order to earn money and that he made a great 
 deal. His abrupt transition from teaching Physics (i.e. Philosophy) 
 to the interpretation of the Holy Scriptures was the result of a 
@@ -8141,7 +7889,7 @@ Murtdi, ibid. 709; John of Salisbury, Metalogicus, i, c. 3; Policraticus, v, c. 
 
 
 
-HOMO LUDENS 
+
 
 
 I56 
@@ -8150,7 +7898,7 @@ ment of Scholasticism and the Universities. The lasting vogue
 for the problem of “universals” as the central theme of philosophic 
 discussion, which led to the split between the Realists and the 
 Nominalists, was probably agonistic at bottom and sprang from 
-the fundamental need to form parties on a point at issue. Partisan¬ 
+the fundamental need to form parties on a point at issue. Partisan 
 ship is inseparable from cultural growth. The point at issue may 
 be a relatively unimportant one, though in this case it was crucial 
 for the human mind; the controversy is still unresolved to-day. 
@@ -8158,7 +7906,7 @@ The whole functioning of the mediaeval U niversity was profoundly
 agonistic and ludic. The everlasting disputations which took the 
 place of our learned discussions in periodicals, etc., the solemn 
 ceremonial which is still such a marked feature of University life, 
-the grouping of scholars into nationes, the divisions and sub¬ 
+the grouping of scholars into nationes, the divisions and sub 
 divisions, the schisms, the unbridgeable gulfs—all these are 
 phenomena belonging to the sphere of competition and play- 
 rules. Erasmus was fully aware of this when he complains, in a 
@@ -8181,7 +7929,7 @@ efflorescence coinciding with the weakening of authority and
 antiquity, and the decay of faith. Everything is taking up new 
 positions; camps and factions fill the scene. You have to be for 
 Descartes or against him, for or against Newton, “les modernes”, 
-“les anciens”, the flattening of the earth at the poles, inocula¬ 
+“les anciens”, the flattening of the earth at the poles, inocula 
 tion, etc. The 18th century saw a lively intellectual commerce 
 between the savants of different countries, though mercifully the 
 limited techniques of the time prevented the chaotic exuberance of 
@@ -8192,7 +7940,6 @@ age was exquisitely suited to serious or merely trifling pen-
 
 
 
-PLAY-FORMS IN PHILOSOPHY 
 
 
 157 
@@ -8205,10 +7952,7 @@ tempted to envy it.
 
 
 
-X 
-
-
-PLAY-FORMS IN ART 
+## Play-Forms in Art
 
 
 Play, we found, was so innate in poetry, and every form of 
@@ -8251,7 +7995,6 @@ as musical sensibility. In feeling music we feel ritual. In the
 
 
 
-PLAY-FORMS IN ART 
 
 
 159 
@@ -8274,11 +8017,11 @@ was closely related to ritual, above all to the feasts where, of
 course, ritual had its proper function. Nowhere, perhaps, is the 
 relationship between ritual, dancing, music and play described 
 more lucidly than in Plato’s Laws. 2 3 The gods, he says, out of pity 
-for the race of men born to sorrow, ordained the feasts of thanks¬ 
+for the race of men born to sorrow, ordained the feasts of thanks 
 giving as a respite from their troubles and gave them Apollo, lord 
 of the Muses, and Dionysus to be their companions in the feast, 
 that by this divine companionship at feast-tide order might always 
-be restored among men. Then follows Plato’s oft-quoted explana¬ 
+be restored among men. Then follows Plato’s oft-quoted explana 
 tion of play, how all young creatures cannot keep either their 
 bodies or their voices still, how they must continually be moving 
 and making a noise for joy, leaping and skipping and dancing 
@@ -8289,7 +8032,7 @@ given us as companions in the dance have granted the perception
 of rhythm and harmony, which is invariably accompanied by 
 
 
-1 Many pages could be devoted to the etymology of the word “muse”, which pre¬ 
+1 Many pages could be devoted to the etymology of the word “muse”, which pre 
 serves its root in many languages. The Greek mousa is held to derive from the verb 
 fji&amp;eiv, to seek after, crave, covet, and the literal meaning to be “inventress”, invention 
 being inferred from seeking and desiring. Mousa may also have referred originally to 
@@ -8312,7 +8055,7 @@ amusement. Trans.
 i6o 
 
 
-HOMO LUDENS 
+
 
 
 pleasure. Here, as clearly as possible, a direct connection is 
@@ -8326,7 +8069,7 @@ Hence nouSix could hardly serve to denote the higher forms of
 play, it was too reminiscent of the child. Therefore the higher 
 forms had to find expression in specific terms such as aycov— 
 contest, eryoXa^stv—to take one’s leisure, to idle, Staywyy]— 
-(literally “passing” but only approximately rendered by “pas¬ 
+(literally “passing” but only approximately rendered by “pas 
 time”), 1 which completely miss the essential play-element. In 
 this way the Greek mind failed to realize the fundamental unity 
 of all these ideas in one general concept, as in the clearly conceived 
@@ -8369,7 +8112,6 @@ leisure. “Nowadays”, he says, 4 “most people practise music for
 
 
 
-PLAY-FORMS IN ART l6l 
 
 pleasure, but the ancients gave it a place in education (7taiSeia), 
 because Nature requires us not only to be able to work well but 
@@ -8385,7 +8127,7 @@ would be the aim of life and that, for Aristotle, is impossible
 because TOaSioc merely is child’s play. Playing may serve as 
 relaxation from work, as a sort of tonic inasmuch as it affords 
 repose to the soul. Leisure, however, seems to contain in itself 
-all the joy and delight of life. Now this happiness, i.e. the cessa¬ 
+all the joy and delight of life. Now this happiness, i.e. the cessa 
 tion of striving after that which one has not, is the telos. But all 
 men do not find it in the same thing. It will, moreover, be best 
 where those who enjoy are best and their aspirations the noblest. 
@@ -8398,7 +8140,7 @@ to pass one’s free time.
 
 In this exposition we find that the demarcation between play 
 and seriousness is very different from ours and that the criteria 
-for their evaluation are no longer our criteria. Diagoge imper¬ 
+for their evaluation are no longer our criteria. Diagoge imper 
 ceptibly acquires the meaning of such intellectual and aesthetic 
 preoccupations as are becoming to free men. Children, says 
 Aristotle, 1 are not yet capable of it, for diagoge is a final aim, a 
@@ -8421,7 +8163,7 @@ belonged to the mimetic arts, and the effect of this mimesis is to
 162 
 
 
-HOMO LUDENS 
+
 
 
 arouse ethical feelings of a positive or negative kind. 1 Any melody, 
@@ -8431,7 +8173,7 @@ portrayed is good or bad, beautiful or ugly, the same qualification
 will attach to the music. Herein lies its ethical and educative 
 value, since the experience of the mimesis arouses the sentiments 
 imitated. 2 Thus the Olympian melodies rouse enthusiasm, other 
-rhythms and melodies suggest anger, sedateness, courage, con¬ 
+rhythms and melodies suggest anger, sedateness, courage, con 
 templation, etc. Whereas no ethical effect is associated with the 
 sense of touch or taste, and only very feebly with that of sight, the 
 melody of its own nature expresses an ethos. The various modes in 
@@ -8476,7 +8218,6 @@ long time its function was purely social and ludic, and though the
 
 
 
-PLAY-FORMS IN ART 
 
 
 163 
@@ -8502,9 +8243,9 @@ awe of the conductor, are of very recent date. Prints of musical
 performances in the 18th century show the audience engaged in 
 elegant conversation. Critical interruptions aimed at the 
 orchestra or conductor were a regular feature of musical life in 
-France even thirty years ago. Music was still largely a divertisse¬ 
+France even thirty years ago. Music was still largely a divertisse 
 ment and what was most admired about it was virtuosity. The 
-composer’s creations were not by any means regarded as sacro¬ 
+composer’s creations were not by any means regarded as sacro 
 sanct, as his own property to which he had inalienable rights. 
 Executants made such lavish use of the free cadenza that steps had 
 to be taken. Frederick the Great, for instance, prohibited singers 
@@ -8526,7 +8267,7 @@ singers Faustina and Cuzzoni: there were fisticuffs and catcalls.
 
 
 
-HOMO LUDENS 
+
 
 
 164 
@@ -8576,7 +8317,6 @@ they hardly need illustrating. It is not that dancing has something
 
 
 
-PLAY-FORMS IN ART 
 
 
 165 
@@ -8625,7 +8365,7 @@ this quality of action is not lost if the enjoyment of poetry shifts
 
 
 
-HOMO LUDENS 
+
 
 
 I 66 
@@ -8639,7 +8379,7 @@ of their being bound to matter and to the limitations of form
 inherent in it, is enough to forbid them absolutely free play and 
 deny them that flight into the ethereal spaces open to music and 
 poetry. In this respect dancing is in an anomalous position. It 
-is musical and plastic at once: musical since rhythm and move¬ 
+is musical and plastic at once: musical since rhythm and move 
 ment are its chief elements, plastic because inevitably bound to 
 matter. Its execution depends on the human body with its limited 
 manoeuvre ability, and its beauty is that of the moving body 
@@ -8665,7 +8405,7 @@ always testing and correcting himself. His inspiration may be
 free and vehement when he “conceives”, but in its execution it is 
 always subjected to the skill and proficiency of the forming hand. 
 If therefore the play-element is to all appearances lacking in the 
-execution of a work of plastic art, in the contemplation and enjoy¬ 
+execution of a work of plastic art, in the contemplation and enjoy 
 ment of it there is no scope for it whatever. For where there is no 
 visible action there can be no play. 
 
@@ -8677,7 +8417,6 @@ purpose—and this is in no way dependent on aesthetic impulse.
 
 
 
-PLAY-FORMS IN ART 
 
 
 167 
@@ -8686,7 +8425,7 @@ The man who is commissioned to make something is faced with
 a serious and responsible task: any idea of play is out of place. 
 He has to build an edifice—a temple or dwelling—worthy of 
 its function in ritual or fit for human use. Or he has to make a 
-vessel, a garment, an image, each of which may have to corre¬ 
+vessel, a garment, an image, each of which may have to corre 
 spond to the idea it renders symbolically or in imitation. 
 
 Hence the processes of plastic art run completely outside the 
@@ -8706,7 +8445,7 @@ weapons beautifully ornamented could all belong to the religious
 world. Such objects had magic power, they were charged with 
 symbolical value as very often they represented a mystic identity. 
 Now ritual and play are so closely connected that it would be 
-strange indeed if we did not find the play-qualities of ritual some¬ 
+strange indeed if we did not find the play-qualities of ritual some 
 where reflected in the making and appreciation of works of art. 
 Not without hesitation I venture to suggest to classical scholars 
 that a semantic link between ritual, art and play may possibly 
@@ -8728,7 +8467,7 @@ exalting), we come quite close to that mood of sacred play which
 
 
 
-HOMO LUDENS 
+
 
 
 I 68 
@@ -8763,7 +8502,7 @@ painting. It seems preposterous to ascribe the cave-paintings of
 Altamira, for instance, to mere doodling—which is what it 
 amounts to if they are ascribed to the “play-instinct”. As to 
 architecture the hypothesis is flatly absurd, because there the 
-aesthetic impulse is far from being the dominant one, as the con¬ 
+aesthetic impulse is far from being the dominant one, as the con 
 structions of bees and beavers clearly prove. Though the primary 
 importance of play as a cultural factor is the main thesis of this 
 book, we still maintain that the origin of art is not explained by 
@@ -8778,7 +8517,6 @@ l Ueber die aesthetische Erz.ieh.ung des Menschen, 1 795&gt; 14th letter.
 
 
 
-PLAY-FORMS IN ART 
 
 
 l6g 
@@ -8797,7 +8535,7 @@ skill ranks as high as almost any other human faculty. The
 agonistic impulse, which we found to be powerfully operative 
 over so many fields of culture, also comes to fruition in art. The 
 desire to challenge a rival to perform some difficult, seemingly 
-impossible feat of artistic skill lies deep in the origins of civiliza¬ 
+impossible feat of artistic skill lies deep in the origins of civiliza 
 tion. It is the equivalent of the various contests we encountered 
 in the field of knowledge, poetry or courage. Can we now say 
 straight out that master-pieces or show-pieces of plastic skill, 
@@ -8805,7 +8543,7 @@ expressly commissioned, did for architecture what the sacred
 riddle-contest did for philosophy, or the singing and versifying 
 matches for poetry? In other words, did plastic art develop in 
 and through competition? Before answering we must realize that 
-it is next to impossible to distinguish absolutely between the con¬ 
+it is next to impossible to distinguish absolutely between the con 
 test in making and the contest in excelling. Samples of strength 
 and skill, like Odysseus’ bow-shot through the holes of a dozen 
 axe-heads, belong entirely to the play-sphere. This feat is not a 
@@ -8822,12 +8560,12 @@ contest to prove oneself superior to all rivals in all fields. Art and
 technique, dexterity and creative power were, for archaic man, 
 united in the eternal desire to excel and win. Very low down in 
 the social scale of competition come the xeXeuojiaTa, jesting 
-commands which the Greek symposiarch used to give his com¬ 
+commands which the Greek symposiarch used to give his com 
 panions in a drinking-bout, similar to the poenitet of later days. 
 
 
 
-HOMO LUDENS 
+
 
 
 170 
@@ -8841,7 +8579,7 @@ of the game and of religion.
 
 A further digression is necessary to indicate how far competition 
 has really contributed to the development of art. Practically all 
-the known examples of astounding skill called forth by competi¬ 
+the known examples of astounding skill called forth by competi 
 tion belong to mythology, legend and literature rather than to the 
 history of art itself. The mind’s delight in the exorbitant, the 
 miraculous, the preposterous could find no richer ground than in 
@@ -8870,7 +8608,7 @@ unexpected and surprising sleight of mind—a sort of mental
 short-circuit—the former too often loses itself in the absurd, as 
 in the above case or the tale of the rope of sand used for sewing 
 slices of stone . 1 Viewed in correct perspective, the miracles needed 
-to attest a Christian’s claim to a place among the saints only con¬ 
+to attest a Christian’s claim to a place among the saints only con 
 tinue this archaic line of thought. We do not have to go far iu 
 
 ■‘T/ie Story of Ahikar, ed. F. C. Conybeare, J. Rendel Harris and Agnes Smith Lewis, 
@@ -8878,13 +8616,12 @@ Cambridge, 1913.
 
 
 
-PLAY-FORMS IN ART 1 7 1 
 
 hagiography to see the unmistakable connection between reports 
 of miracles and the play spirit. 
 
 If competitive artisanship is an ever-recurrent theme in myth 
-and legend it has played a very definite part in the actual develop¬ 
+and legend it has played a very definite part in the actual develop 
 ment of art and technics. The mythical contests in skill between 
 Polytechnos and Aedon did, in fact, have their counterpart in 
 historical reality, as in the competition of Parrhasios and his 
@@ -8908,7 +8645,7 @@ paganism that the agonistic element was naturally very strong.
 The master-piece, through which a man attested his claim to be 
 accepted into the corporation of master-craftsmen, seems to have 
 come rather late as a fixed and obligatory custom, but it has its 
-origin in immemorial forms of social rivalry. The guilds them¬ 
+origin in immemorial forms of social rivalry. The guilds them 
 selves are only partly the product of economics; it was not until 
 after the 11 th century, with the revival of town life, that the 
 corporations of artisans and traders gained the ascendant and 
@@ -8928,7 +8665,7 @@ Corbie devised in mutual disputation ”—invenerunt inter se dis-
 
 
 
-HOMO LUDENS 
+
 
 
 172 
@@ -8964,10 +8701,7 @@ city had ample scope for magnificence in its ideas of play.
 
 
 
-XI 
-
-
-WESTERN CIVILIZATION SUB SPECIE LUDI 
+## Western Civilization _Sub Specie Ludi_
 
 
 It has not been difficult to show that a certain play-factor was 
@@ -8977,7 +8711,7 @@ of playful competition is, as a social impulse, older than culture
 itself and pervades all life like a veritable ferment. Ritual grew 
 up in sacred play; poetry was born in play and nourished on 
 play; music and dancing were pure play. Wisdom and philosophy 
-found expression in words and forms derived from religious con¬ 
+found expression in words and forms derived from religious con 
 tests. The rules of warfare, the conventions of noble living were 
 built up on play-patterns. We have to conclude, therefore, that 
 civilization is, in its earliest phases, played. It does not come 
@@ -9011,7 +8745,7 @@ i73
 
 
 
-HOMO LUDENS 
+
 
 
 174 
@@ -9044,7 +8778,7 @@ Chinese civilization.
 Rome grew to a World Empire and a World Emporium. To 
 it there fell the legacy of the Old World that had gone before, 
 the inheritance of Egypt and Hellenism and half the Orient. Its 
-culture was fed on the overflow of a dozen other cultures. Govern¬ 
+culture was fed on the overflow of a dozen other cultures. Govern 
 ment and law, road-building and the art of war reached a state 
 of perfection such as the world had never seen; its literature and 
 art grafted themselves successfully on to the Greek stem. For all 
@@ -9061,7 +8795,6 @@ anxious wishes of a primitive tribe for material welfare and
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUD1 175 
 
 preservation of life were projected on to the ruler, who was 
 henceforth reckoned the epiphany of deity. These are archaic 
@@ -9082,7 +8815,7 @@ congeals on the surface of time like frost-flowers on a window-
 pane, and is as unpredictable, as ephemeral and, in its pattern, as 
 rigidly causal to all appearances as they. An impulse of culture, 
 spawned and pushed hither and thither by disparate forces of 
-the most various provenance, finds embodiment in that aggrega¬ 
+the most various provenance, finds embodiment in that aggrega 
 tion of power we call “State”, which then seeks some reason for 
 its existence, discovering it perhaps in the glory of a particular 
 house or the excellence of a particular people. In the way in 
@@ -9109,7 +8842,7 @@ their pompous splendour. To judge by the achievements of
 
 
 
-HOMO LUDENS 
+
 
 
 176 
@@ -9120,12 +8853,12 @@ circulation of goods and services, nor could much of what was
 best in the culture of antiquity have remained alive in them. 
 Temples for a religion in decay, petrified in traditional forms and 
 riddled with superstition, halls and basilicas for a Civil Service 
-and a judiciary which, because of political and economic up¬ 
+and a judiciary which, because of political and economic up 
 heavals, were slowly degenerating and being suffocated under a 
 system of State slavery, extortion, graft and nepotism, circuses 
 and amphitheatres for bloody and barbarous games, a dissolute 
 stage, baths for a cult of the body more enervating than 
-invigorating—none of this makes for a solid and lasting civiliza¬ 
+invigorating—none of this makes for a solid and lasting civiliza 
 tion. Most of it served merely for show, amusement and futile 
 glory. The Roman Empire was a facade, eaten from within. 
 The wealth of liberal-handed donors whose flaunting inscriptions 
@@ -9163,17 +8896,17 @@ loudly to proclaim the well-being of the Empire and all the peoples
 WESTERN CIVILIZATION SUB SPtCIB LUDI 1 77 
 
 inhabiting it. Only to a very small extent are the objects of this 
-policy at all rational—but has it ever been otherwise? The con¬ 
+policy at all rational—but has it ever been otherwise? The con 
 quest of new territories is, of course, meant to ensure prosperity 
 and safety by obtaining new areas of supply and pushing the 
 boundaries of Empire further and further afield, away from the 
 vulnerable heart. Maintenance of the Pax Augusta is in itself a 
-definite and reasonable aim. But the utilitarian motive is sub¬ 
+definite and reasonable aim. But the utilitarian motive is sub 
 ordinated to a religious ideal. Triumphal processions, laurels and 
 martial glory are not means to an end, they are a sacred task 
 imposed on the Emperor by Heaven. 1 The triumphus is far more 
 than a solemn celebration of military success; it is a rite through 
-which the State recuperates from the strains of war and re-experi¬ 
+which the State recuperates from the strains of war and re-experi 
 ences its well-being. In so far as the basis of all policy is the 
 winning and keeping of prestige this primitive agonistic ideal 
 pervades the whole colossal structure of the Roman Empire. All 
@@ -9208,7 +8941,7 @@ is the fact that not one of the innumerable new cities, literally
 
 
 
-HOMO LUDENS 
+
 
 
 178 
@@ -9224,7 +8957,7 @@ combats of ancient time.
 The distribution of largesse to the urban populace was not the 
 monopoly of the Emperor. During the first centuries of the 
 Empire thousands of citizens from all quarters competed in the 
-founding and donating of halls, baths, theatres, in the mass dis¬ 
+founding and donating of halls, baths, theatres, in the mass dis 
 tribution of food, in the institution or equipping of new games, 
 all of which was recorded for posterity in boastful inscriptions. 
 What was the moving spirit behind all this frenzied activity? 
@@ -9238,7 +8971,7 @@ Still, the real nature of this passion for splendid donations would
 be more adequately summed up by calling it the potlatch spirit. 
 Munificence for the sake of honour and glory, for the sake of 
 outdoing your neighbour and beating him—that is what we can 
-discern in all this, and therein the age-old ritual-agonistic back¬ 
+discern in all this, and therein the age-old ritual-agonistic back 
 ground of Roman civilization comes to light. 
 
 The play-element also appears very clearly in Roman literature 
@@ -9260,7 +8993,6 @@ Wz-principle in the Hippodrome of Byzantium. In the Christian
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUDI 179 
 
 era the mania for horse-racing had been completely severed from 
 its ritual origins, but racing still continued to be the focus of 
@@ -9272,7 +9004,7 @@ most literal sense of the word became the centre not only of racing
 but of political and even religious faction. The Racing Societies, 
 known by the four colours of the charioteers, were not merely the 
 organizers of contests but recognized political institutions. The 
-parties were called demes, their leaders demarchs. A general return¬ 
+parties were called demes, their leaders demarchs. A general return 
 ing in triumph from a victorious campaign celebrated his 
 triumphus in the Hippodrome; there the Emperor showed himself 
 to the people, there—sometimes—justice was administered. This 
@@ -9318,7 +9050,7 @@ analysis would show it at work in other fields as well, for instance
 in law and the administration of justice with its constant use of 
 symbols, prescribed gestures, rigid formulas, the issue of a cause 
 often hanging on the exact pronunciation of a word or syllable. 
-The legal proceedings against animals, wholly beyond the com¬ 
+The legal proceedings against animals, wholly beyond the com 
 prehension of the modern mind, are a case in point. In fine, the 
 influence of the play-spirit was extraordinarily great in the 
 Middle Ages, not on the inward structure of its institutions, which 
@@ -9333,7 +9065,7 @@ Renaissance spirits. We must emphasize yet again that play does
 not exclude seriousness. The spirit of the Renaissance was very 
 far from being frivolous. The game of living in imitation of 
 Antiquity was pursued in holy earnest. Devotion to the ideals of 
-the past in the matter of plastic creation and intellectual dis¬ 
+the past in the matter of plastic creation and intellectual dis 
 covery was of a violence, depth and purity surpassing anything 
 we can imagine. We can scarcely conceive of minds more serious 
 than Leonardo and Michelangelo. And yet the whole mental 
@@ -9343,7 +9075,7 @@ is an instance of culture at play. The splendours of the
 Renaissance are nothing but a gorgeous and solemn masquerade 
 in the accoutrements of an idealized past. The mythological 
 figures, allegories and emblems, fetched from God knows where 
-and all loaded with a weight of historical and astrological signifi¬ 
+and all loaded with a weight of historical and astrological signifi 
 cance, move like the pieces on a chess-board. The fanciful 
 decorations in Renaissance architecture and the graphic arts, 
 with their lavish use of classical motifs, are much more consciously 
@@ -9353,7 +9085,6 @@ idealizations par excellence, two “Golden Ages of Play” as we might
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUDI 1 8 1 
 
 call them: the pastoral life and the chivalrous life. The 
 Renaissance roused both from their slumber to a new life in 
@@ -9380,7 +9111,7 @@ tendencies has often been exaggerated. But it is certain that the
 Christianity of the Humanists was tinged with a certain artifice, 
 a certain artificiality even, something not altogether serious. They 
 spoke with an accent, and the accent was not that of Christ. 
-Calvin and Luther could not abide the tone in which the Human¬ 
+Calvin and Luther could not abide the tone in which the Human 
 ist Erasmus spoke of holy things. Erasmus! his whole being seems 
 to radiate the play-spirit. It shines forth not only in the Colloquies 
 and the Laus Stultitiae but in the Adagia, that astonishing collection 
@@ -9406,13 +9137,13 @@ magician of tears and laughter. In Marguerite of Navarre’s
 
 
 
-HOMO LUDENS 
+
 
 
 l82 
 
 Heptameron we have a strange amalgam of coprophilia and 
-platonism. Even the school of Humanist jurists, in their en¬ 
+platonism. Even the school of Humanist jurists, in their en 
 deavours to make the law stylish and aesthetic, evince the 
 almighty play-spirit of the times. 
 
@@ -9421,7 +9152,7 @@ to extend the term “Baroque” far beyond the scope of its original
 application. Instead of simply denoting a tolerably definite style 
 of architecture and sculpture, “the Baroque” has come to cover 
 a vast complex of more or less vague ideas about the essence of 
-17th-century civilization. The fashion started in German scholar¬ 
+17th-century civilization. The fashion started in German scholar 
 ship some forty years ago and spread to the public at large mainly 
 through Spengler’s Decline of the West. Now painting, poetry, 
 literature, even politics and theology, in short, every field of skill 
@@ -9430,7 +9161,7 @@ preconceived idea of “the Baroque”. Some apply the term to the
 beginning of the epoch, when men delighted in colourful and 
 exuberant imagination; others to a later period of sombre 
 stateliness and solemn dignity. But, taken by and large, it evokes 
-visions of conscious exaggeration, of something imposing, over¬ 
+visions of conscious exaggeration, of something imposing, over 
 awing, colossal, avowedly unreal. Baroque forms are, in the fullest 
 sense of the word, art-forms. Even where they serve to limn the 
 sacred and religious, a deliberately aesthetic factor obtrudes 
@@ -9444,7 +9175,7 @@ creative impulse. Fully to enjoy the work of Rubens, Bernini or
 that Dutch prince of poets, Joost van den Vondel, we must be 
 prepared at the outset to take their utterances cum grano salis. This 
 is probably true of most art and poetry, it may be objected; if so, 
-it affords yet another proof of our main contention—the funda¬ 
+it affords yet another proof of our main contention—the funda 
 mental importance of play. For all that, the Baroque manifests 
 the play-element to an altogether striking degree. We should 
 never enquire how far the artist himself feels or intends his work 
@@ -9455,13 +9186,12 @@ The work of art is a thing sui generis. Thus with Hugo Grotius, for
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUDI 1 83 
 
 instance. Hugo Grotius was of an exceptionally serious nature, 
 gifted with little humour and animated by a boundless love of 
 truth. He dedicated his masterpiece, the imperishable monument 
 to his spirit, Dejure belli etpads , to the King of France, Louis XIII. 
-The accompanying dedication is an example of the most high¬ 
+The accompanying dedication is an example of the most high 
 falutin’ Baroque extravagance on the theme of the King’s 
 universally recognized and inestimable justice, which eclipses the 
 grandeurs of Ancient Rome, etc. His pen bows and scrapes, the 
@@ -9502,7 +9232,7 @@ impulse than the periwig as worn in the 17th and 18th centuries.
 
 
 
-HOMO LUDENS 
+
 
 
 184 
@@ -9551,7 +9281,6 @@ models of this art. The pictures and prints are extremely flatter-
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUDI 1 85 
 
 ing inasmuch as they leave unexpressed the squalid underside— 
 the disgusting unwashedness of the age. 
@@ -9593,14 +9322,14 @@ follow this tendency in other cultural fields would be an attractive
 and important task, and many connections with play would 
 certainly come to light. But an investigation of this sort would 
 lead us too far. Suffice it that our long digression on the wig may 
-serve to show the whole phenomenon as one of the most remark¬ 
+serve to show the whole phenomenon as one of the most remark 
 able instances of the play-factor in culture. 
 
 The French Revolution sounded the death-knell of the wig, 
 
 
 
-HOMO LUDENS 
+
 
 
 186 
@@ -9613,7 +9342,7 @@ If we have discerned a lively element of play in the period we
 call the Baroque we must concede it a fortiori to the ensuing period 
 of Rococo. This term, too, has suffered from a general widening 
 and loosening of its scope, not so much, perhaps, in English, 
-which is less given to nebulous abstractions than certain con¬ 
+which is less given to nebulous abstractions than certain con 
 tinental languages. But even if taken to mean simply an art-style 
 proper, the word Rococo has so many associations with play and 
 playfulness that it might almost be a definition of it. Moreover, 
@@ -9632,7 +9361,7 @@ of a piece of Meissen porcelain or the pastoral idyll—refined to a
 degree of tenderness and delicacy unknown since Virgil—or a 
 picture by Watteau or Lancret, or an 18th-century interior, or 
 the naive craze for the exotic which introduced Turks, Indians 
-and Chinese into literature amid flutters of sentimental excite¬ 
+and Chinese into literature amid flutters of sentimental excite 
 ment,—the impression of play never leaves us for a moment. 
 
 But this play-quality in 18th-century civilization goes deeper. 
@@ -9643,14 +9372,13 @@ Corsica. Ministers and princes, as irresponsible as they were
 omnipotent and unhampered by any troublesome international 
 tribunals, were free to gamble any time they liked with their 
 countries’ destinies, a smile on their lips and with an exquisitely 
-polite flourish, as though they were making a move on a chess¬ 
+polite flourish, as though they were making a move on a chess 
 board. It was fortunate indeed for Europe that the effect of their 
 short-sighted policies was limited by other factors, such as the 
 slowness of communications and relatively inferior instruments of 
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUDI 1 87 
 
 destruction. But the results of this playing at politics were 
 deplorable enough, in all conscience. 
@@ -9670,7 +9398,7 @@ distinguished reading public for whom Fontenelle wrote his
 Entretiens sur la pluralite des mondes was perpetually dissolving and 
 re-grouping about some controversial point or other. The whole 
 of 18th-century literature seems to consist of lay and play figures: 
-abstractions, pallid allegories, vapid moralizings. That master¬ 
+abstractions, pallid allegories, vapid moralizings. That master 
 piece of capricious wit, Pope’s Rape of the Lock, could only have 
 been penned when it was. 
 
@@ -9685,7 +9413,7 @@ age was seeking a way back to Nature, but a way with style. It
 chose to ignore the fact that in the masterpieces of architecture 
 which this century produced in great abundance, ornamentation 
 never attacked the severe and sober lines of the buildings, hence 
-these preserved all the noble dignity of their harmonious pro¬ 
+these preserved all the noble dignity of their harmonious pro 
 portions. Few periods of art have managed to balance play and 
 seriousness as gracefully as the Rococo, and in few periods are 
 the plastic and the musical so beautifully attuned. 
@@ -9702,7 +9430,7 @@ in many ways. Old instruments had been improved, new ones
 i88 
 
 
-HOMO LUDENS 
+
 
 
 invented, with the result that the orchestra could achieve a greater 
@@ -9742,7 +9470,7 @@ breach of the rules spoils the game.
 
 Archaic man was well aware that music was a sacred force 
 capable of rousing the emotions, and a game. Only much later 
-was it appreciated as a significant addition to life and an ex¬ 
+was it appreciated as a significant addition to life and an ex 
 pression of life, in short, an art in our sense of the word. Even the 
 18th century, for all its musical fecundity, had but a very defective 
 appreciation of the emotional function of music, as Rousseau’s 
@@ -9751,7 +9479,6 @@ Nature makes clear. The late advent of anything like a psychology
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUDI 1 89 
 
 of music may elucidate what we meant by a certain balance 
 between the play-content and the aesthetic content of music in 
@@ -9765,8 +9492,8 @@ perfection?
 
 It might seem only logical to deny the period that followed the 
 Rococo any vestige of the play-quality. The age of the new 
-Classicism and of emergent Romanticism evokes visions of brood¬ 
-ing, melancholy figures, impenetrable gloom, and tearful serious¬ 
+Classicism and of emergent Romanticism evokes visions of brood 
+ing, melancholy figures, impenetrable gloom, and tearful serious 
 ness, all of which would seem to exclude the very possibility of 
 play. But on closer inspection the exact opposite appears to be 
 the case. If ever a style and a Zeitgeist were born in play it was in 
@@ -9800,7 +9527,7 @@ setting, half from caprice, half from “spleen”. The antique
 
 
 
-HOMO LUDENS 
+
 
 
 190 
@@ -9820,9 +9547,9 @@ from the sensibilities of lachrymose heroines, can best be compared
 with the ideal of courtly love in the 12th and 13th centuries. In 
 both cases the entire upper class was edified by an artificial and 
 eccentric ideal of life and love. The elite in the 18th century was, 
-of course, much larger than in the feudal-aristocratic world rang¬ 
+of course, much larger than in the feudal-aristocratic world rang 
 ing from Bertran de Born to Dante. In Sentimentalism we have 
-one of the first literary coteries where the aristocrat has been con¬ 
+one of the first literary coteries where the aristocrat has been con 
 spicuously ousted by the bourgeois. It had packed among its 
 intellectual luggage all the social and educational ideals of the 
 age. Even so, the resemblances are striking. All "personal 
@@ -9839,7 +9566,7 @@ all these were the daily pabulum of the reading public.
 
 How far were they “in earnest”? Which professed the time- 
 style more sincerely and experienced it more profoundly: the 
-Humanists of an earlier century or the Romantics and “sensi¬ 
+Humanists of an earlier century or the Romantics and “sensi 
 tives” of the eighteenth and nineteenth? It would seem undeniable 
 that the former were more convinced of the classical ideal as a 
 valid norm than the devotees of the Gothic were of their hazy, 
@@ -9851,7 +9578,6 @@ in what he imagines to be “antique” dress in order to sit or stand
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUDI 1 9 1 
 
 for his portrait, knew very well that he was masquerading in the 
 guise of a Roman senator. There was no question of his actually 
@@ -9869,9 +9595,9 @@ Napoleon swore by Ossian, would seem to prove our contention.
 And yet, and yet—the effort to adapt life and thought to the 
 sentimental code cannot have gone as deep as this would lead us 
 to suppose. The ideal was constantly belied on all sides by the 
-brute facts of individual life and contemporary history. As dis¬ 
+brute facts of individual life and contemporary history. As dis 
 tinct from the purely literary cultivation of sensibility, it was 
-perhaps only in languishing scenes of family life and in the con¬ 
+perhaps only in languishing scenes of family life and in the con 
 templation of Nature—particularly in her stormier moods—that 
 sentimentalism had free play. 
 
@@ -9892,7 +9618,7 @@ as play. But insofar as Romanticism and kindred movements are
 divorced from ritual we shall inevitably, in our assessment of 
 them, be assailed by the most vexing ambiguities. 
 
-The 19th century seems to leave little room for play. Ten¬ 
+The 19th century seems to leave little room for play. Ten 
 dencies running directly counter to all that we mean by play 
 have become increasingly dominant. Even in the 18th century 
 utilitarianism, prosaic efficiency and the bourgeois ideal of social 
@@ -9902,7 +9628,7 @@ utilitarianism, prosaic efficiency and the bourgeois ideal of social
 192 
 
 
-HOMO LUDENS 
+
 
 
 welfare—all fatal to the Baroque—had bitten deep into society. 
@@ -9911,7 +9637,7 @@ and its conquests in the field of technology. Work and production
 became the ideal, and then the idol, of the age. All Europe 
 donned the boiler-suit. Henceforth the dominants of civilization 
 were to be social consciousness, educational aspirations, and 
-scientific judgement. With the enormous development of in¬ 
+scientific judgement. With the enormous development of in 
 dustrial power, advancing from the steam-engine to electricity, 
 the illusion gains ground that progress consists in the exploitation 
 of solar energy. As a result of this luxation of our intellects the 
@@ -9919,7 +9645,7 @@ shameful misconception of Marxism could be put about and even
 believed, that economic forces and material interests determine 
 the course of the world. This grotesque over-estimation of the 
 economic factor was conditioned by our worship of technological 
-progress, which was itself the fruit of rationalism and utilitarian¬ 
+progress, which was itself the fruit of rationalism and utilitarian 
 ism after they had killed the mysteries and acquitted man of 
 guilt and sin. But they had forgotten to free him of folly and 
 myopia, and he seemed only fit to mould the world after the 
@@ -9950,13 +9676,12 @@ certain wildness of hair which expressed the pathos of the
 
 
 
-WESTERN CIVILIZATION SUB SPECIE LUDI 193 
 
 Revolution. Dishevelment also seized women’s hair-styles, as 
 we can see from Schadow’s portrait of Queen Louise of Prussia. 
 Rage though they might, for a while, in the excesses of the 
 “Incroyables” and the “Merveilleuses”, and in the military 
-costumes of the Napoleonic era (showy, romantic and un¬ 
+costumes of the Napoleonic era (showy, romantic and un 
 practical), the more fantastic fashions were doomed to come to an 
 end with it. From then on men’s dress became increasingly 
 colourless and formless and subject to fewer and fewer changes. 
@@ -9964,7 +9689,7 @@ The elegant gentleman of former days, resplendent in the gala
 dress befitting his dignity, is now a serious citizen. Sartorially 
 speaking, he no longer plays the hero, the warrior or grandee. 
 With his top-hat he crowns himself, as it were, with the symbol 
-of his sobriety. Only in the slightest of dissipations and extrava¬ 
+of his sobriety. Only in the slightest of dissipations and extrava 
 gances does the play-element in men’s dress assert itself, in 
 imperceptible variations like tight-fitting trousers, stock-collars, 
 jaw-scrapers, as compared with the leaps and bounds of old. 
@@ -9987,7 +9712,7 @@ Women’s dress, or rather ladies’ dress (for it is the upper
 classes that represent civilization in this matter) has not, of course, 
 followed the general denaturing and dulling of men’s fashions. 
 The aesthetic factor and sex-appeal are so primary here that they 
-put the evolution of women’s clothes on a different level. Con¬ 
+put the evolution of women’s clothes on a different level. Con 
 sequently the fact that the latter have developed along different 
 lines is not in itself remarkable. The remarkable thing is rather 
 that, despite all the satire heaped upon the extravagances and 
@@ -9998,7 +9723,7 @@ period between 1500 and 1700: violent, repeated changes in the
 
 
 
-HOMO LUDENS 
+
 
 
 194 
@@ -10010,7 +9735,7 @@ or too low, precluded gross modifications in the basic structure of
 female attire: a skirt reaching to the feet, and a bodice. Only 
 towards the turn of the 18th century do ladies’ fashions really 
 begin to “play”. While towering coiffures sprout up in the 
-Rococo period, the spirit of Romanticism breathes in the quasi¬ 
+Rococo period, the spirit of Romanticism breathes in the quasi 
 negligee, the languishing looks, the streaming hair, the bare arms 
 and the revelation of ankles and more. Oddly enough, the 
 decollete was in full swing centuries before bare arms, as we know 
@@ -10024,14 +9749,9 @@ and carries women’s dress back to a simplicity and naturalness
 unknown since 1300. 
 
 
+## The Play-Element in Contemporary Civilization
 
-XII 
-
-
-THE PLAY-ELEMENT IN CONTEMPORARY 
-CIVILIZATION 
-
-Let us not waste time arguing about what is meant by “con¬ 
+Let us not waste time arguing about what is meant by “con 
 temporary”. It goes without saying that any time we speak of 
 has already become an historical past, a past that seems to crumble 
 away at the hinder end the further we recede from it. Phenomena 
@@ -10043,7 +9763,7 @@ time-sense is not so much dependent on the generation to which
 one happens to belong as on the knowledge one has of things old 
 and new. A mind historically focussed will embody in its idea of 
 what is “modern” and “contemporary” a far larger section of 
-the past than a mind living in the myopia of the moment. “Con¬ 
+the past than a mind living in the myopia of the moment. “Con 
 temporary civilization” in our sense, therefore, goes deep into the 
 19th century. 
 
@@ -10073,7 +9793,7 @@ embellishments, can hardly be called a sport. It fulfilled one of
 
 
 
-HOMO LUDENS 
+
 
 
 196 
@@ -10084,7 +9804,7 @@ sporting life was due in large measure to the influence of the
 Church. The Christian ideal left but little room for the organized 
 practice of sport and the cultivation of bodily exercise, except 
 insofar as the latter contributed to gentle education. Similarly, 
-the Renaissance affords fairly numerous examples of body¬ 
+the Renaissance affords fairly numerous examples of body 
 training cultivated for the sake of perfection, but only on the 
 part of individuals, never groups or classes. If anything, the 
 emphasis laid by the Humanists on learning and erudition tended 
@@ -10097,7 +9817,7 @@ the end of the 18th century.
 The basic forms of sportive competition are, of course, constant 
 through the ages. In some the trial of strength and speed is the 
 whole essence of the contest, as in running and skating matches, 
-chariot and horse races, weight-lifting, swimming, diving, marks¬ 
+chariot and horse races, weight-lifting, swimming, diving, marks 
 manship, etc. 1 Though human beings have indulged in such 
 activities since the dawn of time, these only take on the character 
 of organized games to a very slight degree. Yet nobody, bearing 
@@ -10107,7 +9827,7 @@ have seen, can be very serious indeed. There are, however, other
 forms of contest which develop of their own accord into “sports”. 
 These are the ball-games. 
 
-What we are concerned with here is the transition from occas¬ 
+What we are concerned with here is the transition from occas 
 ional amusement to the system of organized clubs and matches. 
 Dutch pictures of the 17th century show us burghers and peasants 
 intent upon their game of kolf\ but, so far as I know, nothing is 
@@ -10125,7 +9845,6 @@ to hold your opponent under water until he is drowned.
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 1 97 
 
 able up to a point, though how far the specifically Anglo-Saxon 
 bent of mind can be deemed an efficient cause is less certain. But 
@@ -10155,7 +9874,7 @@ and professionals (or “gentlemen and players” as used pointedly
 to be said). It means that the play-group marks out those for 
 whom playing is no longer play, ranking them inferior to the true 
 players in standing but superior in capacity. The spirit of the 
-professional is no longer the true play-spirit; it is lacking in spon¬ 
+professional is no longer the true play-spirit; it is lacking in spon 
 taneity and carelessness. 2 This affects the amateur too, who begins 
 to suffer from an inferiority complex. Between them they push 
 sport further and further away from the play-sphere proper until 
@@ -10177,13 +9896,13 @@ badly! Trans.
 
 
 
-HOMO LUDENS 
+
 
 
 ig8 
 
 in every way and has no organic connection whatever with the 
-structure of society, least of all when prescribed by the govern¬ 
+structure of society, least of all when prescribed by the govern 
 ment. The ability of modern social techniques to stage mass 
 demonstrations with the maximum of outward show in the field 
 of athletics does not alter the fact that neither the Olympiads nor 
@@ -10204,7 +9923,7 @@ card-games.
 
 A great many board-games have been known since the earliest 
 times, some even in primitive society, which attached great 
-importance to them largely on account of their chanceful charac¬ 
+importance to them largely on account of their chanceful charac 
 ter. Whether they are games of chance or skill they all contain an 
 element of seriousness. The merry play-mood has little scope 
 here, particularly where chance is at a minimum as in chess, 
@@ -10222,14 +9941,13 @@ are little suited to club life and public competition. The more
 intellectual card-games, on the other hand, leave plenty of room 
 for associative tendencies. It is in this field that the shift towards 
 seriousness and over-seriousness is so striking. From the days of 
-ombre and quadrille to whist and bridge, card-games have under¬ 
+ombre and quadrille to whist and bridge, card-games have under 
 gone a process of increasing refinement, but only with bridge have 
 the modern social techniques made themselves master of the game. 
 The paraphernalia of handbooks and systems and professional 
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 1 99 
 
 training has made bridge a deadly earnest business. A recent 
 newspaper article estimated the yearly winnings of the Culbertson 
@@ -10279,7 +9997,7 @@ publicity and propaganda everywhere promote the competitive
 200 
 
 
-HOMO LUDENS 
+
 
 
 spirit and afford means of satisfying it on an unprecedented 
@@ -10294,7 +10012,7 @@ propaganda and statistics. Naturally a certain play-element had
 entered into business competition at an early stage. Statistics 
 stimulated it with an idea that had originally arisen in sporting 
 life, the idea, namely, of trading records. A record, as the word 
-shows, was once simply a memorandum, a note which the inn¬ 
+shows, was once simply a memorandum, a note which the inn 
 keeper scrawled on the walls of his inn to say that such and such 
 a rider or traveller had been the first to arrive after covering so 
 and so many miles. The statistics of trade and production could 
@@ -10329,7 +10047,6 @@ the football eleven. Once more the wheel turns.
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 
 
 
 201 
@@ -10356,7 +10073,7 @@ independent occupation for individuals called artists. One of the
 landmarks of this emancipation was the victory of framed 
 canvases over panels and murals, likewise of prints over miniatures 
 and illuminations. A similar shift from the social to the individual 
-took place when the Renaissance saw the main task of the archi¬ 
+took place when the Renaissance saw the main task of the archi 
 tect no longer in the building of churches and palaces but of 
 dwelling-houses; not in splendid galleries but in drawing-rooms 
 and bed-rooms. Art became more intimate, but also more 
@@ -10385,11 +10102,11 @@ The great shift began in the middle of the 18th century as a
 202 
 
 
-HOMO LUDENS 
+
 
 
 result of new aesthetic impulses which took both romantic and 
-classical form, though the romantic current was the more power¬ 
+classical form, though the romantic current was the more power 
 ful. Together they brought about an unparalleled rise in aesthetic 
 enjoyment all the more fervent for having to act as a substitute for 
 religion. This is one of the most important phases in the history 
@@ -10397,7 +10114,7 @@ of civilization. We must leap over the full story of this apotheosis
 of art and can only point out that the line of art-hierophants runs 
 unbroken from Winckelmann to Ruskin and beyond. All the 
 time, art-worship and connoisseurship remained the privilege of 
-the few. Only towards the end of the 19th century did the appre¬ 
+the few. Only towards the end of the 19th century did the appre 
 ciation of art, thanks largely to photographic reproduction, reach 
 the broad mass of the simply educated. Art becomes public 
 property, love of art bon ton. The idea of the artist as a superior 
@@ -10434,7 +10151,6 @@ large with its empty phrases. A certain esotericism is as necessary
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 203 
 
 for art to-day as it was of old. Now all esoterics presuppose a 
 convention: we, the initiates, agree to take such and such a thing 
@@ -10482,7 +10198,7 @@ the direction of play. Ancient science, lacking adequate founda-
 
 
 
-HOMO LUDENS 
+
 
 
 204 
@@ -10491,7 +10207,7 @@ tion in empiricism, lost itself in a sterile systematization of all
 conceivable concepts and properties. Though observation and 
 calculation act as a brake in this respect they do not altogether 
 exclude a certain capriciousness in scientific activities. Even the 
-most delicate experimental analysis can be, not indeed manipu¬ 
+most delicate experimental analysis can be, not indeed manipu 
 lated while actually in progress, but played in the interests of 
 subsequent theory. True, the margin of play is always detected 
 in the end, but this detection proves that it exists. Jurists have of 
@@ -10506,14 +10222,14 @@ and incompetents alike?
 
 Apart from the possibility of the scientific worker or amateur 
 juggling with his own method he may also be seduced into the 
-paths of play by the competitive impulse proper. Though com¬ 
+paths of play by the competitive impulse proper. Though com 
 petition in science is less directly conditioned by economic factors 
 than in art, the logical development of civilization which we call 
 science is more inextricably bound up with dialectics than is the 
 aesthetic. In an earlier chapter we discussed the origins of science 
 and philosophy and found that they lay in the agonistic sphere. 
 Science, as some one has not unjustly said, is polemical. But it 
-is a bad sign when the urge to forestall the other fellow in dis¬ 
+is a bad sign when the urge to forestall the other fellow in dis 
 covery or to annihilate him with a demonstration, looms too large 
 in the work done. The genuine seeker after truth sets little store 
 by triumphing over a rival. 
@@ -10521,7 +10237,7 @@ by triumphing over a rival.
 By way of tentative conclusion we might say that modern 
 science, so long as it adheres to the strict demands of accuracy 
 and veracity, is far less liable to fall into play as we have defined 
-it, than was the case in earlier times and right up to the Renaiss¬ 
+it, than was the case in earlier times and right up to the Renaiss 
 ance, when scientific thought and method showed unmistakable 
 play-characteristics. 
 
@@ -10533,7 +10249,6 @@ politics. But let us be on our guard against two misunderstandings
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 205 
 
 from the start. Firstly, certain play-forms may be used consciously 
 or unconsciously to cover up some social or political design. In 
@@ -10543,7 +10258,7 @@ and quite independently of this, it is always possible to come upon
 phenomena which, to a superficial eye, have all the appearance 
 of play and might be taken for permanent play-tendencies, but 
 are, in point of fact, nothing of the sort. Modern social life is being 
-dominated to an ever-increasing extent by a quality that has some¬ 
+dominated to an ever-increasing extent by a quality that has some 
 thing in common with play and yields the illusion of a strongly 
 developed play-factor. This quality I have ventured to call by 
 the name of Puerilism, 1 as being the most appropriate appellation 
@@ -10553,7 +10268,7 @@ rampant all over the world for the last two or three decades.
 It would seem as if the mentality and conduct of the adolescent 
 now reigned supreme over large areas of civilized life which had 
 formerly been the province of responsible adults. The habits 
-I have in mind are, in themselves, as old as the world; the differ¬ 
+I have in mind are, in themselves, as old as the world; the differ 
 ence lies in the place they now occupy in our civilization and the 
 brutality with which they manifest themselves. Of these habits 
 that of gregariousness is perhaps the strongest and most alarming. 
@@ -10584,7 +10299,7 @@ part.
 206 
 
 
-HOMO LUDENS 
+
 
 
 One example of official puerilism must suffice here. It is, as we 
@@ -10609,7 +10324,7 @@ close to the culture-creating play of archaic times as our age
 allows. But when Boy-Scoutism in degraded form seeps through 
 into politics we may well ask whether the puerilism that flourishes 
 in present-day society is a play-function or not. At first sight the 
-answer appears to be a definite yes, and such has been my inter¬ 
+answer appears to be a definite yes, and such has been my inter 
 pretation of the phenomenon in other studies. 2 I have now come 
 to a different conclusion. According to our definition of play, 
 puerilism is to be distinguished from playfulness. A child playing 
@@ -10624,7 +10339,7 @@ More and more the sad conclusion forces itself upon us that
 the play-element in culture has been on the wane ever since the 
 18th century, when it was in full flower. Civilization to-day is 
 no longer played, and even where it still seems to play it is false 
-play—I had almost said, it plays false, so that it becomes increas¬ 
+play—I had almost said, it plays false, so that it becomes increas 
 ingly difficult to tell where play ends and non-play begins. This 
 is particularly true of politics. Not very long ago political life in 
 
@@ -10635,13 +10350,12 @@ ch. 16.
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 20 ~j 
 
 parliamentary democratic form was full of unmistakable play- 
-features. One of my pupils has recently worked up my observa¬ 
+features. One of my pupils has recently worked up my observa 
 tions on this subject into a thesis on parliamentary eloquence in 
 France and England, showing how, ever since the end of the 
-18th century, debates in the House of Commons have been con¬ 
+18th century, debates in the House of Commons have been con 
 ducted very largely according to the rules of a game and in the 
 true play-spirit. Personal rivalries are always at work, keeping 
 up a continual match between the players whose object is to 
@@ -10651,7 +10365,7 @@ manners of parliamentary democracy were, until recently, those
 of fair play both in England and in the countries that had adopted 
 the English model with some felicity. The spirit of fellowship 
 would allow the bitterest opponents a friendly chat even after 
-the most virulent debate. It was in this style that the “Gentle¬ 
+the most virulent debate. It was in this style that the “Gentle 
 man’s Agreement” arose. Unhappily certain parties to it were 
 not always aware of the duties implicit in the word gentleman. 
 There can be no doubt that it is just this play-element that keeps 
@@ -10685,7 +10399,7 @@ endearing in American politics, something naive and spontaneous
 208 
 
 
-HOMO LUDENS 
+
 
 
 for which we look in vain in the dragoonings and drillings, or 
@@ -10715,7 +10429,7 @@ The maintenance of international law has, at all stages,
 depended very largely on principles lying outside the strict 
 domain of law, such as honour, decency, and good form. It is 
 not altogether in vain that the European rules of warfare 
-developed out of the code of honour proper to chivalry. Inter¬ 
+developed out of the code of honour proper to chivalry. Inter 
 national law tacitly assumed that a beaten Power would behave 
 like a gentleman and a good loser, which unhappily it seldom 
 did. It was a point of international decorum to declare your war 
@@ -10734,7 +10448,6 @@ military parlance, of course, the term is correct. Compared with
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 20 g 
 
 the sham fighting of manoeuvres and drilling and training, real 
 war is undoubtedly what seriousness is to play. But German 
@@ -10746,7 +10459,7 @@ relation between States is one of war. All diplomatic intercourse,
 insofar as it moves in the paths of negotiation and agreement, is 
 only a prelude to war or an interlude between two wars. This 
 horrible creed is accepted and indeed professed by many. It is 
-only logical that its adherents, who regard war and the prepara¬ 
+only logical that its adherents, who regard war and the prepara 
 tions for it as the sole form of serious politics, should deny that 
 war has any connection with the contest and hence with play. 
 The agonistic factor, they tell us, may have been operative in 
@@ -10761,7 +10474,7 @@ person, but purely and simply as hostis or noXsfuop, i.e. the
 stranger or foreigner who is in your group’s way. The theory 
 refuses to regard the enemy even as a rival or adversary. He is 
 merely in your way and is thus to be made away with. If ever 
-anything in history has corresponded to this gross over-simplifica¬ 
+anything in history has corresponded to this gross over-simplifica 
 tion of the idea of enmity, which reduces it to an almost 
 mechanical relationship, it is precisely that primitive antagonism 
 between phratries, clans or tribes where, as we saw, the play- 
@@ -10785,7 +10498,7 @@ Here the bewildering antithesis of play and seriousness presents
 210 
 
 
-HOMO LUDENS 
+
 
 
 itself once more. We have gradually become convinced that 
@@ -10800,7 +10513,7 @@ agonistic attitude of playing at war for the sake of prestige and
 glory- 
 
 Now this is our difficulty: modern warfare has, on the face of 
-it, lost all contact with play. States of the highest cultural pre¬ 
+it, lost all contact with play. States of the highest cultural pre 
 tensions withdraw from the comity of nations and shamelessly 
 announce that “pacta non sunt servanda”. By so doing they break 
 the play-rules inherent in any system of international law. To 
@@ -10835,7 +10548,6 @@ war is the “serious development of an emergency” is therefore
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 
 
 
 211 
@@ -10850,7 +10562,7 @@ relationship and recognizes a higher goal than the gratification
 of the self, the group or the nation will a political society pass 
 beyond the “play” of war to true seriousness. 
 
-So that by a devious route we have reached the following con¬ 
+So that by a devious route we have reached the following con 
 clusion: real civilization cannot exist in the absence of a certain 
 play-element, for civilization presupposes limitation and mastery 
 of the self, the ability not to confuse its own tendencies with the 
@@ -10891,7 +10603,7 @@ alone is worthy of supreme seriousness, but man is made God’s
 212 
 
 
-HOMO LUDENS 
+
 
 
 plaything, and that is the best part of him. Therefore every man 
@@ -10917,13 +10629,13 @@ circle of play by turning towards the ultimate. Logical thinking
 does not go far enough. Surveying all the treasures of the mind 
 and all the splendours of its achievements we shall still find, at 
 the bottom of every serious judgement, something problematical 
-left. In our heart of hearts we know that none of our pronounce¬ 
-ments is absolutely conclusive. At that point, where our judge¬ 
+left. In our heart of hearts we know that none of our pronounce 
+ments is absolutely conclusive. At that point, where our judge 
 ment begins to waver, the feeling that the world is serious after 
 all wavers with it. Instead of the old saw: “All is vanity”, the 
 more positive conclusion forces itself upon us that “all is play”. 
 A cheap metaphor, no doubt, mere impotence of the mind; yet 
-it is the wisdom Plato arrived at when he called man the play¬ 
+it is the wisdom Plato arrived at when he called man the play 
 thing of the gods. In singular imagery the thought comes back 
 again in the Book of Proverbs, where Wisdom says: “The Lord 
 possessed me in the beginning of his ways, before he made any 
@@ -10942,7 +10654,6 @@ the English A.V. and R.V. does not bring out the idea of “play”.
 
 
 
-PLAY-ELEMENT IN CONTEMPORARY CIVILIZATION 213 
 
 Whenever we are seized with vertigo at the ceaseless shuttlings 
 and spinnings in our mind of the thought: What is play? What 
@@ -10957,924 +10668,4 @@ anxious question loses all meaning. One drop of pity is enough
 to lift our doing beyond intellectual distinctions. Springing as it 
 does from a belief in justice and divine grace, conscience, which is 
 moral awareness, will always whelm the question that eludes and 
-deludes us to the end, in a lasting silence. 
-
-
-
-INDEX 
-
-
-Abelard, 155 
-
-Abner, 41 
-
-Abyssinia, 84, 88 
-
-Achilles, Shield of, 79-80 
-
-Actualization by representation, 14 
-
-Ad at, 78 
-
-Adolescence, in modern culture, 205 
-Aeschylus, 145, 146 
-Aesthetics, play and, 7, 10 
-Agalma, 167 
-Agon, 30-1, 48 
-‘Agonal” man, 71, 72 
-Alain de Lille, 140 
-Alberoni, 186 
-Alboin, 69 
-
-Allegorical thinking, modern, 141 
-Allonge, 184 
-Amadis de Gaule, 181 
-Amateurs and professionals, 197 
-American politics, 207 
-Anaximander, 117 
-Animals, personification of, 141 
-„ , play of, 1 
-
-Annam, 56, 83, 124, 126 
-Antilogia, 152 
-Antithesis in play, 47 
-Arabia, 59, 66-8 
-
-Arabic, words for “play” in, 35, 42 
-Aramaic, words for “play” in, 35 
-Archilochus, 68, 87 
-Architecture, 168 
-Ariosto, 181 
-
-Aristophanes, 144, 145, 152 
-Aristotle, 64, 130, 149, 160-1, 163 
-Art, appreciation, extension of, 201-2 
-„ , modern, play-element in, 201-3 
-Ases, 52, 57, 69, 81 
-Athletics, 51 
-Augustine, St., 153 
-Augustus, Emperor of Rome, 1 74“5 
-Augustus the Strong, 163 
-
-Babar, 123 
-Bach, J. S., 163 
-
-
-Bacon, Francis, 119 
-Baden-Powell, Lord, 206 
-Badr, Battle of, 92 
-Ballet, 164 
-Ball-games, 196 
-
-Baroque period, play-element in, 
-182-6 
-
-Battle, and play, 40-1 
-
-„ , fixed time and place for, 98-9 
-
-Beauty, 7 
-Beowulf, 70, 121 
-Bernini, 182 
-Betting, 53 
-
-Biological function of play, 1-2 
-
-Birds, play-activities of, 47 
-
-Blackfoot, words for “play” in, 33, 43 
-
-Blackstone, 94 
-
-Board-games, 198 
-
-Boas, F., 59 
-
-Bocan, 163 
-
-Bolkestein, Prof., 30-1, 33 
-Bragging matches, 65 
-Brahmanas, 108, 112 
-Breda, siege of, 98 
-Bridge, 198-9 
-Brunner, H., 93 
-Bull-fighting, 178 
-Burckhardt, Jacob, 7.1-2, 73, 74 
-Buru, 122 
-Bushido, 34, 102 
-Buytendijk, Prof., 43 
-Byzantium, games at, 178-9 
-
-Capelle, 147 
-Card-games, 198-9 
-Carolingian Renaissance, 154 
-Catch-questions, Greek, 148; see also 
-Riddle 
-
-Cervantes, 181 
-Chalcas and Mopsos, 109 
-Chalcis, war with Eretria, 96 
-Chamberlain, Neville, 210 
-Charlemagne, 70, 154 
-Charles V, 53 ) 93 
-
-
-214 
-
-
-
-INDEX 
-
-
-215 
-
-
-Charles of Anjou, 99 
-Charles the Bold, 98 
-Cheating, 52 
-Chiang Kai-shek, 99 
-Child and savage, comparison, 24 
-China, 14, 54-6, 65, 66 
-,, , war in ancient, 97-8 
-
-Chinese, words for “play” in, 32 
-Chivalry, 96, 179-80 
-Christianity, and Humanists, 181 
-Chrysippus, 148 
-Circle, magic, 57 
-City-building, Roman, 175-6 
-Civilities, exchange of, in war, 98 
-Clearchus, 115, 148 
-Cleopatra, 62 
-Club, the, 12, 205 
-Combat des Trente, 89 
-Combat, single, 91 ff. 
-
-Comedy, Greek, 144-5 
-Comic, the, 6 
-
-Commerce, competition in, 200 
-Communities for play, 12 
-Competition, 11 
-
-„ , and plastic art, 169-72 
-
-„ , in drama, 144-5 
-
-,, , see also Agon 
-
-“Contest” and “play”, Greek dis¬ 
-
-tinction, 
-30-1 
-
-„ „ „ .relation, 
-
-40-1, 48 ff. 
-
-Contest, in ancient China, 55 
-,, , musical, 163 
-
-,, , seasonal, 55-6 
-
-Cora Indians, 22 
-Costume, Baroque, 183 
-
-„ , 19th-century, 192-4 
-
-Cours d’amour, 125 
-Courtesy match, 66 
-Creation myths, 136-7 
-Crecy, battle of, 99 
-Culture, play-element of, 46 
-
-,, , modern, bastardisation of, 
-
-205 
-
-Cuzzoni, 163 
-
-Daedalus, 170 
-Danaids, 83 
-
-
-Dance, 164-5, 166 
-Dante, 179 
-Davy, 61, 76 
-
-de Jong, de Josselin, 122, 123 
-dejouvenel, Henri, 164 
-Deussen, Paul, 106 
-de Vries, 69 
-Diagoge, 160-1 
-Dialogue, forms, 113 
-,, , see also Plato 
-
-Dice-playing, 57 
-Diderot, 191 
-Dike, 80, 94 
-Dilemma, 112 
-Dio Chrysostom, 153 
-Diogenes, 148 
-
-Dionysia, and drama, 144-5 
-Disfida di Barletta, 89 
-Disinterestedness of play, 9 
-Display, 13 
-
-Disputations, theological, 112, 114 
-Doodling, 168 
-Drama, 5, 14, 144-5 
-Dress, see Costume 
-Dressing up, 13 
-Drinking contests, 73 
-Dromenon, 14 
-Drumming-match, 85 
-Dualism, of social communities, 53 
-„ , sexual, 54 
-
-Duel, judicial, 93 
-„ , private, 94 
-
-Dutch, words for “play” in, 
-Germanic languages 
-Duyvendak, Prof., 32 
-
-
-“Earnest”, as opposite of “play”, 44 
-Economic factor in history, 192 
-Eddas, 69, 83, 109-10, 113, 120, 130, 
-I 3 C 134 - 5 , 137 , 143 
-Egyptian religion, 26 
-Ehrenberg, Victor, 72, 74-5, 82 
-Electioneering, 207 
-Eloquence, Parliamentary, 207 
-Empedocles, 116, 117-18, 127, 138 
-Enemy, the, 209 
-
-England, as cradle of modern sport, 
-■97 
-
-
-
-2 l6 
-
-
-Homo ludens 
-
-
-English, words for “play” Ui, see 
-Germanic languages 
-Erasmus, 6, 156, 181 
-Erotic use of word “play”, 43 
-Eskimo, 85-6, 125 
-Esotericism and art, 202-3 
-Essence of play, 2 
-Euripides, 145 
-Euthydemos, 148 
-Exaggeration, 143 
-Exercise, bodily, and culture, ig6 
-Exoticism, and moderns, 26 
-
-Faguet, Emile, 142 
-Fashions, in dress, 193-4 
-Fate, 79 
-Faustina, 163 
-Festivals, 21 f. 
-
-Feudalism, and aristocratic contest, 
-102 
-
-Florence, 172 
-Folly, 6 
-
-Fontenelle, 187 
-
-Francis, St., and Poverty, 139 
-
-Fraud, 52 
-
-Frederick the Great, 163 
-Frederick II, Emperor, 114 15 
-Freedom, 7-8 
-Freya, 52 
-
-Friend-foe principle, 209 
-Frobenius, L., 15 ff., 20, 24, 46 
-Fun, element in play, 3 
-„ , and sacred rites, 22 
-Function of play, definitions, 2) 28 
-
-Gaber, 70 
-Gage, 50-1 
-Gaimar, Geoffroi, 70 
-Games, Hellenic, 49, 73 
-,, , organised, 196 
-
-,, , Roman, 177-8 
-
-Gelp, 70 
-
-“Gentlemen’s Agreement”, 2if 
-Gerbert, 153-4 
-
-Germanic languages, word?* for 
-“play” in, 36 ff., 43 
-Gierke, Otto, 82 
-Gift ritual, 62 ff. 
-
-Goethe, 78, 190-1 
-
-
-Gorgias, 146, 147, 151 
-Gothicism, igo 
-
-Granet, Marcel, 54-5, 59, 97, 124 
-Greece, artistic prize-contests, 171 
-„ , education in, 147 
-
-„ , legal contests in, 87 
-
-,, , slanging-matches in, 68 
-
-„ , war in, 96-7 
-
-Greek, words for “play” in, 29-31 
-,, culture, agonistic principle in, 
-
-63 ff, 71 ff. 
-
-Greeks, and myth, 130 
-Gregariousness, 205 
-Grimm, 42 
-Grotius, Hugo, 182-3 
-Guardini, Romano, 19 
-Guarino, 181 
-Guilds, mediaeval, 171 
-Gunther, 52 
-Gylfaginning, 13 1, 137 
-Gypsies, and potlatch, 61 
-
-Haberfeldtreiben, 86 
-Haikai, 124 
-Hampe, K., 115 
-Handel, 163 
-Harald Gormsson, 70 
-Harrison, Jane, 81 
-Hauptmann trial, 87 
-Haydn, 163 
-
-Hebrew, words for “play” in, 35 
-
-Held, G. J„ 57-8, 61 
-
-Heraclitus, 116, 117, 211 
-
-Heralds, 71, 121 
-
-Heretics, 12 
-
-Herodotus, 96 
-
-Hesiod, 87, 117, 138 
-
-Heyne, M., 37 
-
-Hildegard of Bingen, 140 
-
-Hippias, 146 
-
-Holidays, 21 
-
-Homer, 64, 138 
-
-Honour, 50, 63 ff. 
-
-„ , and the duel, 94 
-
-,, contests, 66 ff. 
-
-Horace, 175 
-
-Horse-racing, Byzantine, 179 
-Humanism, play-element in, 181-2 
-„ , and body-culture, 196 
-
-
-
-INDEX 
-
-
-217 
-
-
-Iambos, 68 
-Ibn Sabin, 114-15 
-Identification, 15 
-Images, 4, 14 
-lndigitamenta, 139 
-Industrial Revolution, 19a 
-Ingafuka, 122-3 
-Instinct, play-, 1, 16 
-Insurance, life, 53 
-International relations, 208 ff. 
-Ireland, legends, 69 
-Iurgum, 87 
-
-Jaeger, Werner, 80, 87, 117, 147 
-Japan, 56, 127 
-
-,, , aristocratic culture in, 102 
-
-Japanese, words for “play” in, 34-5 
-Jason, 52 
-Java, 78 
-
-Jensen, A. E., 22-4 
-Joab, 41 
-Jocus, 36 
-
-John, Duke of Brabant, gg 
-Jongleur, 121 
-Joute de jactance, 66 
-Judge, costume of, 77 
-Judicial proceedings, play-element in, 
-76 ff. 
-
-Jul-feast, 69 
-
-Justice, archaic and modern, 79 
-
-Kalevala, 120, 124 
-Kant, 38 
-Kauravas, 52, 57 
-Kenningar, 134-5 
-Kerenyi, K., 21-2 
-Kouretes, 48 
-Kula, 62-3 
-Kwakiutl, 23, 58 
-
-Language, 4 
-
-„ , poetic, 132-4 
-
-Latin, words for “play” in, 35 
-Laughter, 6 
-
-Law, international, 100-1, 208 ff. 
-
-,, , poetry and, 127 
-Lawsuit, as Agon, 76 
-
-
-Leisure, Greek, 147-8, 160-1 
-
-Lemaire, Jean, 181 
-
-Limitedness of play, 9-10 
-
-Littmann, 87 
-
-Liturgy, 19 
-
-Livy, 62 
-
-Loango, 23 
-
-Locker, G. W., 60 
-
-Logic, part of play in, 153 
-
-Lots, casting of, 79 
-
-Love-courts, 125 
-
-Love-play, 43 
-
-Loyalty, 104 
-
-Luck, 56 
-
-Ludus, the word, 35 _ 6 
-Lusus, 29 n. 
-
-Lyric poetry, 14 2 
-
-Mahabharata, 52, 57, 59, 83, 112 
-
-Malinowski, B., 23, 62, 66 
-
-Mamalekala, 59 
-
-Marett, R. R., 23 
-
-Marguerite de Navarre, 181 
-
-Marriage choice, and contest, 83 
-
-Marxism, 192 
-
-Masks, 26 
-
-Maunier, R., 61 
-
-Mauss, Marcel, 59, 61, 139 
-
-Meaux, 65 
-
-Melanesia, 59, 62 
-
-Menander, 112-13 
-
-Metaphor, 4, 136 
-
-Michael Scotus, 114 
-
-Middle Ages, play-element in, 179-80 
-
-Milindapanha, 112-13 
-
-Mimesis, 162 
-
-Mind, place of, in play, 3-4 
-Miracles, 170-1 
-Molinet, Jean, 181 
-Montaigne, 94 
-Mu’aqara, 59, 66-7 
-Muller, F., 98 
-Munificence, Roman, 178 
-Muses, 159 and n., 165 
-Music, play-element in, 158 fT. 
-
-,, , eighteenth century, 187-8 
-
-Musical art, in Greece, 159-62 
-Musical instruments, “playing”, 42 
-
-
-
-2 l8 
-
-
-HOMO ludens 
-
-
-Musician, social status of, 163 
-Mycale, Battle of, 96 
-Mysteries, Greek, 26 
-Myth, 4-5 
-
-„ and poetry, 129 ff., 136 ff. 
-
-Nagasena, 112-13 
-
-Names, puerilistic attitude to, 206 
-
-Neckel, G., 131 
-
-Neuhoff, Theodore, 186 
-
-Nguyen van Huyen, 56, 83, 124, 126 
-
-Nibelungenlied, 83 
-
-Nietzsche, 152 
-
-19th century, play-element in, 191-4 
-Nobility, and virtue, 64 ff. 
-
-Object of play, 50 
-
-Old Testament, personification in, 
-139 
-
-Olympic Games, 49 
-
-Opposite of play, words for, 44 
-
-Oracles, 79 
-
-Ordeal, 81-2, 91 
-
-Order, and play, 10 
-
-Ortega y Gasset, J., 55 n. 
-
-Ortric, 153-4 
-Ottoboni, Card., 163 
-
-Palamedes, 146 
-Panem et circenses, 177 
-Pantuns, 123 
-Parabasis, 144 
-
-Parliament, eloquence in, 207 
-Parrhasios, 171 
-Paulus Diaconus, 69 
-Pechuel-Loesche, 23 
-Pelops, 52 
-Penelope, 83 
-Periwig, 183-6 
-Persia, Shah of, 49 
-Personification, 136 ff. 
-
-„ , Roman, 174 
-
-Peter Damiani, 155 
-Philip of Burgundy, 62 
-Philology, 204 
-Philosophers, Greek, 1 15 ff. 
-Philosophy, development from riddle- 
-game, 146 ff. 
-
-
-Phratria, 53 
-Pindar, 73 
-
-Places, sacred, 19-20 
-
-,, ,, , lawcourts as, 77 
-
-Plastic arts, and play, 165 ff. 
-
-,, ,, , and competition, 169-72 
-
-Plato, 18-19, 27, 37, 48, 87, 130, I 43 » 
-145, 147, 149-51, 159, 160, 162, 
-211-12 
-
-“Play”, the word and its equivalents, 
-28 ff. 
-
-Play, an independent concept, 6 
-,, , non-moral character, 6 
-
-,, , definition, 2, 28 
-
-Play-ground, 10, 14 
-
-,, , see also Places, sacred 
-
-Play-language, Japanese, 34 
-Plutarch, 49 n. 
-
-Poetry, relation to play, 119 ff. 
-
-Poets, as possessors of knowledge, 120 
-,, , Renaissance, 181 
-
-Politics, modern, and play, 206 ff. 
-Polytechnos, 170 
-Pope, Alexander, 187 
-Potlatch, 58 ff., 82 
-Poverty, St. Francis and, 139 
-Pretending, 8, 22 
-Pretium, 51 
-Prize, 50-1 
-“Problems”, 148 
-Prodicus, 146 
-Production, and art, 165 
-Prometheus, 146 
-Protagoras, 146, 147 
-Proverbs, Book of, 212 
-Prunktiirme, 172 
-Psychoanalysis, 24, 141 
-Psychology, 204 
-Puerilism, 205-6 
-Pythagoras, 147 
-
-Question contests, in ff., 126 
-Quintilian, 153 
-
-Rabelais, 181 
-“Rags”, 13 
-Rahder, Prof., 34 
-Ramayana, 83 
-
-
-
-INDEX 
-
-
-2 ig 
-
-
-Rana, 122-3 
-Rape of the Lock, 140, 187 
-“Real life”, play and, 8 
-Records, 200 
-
-Renaissance, play-element at, 180-2 
-
-Repetition, 10 
-
-Representation, 13, 15, 161 
-
-Rhythm, 142, 159 
-
-Richelieu, 94 
-
-Richer, 153 
-
-Riddles, 105 ff. 
-
-„ and poetry, 133-5 
-Rig-veda, see Vedas 
-Ripperda, 186 
-Ritual, 5, 15, 17 ff. 
-
-,, and music, 158-9 
-,, and plastic arts, 167 
-,, , in Roman culture, 174-5 
-
-Rococo period, play-element in, 
-186-9 
-
-Roman culture, and agonistic prin¬ 
-ciple, 74 
-
-„ ,, , play - elements of, 
-
-i73fif. 
-
-Romance languages, words for “play”' 
-in, 36, 42 
-
-Romans, and personification, 138-9 
-Romantic period, play-element in, 
-189-91 
-
-Rome, legal contests in, 87 
-Romulus and Remus, 65 
-Roscelinus, 155 
-Rousseau, 188 
-Rubens, 182 
-Rules of game, 11 
-Ruskin, 103 
-Rutilius Rufus, 88 
-
-
-Sacred performances, 14 
-Sages, question-contests of, 112 
-Salamis, Battle of, 96 
-Sannazaro, 181 
-
-Sanskrit, words for “play” in, 31-2, 
-43 
-
-Satire, 68 
-
-Saxo Grammaticus, 121 
-Scarlatti, 163 
-Schiller, 168 
-
-
-Schmitt, Carl, 209, 210 
-Scholasticism, 154, 156 
-Schroder, R., 93 
-Science, play-content of, 203-4 
-Scouting, 206 
-Secrecy, 12 
-Seizure, 16-17 
-Sensationalism, 205 
-Sentimentalism, 190-1 
-Seriousness and play, 5-6, 8 
-
-„ , and sacred rites, 22-3 
-
-,, , words for concept of, 
-
-44-5 
-
-Sexual act, and play, 43 
-Sexual display, in animals, g 
-Shakespeare, 142 
-Shou-sin, 66 
-Significance of play, 1 
-Skaldskaparmal, 131, 135 
-Slanging-matches, 68 ff. 
-
-,, ,, and litigation, 84 
-
-Social life, modern, and play, 205 
-Society, play and, 46 
-Socrates, see Plato 
-Solitary and social play, 47 
-Sophisms, 148 
-Sophists, 87, 146 ff. 
-
-Sophron, 149 
-Spengler, 182 
-Spoil-sport, the, 11 
-Sports, modern, 196 ff. 
-
-Stakes, 50 
-
-State, the Roman, 175 
-Stoicism, 88, 151 
-Stock Exchange, 52 
-Stumpfl, R., 144 
-“Style”, 186 
-Success, 49-50 
-Suso, Henry, 139 
-Sylvester II, see Gerbert 
-
-
-Tacitus, 57 
-Tension, 10—11, 47 
-Themistocles, 96 
-Theriomorphism, 141 
-Theseus, 52 
-Thucydides, 152 
-Thulr, 121 
-
-
-
-220 
-
-
-HOMO LUDENS 
-
-
-Tibet, 56 
-Tlinkit, 59, 60 
-Tolstoy, 57 
-Tongking, 56 
-Toradja, 108 
-Totemism, 53, 141 
-Tournament, 195-6 
-Trade, play-element in, 200 
-Tradition, play and, 10 
-Tragedy, Greek, 144-5 
-Trial by battle, 93 
-Triumphus, 177, 179 
-Trobriand Islands, 6 2, 66 
-Troubadours, 125 
-Tryggdamal, 128 
-
-
-Uhlenbeck, Prof., 33 
-Uncertainty, 47 
-Unity, mystic, 25 
-Universals, problem of, 156 
-University, mediaeval, 154, 156 
-Upanishads, 26, 107 
-
-
-Valery, Paul, 11, 132 
-Van den Vondel, Joost, 182 
-Vales, 120, 146, 165 
-Vedas, 15, 26, 105-7, 1 3 6 — 7 » 170 
-Versipellis, 141 
-Vico, Giambattista, 119 
-Victory, as representation of salva¬ 
-tion, 56 
-
-„ , in war, 92 
-
-Villard de Honnecourt, 171 
-Virgil, 175 
-Virtue, 63 
-
-
-Visigoths, conversion of, 153 
-Voluntary character of play, 7 
-
-Wager-element, in litigation, 83-4 
-Wagner, 130, 163 
-Walpole, Horace, 189-90 
-War, agonistic aspect, 90, 95 ff. 
-st t modern, 2og 
-,, , motives, 90 
-„ , play-element in, 89 ff. 
-
-„ , Ruskin on, 103 
-„ , words for, 91 n. 
-
-Watteau, 185 
-Wedding, 83 
-Wensinck, Prof., 35 
-Wetan, 123 
-
-Wieland the Smith, 170 
-Wig, 183-6 
-„ , judge’s, 77 
-Will, Divine, and fate, 79 
-William Rufus, 70 
-“Winning”, 50 
-
-,, , and divine justice, 81-2 
-
-Winter festival, ancient Chinese, 54-5 
-Words used for “play” idea, 29 
-
-Yam stores, 66 
-Yanaka, 109 
-Yasnas, 114 
-Yin and yang, 54, 117 
-
-Zcnd-avesta, 113-14 
-Zeno of Elea, 115, 149 
-Zeus, 81 
-
-,, , metamorphoses of, 141
+deludes us to the end, in a lasting silence.
