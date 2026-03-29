@@ -174,9 +174,8 @@ del {
     font-weight: normal;
 
     :is(ol, ul) {
-      font-size: small;
       font-weight: bold;
-      text-transform: uppercase;
+      font-variant: all-small-caps;
 
       :is(ol, ul) {
         font-weight: normal;
