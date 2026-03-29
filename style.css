@@ -64,6 +64,7 @@ h5 {
 h6,
 th,
 dt {
+  font-size: medium;
   font-weight: bold;
   font-variant: all-small-caps;
 }
