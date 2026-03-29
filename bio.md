@@ -31,6 +31,7 @@ Taro
 - [Hypermedia Systems](https://hypermedia.systems)
 - [Johan Huizinga](https://en.wikipedia.org/wiki/Johan_Huizinga)
 - [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
+- [John Stewart](https://www.evolutionarymanifesto.com)
 - [Laozi](https://en.wikipedia.org/wiki/Laozi)
 - [Line of flight](https://en.wikipedia.org/wiki/Line_of_flight)
 - [Ludics](https://en.wikipedia.org/wiki/Ludics)
