@@ -21,6 +21,7 @@ Taro
 - [Daniel Lieberman](https://en.wikipedia.org/wiki/Daniel_Lieberman)
 - [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
 - [E. O. Wilson](https://en.wikipedia.org/wiki/E._O._Wilson)
+- [Emmanuel Levinas](https://en.wikipedia.org/wiki/Emmanuel_Levinas)
 - [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)
 - [Elixir programming language](https://elixir-lang.org)
 - [Eternal return](https://en.wikipedia.org/wiki/Eternal_return)
