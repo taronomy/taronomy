@@ -147,7 +147,7 @@ li.task-list-item {
     display: contents;
   }
 
-  li:not(& > :first-child)::before {
+  li:not(:first-child)::before {
     content: "· ";
     font-weight: normal;
   }
