@@ -128,10 +128,7 @@ del {
   .ge,
   .gs,
   .gi {
-    color: blue;
-    @media (prefers-color-scheme: dark) {
-      color: lime;
-    }
+    color: light-dark(blue, lime);
   }
 
   [class^="p"],
