@@ -23,16 +23,14 @@ a {
   text-decoration: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-hr {
+:is(h1, h2, h3, h4, h5, h6, hr) {
   margin-block: 1lh 1cap;
   text-align: center;
   text-wrap: balance;
+
+  & + & {
+    margin-block-start: 0;
+  }
 }
 
 h1 {
