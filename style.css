@@ -147,9 +147,13 @@ li.task-list-item {
     display: contents;
   }
 
-  li:not(:first-child)::before {
+  li::before {
     content: "· ";
     font-weight: normal;
+  }
+
+  & > li:first-child {
+    content: none;
   }
 
   font-weight: bold;
