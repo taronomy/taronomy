@@ -141,13 +141,13 @@ li.task-list-item {
 }
 
 :is(ol, ul).inline {
-  &,
+  padding: 0;
+
   * {
-    display: inline;
-    padding: 0;
+    display: contents;
   }
 
-  li:not(&:first-child)::before {
+  li:not(:first-child)::before {
     content: "· ";
   }
 
