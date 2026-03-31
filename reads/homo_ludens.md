@@ -1,7 +1,10 @@
-# Homo Ludens: a study of the play-element in culture
+# Homo Ludens
 {:.no_toc}
 
-## J. Huizinga
+## A study of the play-element in culture
+{:.no_toc}
+
+### J. Huizinga
 {:.no_toc}
 
 Translator's note
@@ -19,8 +22,8 @@ Leyden,
   _June 1938._
 
 [^genitive]: 
-  Translator's note
-  : Logically, of course, Huizinga is correct; but as English prepositions are not governed by logic I have retained the more euphonious ablative in this sub-title. 
+    Translator's note
+    : Logically, of course, Huizinga is correct; but as English prepositions are not governed by logic I have retained the more euphonious ablative in this sub-title. 
 
 0. markdown-toc
 {:toc}
