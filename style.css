@@ -62,7 +62,7 @@ h5 {
 :is(h6, th, dt) {
   font-size: medium;
   font-weight: bold;
-  font-variant: all-small-caps;
+  font-variant: all-small-caps oldstyle-nums;
 }
 
 hr {
@@ -159,7 +159,7 @@ li.task-list-item {
 
     :is(ol, ul) {
       font-weight: bold;
-      font-variant-caps: all-small-caps;
+      font-variant: all-small-caps oldstyle-nums;
 
       :is(ol, ul) {
         font-weight: normal;
