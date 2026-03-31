@@ -151,10 +151,6 @@ li.task-list-item {
     content: "· ";
   }
 
-  /*& > li:first-child::before {
-    content: none;
-  }*/
-
   font-weight: bold;
 
   :is(ol, ul) {
