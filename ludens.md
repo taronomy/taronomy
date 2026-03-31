@@ -35,6 +35,12 @@ Play is older than culture, for culture, however inadequately defined, always pr
 
 Here we have at once a very important point: even in its simplest forms on the animal level, play is more than a mere physiological phenomenon or a psychological reflex. It goes beyond the confines of purely physical or purely biological activity. It is a _significant_ function—that is to say, there is some sense to it. In play there is something "at play" which transcends the immediate needs of life and imparts meaning to the action. All play means something. If we call the active principle that makes up the essence of play, "instinct", we explain nothing; if we call it "mind" or "will" we say too much. However we may regard it, the very fact that play has a meaning implies a non-materialistic quality in the nature of the thing itself.
 
+---
+
+Psychological and physiological deal with the observation, description and explanation of the play of animals, children, and grown-ups. They try to determine the nature and significance of play and to assign it its place in the scheme of life. The high importance of thIs place and the necessity, or at least the utility, of play as a function are generally taken for granted and form the starting-point of all such scientific researches. The numerous attempts to define the biological function of play show a striking variation. By some the origin and fundamentals of play have been described as a discharge of superabundant vital energy, by others as the satisfaction of some "imitative instinct", or again as simply a "need" for relaxation. According to one theory play constitutes a training of the young creature for the serious work that life will demand later on. According to another it serves as an exercise in restraint needful to the individual. Some find the principle of play in an innate urge to exercise a certain faculty, or in the desire to dominate or compete. Yet others regard it as an "adreaction"—an outlet for harmful impulses, as the necessary restorer of energy wasted by one-sided activity, as "wish-fulfilment", as a fiction designed to keep up the feeling of personal value, etc.[^abreaction]
+
+[^abreaction]: For these theories see H. Zondervan, Het Spel bij Dieren, Kinderen en Volwassen Menschen (Amsterdam, 1928), and F. J. J. Buytendijk, Het Spel van Mensch en Diet als openbaring van levensdriften (Amsterdam, 1932).
+
 ## The play-concept as expressed in language
 
 ## Play and contest as civilising functions
