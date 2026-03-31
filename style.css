@@ -122,8 +122,8 @@ del {
 }
 
 sup {
+  font: 1em system-ui;
   vertical-align: baseline;
-  font-size: 1em;
   font-variant-position: super;
 }
 
