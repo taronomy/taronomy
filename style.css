@@ -59,9 +59,7 @@ h5 {
   font-size: medium;
 }
 
-h6,
-th,
-dt {
+:is(h6, th, dt) {
   font-size: medium;
   font-weight: bold;
   font-variant: all-small-caps;
@@ -80,17 +78,11 @@ p {
   margin-block: 1ex;
 }
 
-blockquote,
-:not(li) > ol,
-:not(li) > ul,
-dl {
+:is(blockquote, ol, ul, dl) {
   margin-block: 1cap;
 }
 
-blockquote,
-ol,
-ul,
-dd {
+:is(blockquote, ol, ul, dd) {
   margin-inline: 0;
   padding-inline-start: 2ch;
 }
@@ -125,32 +117,24 @@ sup {
   font-variant-position: super;
 }
 
-.highlight {
-  [class^="k"],
-  .gh,
-  .gu,
-  .ge,
-  .gs,
-  .gi {
+pre.highlight {
+  :is([class^="k"], .gh, .gu, .ge, .gs, .gi) {
     color: light-dark(blue, lime);
   }
 
-  [class^="p"],
-  [class^="o"],
-  [class^="c"],
-  .gd {
+  :is([class^="p"], [class^="o"], [class^="c"], .gd) {
     opacity: 60%;
   }
 }
 
-.task-list-item {
+li.task-list-item {
   list-style: "☐ ";
 
   &:has([checked]) {
     list-style: "☒ ";
   }
 
-  .task-list-item-checkbox {
+  input.task-list-item-checkbox {
     display: none;
   }
 }
