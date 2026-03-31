@@ -4,7 +4,7 @@
 ## A study of the play-element in culture
 {:.no_toc}
 
-### J. Huizinga[^synthesis]
+### by J. Huizinga[^synthesis]
 {:.no_toc}
 
 [^synthesis]:
