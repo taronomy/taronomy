@@ -1,7 +1,8 @@
 # Homo Ludens
 {:.no_toc}
 
-**A study of the play-element in culture**
+## A study of the play-element in culture
+{:.no_toc}
 
 ## J. Huizinga[^synthesis]
 {:.no_toc}
