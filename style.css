@@ -152,7 +152,7 @@ li.task-list-item {
     font-weight: normal;
   }
 
-  & > li:first-child {
+  & > li:first-child::before {
     content: none;
   }
 
