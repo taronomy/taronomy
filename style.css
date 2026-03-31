@@ -121,6 +121,12 @@ del {
   text-decoration-color: red;
 }
 
+sup {
+  vertical-align: baseline;
+  font-size: 1em;
+  font-variant-position: super;
+}
+
 .highlight {
   [class^="k"],
   .gh,
@@ -173,7 +179,7 @@ del {
 
     :is(ol, ul) {
       font-weight: bold;
-      font-variant: all-small-caps;
+      font-variant-caps: all-small-caps;
 
       :is(ol, ul) {
         font-weight: normal;
