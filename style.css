@@ -79,7 +79,7 @@ p {
 }
 
 :is(blockquote, dl),
-:not(ol, ul) :is(ol, ul) {
+:not(li) > :is(ol, ul) {
   margin-block: 1cap;
 }
 
