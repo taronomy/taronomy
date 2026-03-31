@@ -28,7 +28,7 @@ Taro
 - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 - [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
 - [History of life](https://en.wikipedia.org/wiki/History_of_life)
-- [Homo Ludenr](/ludens)
+- [Homo Ludens](/ludens)
 - [Hypermedia Systems](https://hypermedia.systems)
 - [Johan Huizinga](https://en.wikipedia.org/wiki/Johan_Huizinga)
 - [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
