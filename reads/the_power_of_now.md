@@ -11,7 +11,7 @@ Here are action items.
 0. markdown-toc
 {:toc}
 
-## 1. You Are Not Your Mind
+## You Are Not Your Mind
 
 ### The Greatest Obstacle to Enlightenment
 {:.no_toc}
@@ -40,7 +40,7 @@ Here are action items.
 - Anxiety is close to fear. But it also involves a sense of abandonment and incompleteness.
 - Intimate relationship quickly turns the pleasure into the pain.
 
-## 2. Consciousness: The Way Out of Pain
+## Consciousness: The Way Out of Pain
 
 ### Create No More Pain in the Present
 {:.no_toc}
@@ -71,7 +71,7 @@ Here are action items.
 - Death is a stripping away of all that is not you.
 - Die before you die. And find that there is no death.
 
-## 3. Moving Deeply into the Now
+## Moving Deeply into the Now
 
 ### Don't Seek Your Self in the Mind
 {:.no_toc}
@@ -113,7 +113,7 @@ Here are action items.
 - It doesn't mean you should change what you do, but the how.
 - Be free of psychological time. Lose grim determination, fear, anger, the need to become not.
 
-## 4. Mind Strategies for Avoiding the Now
+## Mind Strategies for Avoiding the Now
 
 ### Loss of Now: The Core Delusion
 {:.no_toc}
@@ -144,14 +144,14 @@ Here are action items.
 - Outer journey takes millions of steps. Inner journey takes one: the Now.
 - The one step contains all the steps it takes.
 
-## 5. The State of Presence
+## The State of Presence
 
 ### It's Not What You Think It Is
 {:.no_toc}
 
 - Close your eyes and wait for your next thought. It creates intense presence.
 
-## 6. The Inner Body
+## The Inner Body
 
 ### Finding Your Invisible and Indestructible Reality
 {:.no_toc}
@@ -177,14 +177,14 @@ Here are action items.
 
 > If you need to use your mind for a specific purpose, use it in conjunction with your inner body. Only if you are able to be conscious without thought can you use your mind creatively, and the easiest way to enter that state is through your body. Whenever an answer, a solution, or a creative idea is needed, stop thinking for a moment by focusing attention on your inner energy field. Become aware of the stillness. When you resume thinking, it will be fresh and creative. In any thought activity, make it a habit to go back and forth every few minutes or so between thinking and an inner kind of listening, an inner stillness. We could say: don't just think with your head, think with your whole body.
 
-## 7. Portals into the Unmanifested
+## Portals into the Unmanifested
 
 ### Space
 {:.no_toc}
 
 - You cannot see the blank space while thinking.
 
-## 8. Enlightened Relationships
+## Enlightened Relationships
 
 ### Addiction and the Search for Wholeness
 {:.no_toc}
@@ -218,7 +218,7 @@ Here are action items.
 - Being different forces enlightenment.
 - Relationship with self creates unnecessary duality and complexity.
 
-## 9. Beyond Happiness and Unhappiness There Is Peace
+## Beyond Happiness and Unhappiness There Is Peace
 
 ### The Higher Good beyond Good and Bad
 {:.no_toc}
@@ -264,7 +264,7 @@ Here are action items.
 - You make a better world by being free from it.
 - Unconsciousness is the source of Evil. Eliminate the cause, not the effect.
 
-## 10. The Meaning of Surrender
+## The Meaning of Surrender
 
 ### Acceptance of the Now
 {:.no_toc}

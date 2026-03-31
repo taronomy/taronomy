@@ -22,6 +22,7 @@ I surely have fixation in my memory-ego. I wouldn't let time go. And I don't fee
 {:toc}
 
 ## Preface
+{:.no_toc}
 
 - Mind is muscles you can train.
 - Training mind can improve your
@@ -45,7 +46,7 @@ I surely have fixation in my memory-ego. I wouldn't let time go. And I don't fee
 - The opposite of democracy is violence.
 - Mind-training is a rather political, communitarian offer.
 
-## 1. Why mental muscles
+## Why mental muscles
 
 ### Brain adds bias to the world we see for survival.
 {:.no_toc}
@@ -123,7 +124,7 @@ I surely have fixation in my memory-ego. I wouldn't let time go. And I don't fee
 
 > Sincere academics betray their disciples with over-specialisation.
 
-## 2. Neurological foundation of three mental muscles
+## Neurological foundation of three mental muscles
 
 ### Three categories of human existence
 {:.no_toc}
@@ -191,7 +192,7 @@ I surely have fixation in my memory-ego. I wouldn't let time go. And I don't fee
 - Activation of a part of the brain does not correspond to a function 1-by-1.
 - Weakened mPFC requires more activation for mind training.
 
-## 3. Training mental muscles
+## Training mental muscles
 
 ### The illusion of genetic determinism
 {:.no_toc}
@@ -241,7 +242,7 @@ I surely have fixation in my memory-ego. I wouldn't let time go. And I don't fee
 - Alcohol does not help you relax.
 - Was it a rough day? What you need is warm tea and a walk under the sun.
 
-## 4. Changing oneself
+## Changing oneself
 
 ### What makes changing self possible
 {:.no_toc}
@@ -354,7 +355,7 @@ I surely have fixation in my memory-ego. I wouldn't let time go. And I don't fee
 - Inner communication takes place between self and 'I'.
 - Self creates experiences, and consciousness notices experiences.
 
-## 5. How brain works
+## How brain works
 
 ### Inference: what brain does
 {:.no_toc}
@@ -452,8 +453,9 @@ I surely have fixation in my memory-ego. I wouldn't let time go. And I don't fee
 - Tai chi emphasises chi.
 - Mental fitness goes for less surprises incurred by wrong predictions.
 
-### New understanding of mental disorders and reward sys{:.no_toc}
-tems
+### New understanding of mental disorders and reward systems
+{:.no_toc}
+
 
 - Old psychology uses the sandwich model: sense-perception-action.
 - Disability of inference is the new culprit of mental disorders.
@@ -499,7 +501,7 @@ tems
 - It's important to be positive storytelling about yourself and others.
 - Step back from "action mode" and engage "existence mode" to remove all anger and anxiety.
 
-## 6. Intrinsic order and inner communication
+## Intrinsic order and inner communication
 
 ### Quit the mechanical world
 {:.no_toc}
@@ -573,7 +575,7 @@ tems
 - Working on the generative orders is more effective way to make a change.
 - Rheomode focuses on the verb in communication. Rheo- means flow in greek.
 
-## 7. Inner communication and meditation
+## Inner communication and meditation
 
 ### All communication happens inside
 {:.no_toc}
@@ -628,7 +630,7 @@ tems
 - Francisco Varela proposed self-organisation, enactive perception, and so on.
 - Compared to America and Europe, meditation is misunderstood in Korea.
 
-## 8. Inner communication meditation for soothing amygdala
+## Inner communication meditation for soothing amygdala
 
 ### Anger is fear
 {:.no_toc}
@@ -695,7 +697,7 @@ tems
 
 - Recalling bad memories is a result of bad mood, not a cause.
 
-## 9. Proprioception training and movement meditation
+## Proprioception training and movement meditation
 
 ### Proprioception training
 {:.no_toc}
@@ -764,7 +766,7 @@ tems
 - Relaxing right shoulder can relax the left one too.
 - Alexander said non-doing is non-intending.
 
-## 10. Inner communication meditation for activating mPFC
+## Inner communication meditation for activating mPFC
 
 ### Awareness and self-referential process
 {:.no_toc}
@@ -903,7 +905,7 @@ tems
 - Some people never take a moment to put things down and relax.
 - Happiness naturally occurs from an active mPFC
 
-## 11. Various traditional meditation for enhancing mental muscles
+## Various traditional meditation for enhancing mental muscles
 
 ### Traditional Buddhist meditation
 {:.no_toc}
