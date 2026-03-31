@@ -53,6 +53,8 @@ Now this last-named element, the _fun_ of playing, resists all analysis, all log
     Translator's note 
     : Nature, kind, being, essence, etc.
 
+Since the reality of play extends beyond the sphere of human life it cannot have its foundations in any rational nexus, because this would limit it to mankind. The incidence ofc play is not associated with any particular stage of civilisation or view of the universe. Any thinking person can see at a glance that play is a thing on its own, even if his language possesses no general concept to express it. Play cannot be denied. You can deny, if you like, nearly all abstractions: justice, beauty, truth, goodness, mind, God. You can deny seriousness, but not play.
+
 ## The play-concept as expressed in language
 
 ## Play and contest as civilising functions
