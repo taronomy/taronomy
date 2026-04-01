@@ -30,7 +30,7 @@ The reader of these pages should not look for detailed documentation of every wo
 
 Leyden, 
   _June 1938._
-    
+
 ---
 
 0. markdown-toc
