@@ -1,7 +1,8 @@
-<!-- Single quotes for lexical reference. Double quotes for reference of instances. -->
+<!-- Single quotes for lexical reference. Double quotes for concrete reference. -->
+<!-- Footnotes right under the paragraph of the reference -->
 <!-- 'Translator's note' for Trans.-->
 <!-- British spelling -->
-<!-- `---` for gap between paragraphs -->
+<!-- `---` for gaps between paragraphs -->
 
 # Homo Ludens
 {:.no_toc}
