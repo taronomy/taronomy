@@ -1,4 +1,5 @@
 <!-- Single quotes for lexical reference. Double quotes for concrete reference. -->
+<!-- Use markdown footnotes. [^footnotes] -->
 <!-- Footnotes right under the paragraph of the reference -->
 <!-- 'Translator's note' for Trans.-->
 <!-- British spelling -->
