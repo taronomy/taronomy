@@ -1,19 +1,20 @@
 <!-- Single quotes for lexical reference. Double quotes for reference of instances. -->
 <!-- 'Translator's note' for Trans.-->
 <!-- British spelling -->
+<!-- `---` for gap between paragraphs -->
 
 # Homo Ludens
 {:.no_toc}
 
-## A study of the play-element in culture
+## A study of the play-element in culture[^edition]
 {:.no_toc}
 
-### by J. Huizinga[^synthesis]
-{:.no_toc}
-
-[^synthesis]:
+[^edition]:
     Translator's note
     : This edition is prepared from the German edition published in Switzerland, 1944, and also from the author's own English translation of the text, which he made shortly before his death. Comparison of the two texts shows a number of discrepancies and a marked difference in style; the translator hopes that the following version has achieved a reasonable synthesis.
+
+### by J. Huizinga
+{:.no_toc}
 
 A happier age than ours once made bold to call our species by the name of _Homo Sapiens_. In the course of time we have come to realise that we are not so reasonable after all as the Eighteenth Century, with its worship of reason and its naïve optimism, thought us; hence modern fashion inclines to designate our species as _Homo Faber_: Man the Maker. But though _faber_ may not be quite so dubious as _sapiens_ it is, as a name specific of the human being, even less appropriate, seeing that many animals too are makers. There is a third function, however, applicable to both human and animal life, and just as important as reasoning and making—namely, playing. It seems to me that next to _Homo Faber_, and perhaps on the same level as _Homo Sapiens_, **Homo Ludens**, Man the Player, deserves a place in our nomenclature.
 
@@ -47,7 +48,7 @@ Psychology and physiology deal with the observation, description and explanation
 
 All these hypotheses have one thing in common: they all start from the assumption that play must serve something which is _not_ play, that it must have some kind of biological purpose. They all enquire into the why and the wherefore of play. The various answers they give tend rather to overlap than to exclude one another. It would be perfectly possible to accept nearly all the explanations without getting into any real confusion of thought—and without coming much nearer to a real understanding of the play-concept. They are all only partial solutions of the problem. If any of them were really decisive it ought either to exclude all the others or comprehend them in a higher unity. Most of them only deal incidentally with the question of what play is _in itself_ and what it means for the player. They attack play direct with the quantitative methods of experimental science without first paying attention to its profoundly aesthetic quality. As a rule they leave the primary quality of play as such, virtually untouched. To each and every one of the above 'explanations' it might well be objected: 'So far so good, but what actually is the _fun_ of playing? Why does the baby crow with pleasure? Why does the gambler lose himself in his passion? Why is a huge crowd roused to frenzy by a football match?' This intensity of, and absorption in, play finds no explanation in biological analysis. Yet in this intensity, this absorption, this power of maddening, lies the very essence, the primordial quality of play. Nature, so our reasoning mind tells us, could just as easily have given her children all those useful functions of discharging superabundant energy, of relaxing after exertion, of training for the demands of life, of compensating for unfulfilled longings, etc., in the form of purely mechanical exercises and reactions. But no, she gave us play, with its tension, its mirth, and its fun.
 
-Now this last-named element, the _fun_ of playing, resists all analysis, all logical interpretation. As a concept, it cannot be reduced to any other mental category. No other modern language known to me has the exact equivalent of the English 'fun'. The Dutch 'aardigkeit' perhaps comes nearest to it (derived from 'aard' which means the same as 'Art' and 'wesen'[^wesen] in German, and thus evidence, perhaps, that the matter cannot be reduced further). We may note in passing that 'fun' in its current usage is of rather recent origin. French, oddly enough, has no corresponding term at all; German half makes up for it by 'Spaß' and 'Witz' together. Nevertheless it is precisely this fun-element that characterises the essence of play. Here we have to do with an absolutely primary category of life, familiar to everybody at a glance right down to the animal level. We may well call play a 'totality' in the modern sense of the word, and it is as a totality that we must try to understand and evaluate it.
+Now this last-named element, the _fun_ of playing, resists all analysis, all logical interpretation. As a concept, it cannot be reduced to any other mental category. No other modern language known to me has the exact equivalent of the English 'fun'. The Dutch 'aardigkeit' perhaps comes nearest to it (derived from 'aard' which means the same as 'Art' and 'Wesen'[^wesen] in German, and thus evidence, perhaps, that the matter cannot be reduced further). We may note in passing that 'fun' in its current usage is of rather recent origin. French, oddly enough, has no corresponding term at all; German half makes up for it by 'Spaß' and 'Witz' together. Nevertheless it is precisely this fun-element that characterises the essence of play. Here we have to do with an absolutely primary category of life, familiar to everybody at a glance right down to the animal level. We may well call play a 'totality' in the modern sense of the word, and it is as a totality that we must try to understand and evaluate it.
 
 [^wesen]: 
     Translator's note 
