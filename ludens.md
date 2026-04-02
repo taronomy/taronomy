@@ -11,9 +11,7 @@
 ## A study of the play-element in culture[^edition]
 {:.no_toc}
 
-[^edition]:
-    Translator's note
-    : This edition is prepared from the German edition published in Switzerland, 1944, and also from the author's own English translation of the text, which he made shortly before his death. Comparison of the two texts shows a number of discrepancies and a marked difference in style; the translator hopes that the following version has achieved a reasonable synthesis.
+[^edition]: This edition is prepared from the German edition published in Switzerland, 1944, and also from the author's own English translation of the text, which he made shortly before his death. Comparison of the two texts shows a number of discrepancies and a marked difference in style; the translator hopes that the following version has achieved a reasonable synthesis. Trans.
 
 ### by J. Huizinga
 {:.no_toc}
@@ -22,9 +20,7 @@ A happier age than ours once made bold to call our species by the name of _Homo 
 
 It is ancient wisdom, but it is also a little cheap, to call all human activity 'play'. Those who are willing to content themselves with a metaphysical conclusion of this kind should not read this book. Nevertheless, we find no reason to abandon the notion of play as a distinct and highly important factor in the world's life and doings. For many years the conviction has grown upon me that civilisation arises and unfolds in and as play. Traces of such an opinion are to be found in my writings ever since 1903. I took it as the theme for my annual address as Rector of Leyden University in 1933, and afterwards for lectures in Zürich, Vienna and London, in the last instance under the title: "The Play Element of Culture". Each time my hosts wanted to correct it to 'in' Culture, and each time I protested and clung to the genitive,[^genitive] because it was not my object to define the place of play among all the other manifestations of culture, but rather to ascertain how far culture itself bears the character of play. The aim of the present full-length study is to try to integrate the concept of play into that of culture. Consequently, play is to be understood here not as a biological phenomenon but as a cultural phenomenon. It is approached historically, not scientifically. The reader will find that I have made next to no use of any psychological interpretations of play however important these may be, and that I have employed anthropological terms and explanations but sparingly, even where I have had to quote ethnological facts. He will find no mention of _mana_ and the like, and hardly any of magic. Were I compelled to put my argument tersely in the form of theses, one of them would be that anthropology and its sister sciences have so far laid too little stress on the concept of play and on the supreme importance to civilisation of the play-factor.
 
-[^genitive]: 
-    Translator's note
-    : Logically, of course, Huizinga is correct; but as English prepositions are not governed by logic I have retained the more euphonious ablative in this sub-title. 
+[^genitive]: Logically, of course, Huizinga is correct; but as English prepositions are not governed by logic I have retained the more euphonious ablative in this sub-title. Trans.
 
 The reader of these pages should not look for detailed documentation of every word. In treating of the general problems of culture one is constantly obliged to undertake predatory incursions into provinces not sufficiently explored by the raider himself. To fill in all the gaps in my knowledge beforehand was out of the question for me. I had to write now, or not at all. And I wanted to write.
 
@@ -52,9 +48,7 @@ All these hypotheses have one thing in common: they all start from the assumptio
 
 Now this last-named element, the _fun_ of playing, resists all analysis, all logical interpretation. As a concept, it cannot be reduced to any other mental category. No other modern language known to me has the exact equivalent of the English 'fun'. The Dutch 'aardigkeit' perhaps comes nearest to it (derived from 'aard' which means the same as 'Art' and 'Wesen'[^wesen] in German, and thus evidence, perhaps, that the matter cannot be reduced further). We may note in passing that 'fun' in its current usage is of rather recent origin. French, oddly enough, has no corresponding term at all; German half makes up for it by 'Spaß' and 'Witz' together. Nevertheless it is precisely this fun-element that characterises the essence of play. Here we have to do with an absolutely primary category of life, familiar to everybody at a glance right down to the animal level. We may well call play a 'totality' in the modern sense of the word, and it is as a totality that we must try to understand and evaluate it.
 
-[^wesen]: 
-    Translator's note 
-    : Nature, kind, being, essence, etc.
+[^wesen]: Nature, kind, being, essence, etc. Trans.
 
 Since the reality of play extends beyond the sphere of human life it cannot have its foundations in any rational nexus, because this would limit it to mankind. The incidence of play is not associated with any particular stage of civilisation or view of the universe. Any thinking person can see at a glance that play is a thing on its own, even if his language possesses no general concept to express it. Play cannot be denied. You can deny, if you like, nearly all abstractions: justice, beauty, truth, goodness, mind, God. You can deny seriousness, but not play.
 
