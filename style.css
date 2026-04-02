@@ -147,14 +147,14 @@ li.task-list-item {
     display: contents;
   }
 
-  li::before {
+  li:not(> :first-child)::before {
     content: "· ";
     font-weight: normal;
   }
 
-  & > li:first-child::before {
+  /*& > li:first-child::before {
     content: none;
-  }
+  }*/
 
   font-weight: bold;
 
