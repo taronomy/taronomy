@@ -67,6 +67,12 @@ $ ls
 README.md
 ```
 
+```json
+(
+  syntax: 'broken',
+)
+```
+
 ```c
 #include <stdio.h>
 
