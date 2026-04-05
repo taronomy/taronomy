@@ -62,7 +62,7 @@ Lorem ipsum
 | ===== | ===== |
 | Lorem | Ipsum |
 
-```sh-session
+```console
 $ ls
 README.md
 ```
