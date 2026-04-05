@@ -62,9 +62,9 @@ Lorem ipsum
 | ===== | ===== |
 | Lorem | Ipsum |
 
-```py
->>> print("hi")
-hi
+```sh-session
+$ ls
+README.md
 ```
 
 ```c
