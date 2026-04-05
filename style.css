@@ -85,7 +85,7 @@ p {
 
 :is(blockquote, ol, ul, dd) {
   margin-inline: 0;
-  padding-inline-start: 2ch;
+  padding-inline-start: 2em;
 }
 
 img {
