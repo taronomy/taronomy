@@ -131,19 +131,19 @@ pre.highlight {
   }
 
   :is([class^="k"], .gh, .gs, .gi, .go) {
-    color: light-dark(blue, lime);
+    color: light-dark(blue, Aquamarine);
   }
 
   :is([class^="n"], .gu, .ge, .gd, .gr) {
-    color: light-dark(maroon, yellow);
+    color: light-dark(maroon, Bisque);
   }
 
   :is([class^="m"], .esc) {
-    color: light-dark(purple, fuchsia);
+    color: light-dark(purple, Violet);
   }
 
   :is([class^="s"]) {
-    color: light-dark(green, fuchsia);
+    color: light-dark(green, Chartreuse);
   }
 
   :is([class^="p"], [class^="o"], [class^="c"]) {
