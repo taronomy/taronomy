@@ -126,16 +126,20 @@ del {
 }
 
 pre.highlight {
-  :is([class^="k"], .gh, .gs, .gi) {
+  :is([class^="k"], .gh, .gs, .gi, .go) {
     color: light-dark(blue, lime);
   }
 
-  :is([class^="n"], .gu, .ge, .gd) {
+  :is([class^="n"], .gu, .ge, .gd, .gr) {
     color: light-dark(maroon, yellow);
   }
 
-  [class^="m"] {
+  :is([class^="m"], .esc) {
     color: light-dark(purple, fuchsia);
+  }
+
+  .err {
+    text-decoration-color: red;
   }
 
   :is([class^="p"], [class^="o"], [class^="c"]) {
