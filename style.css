@@ -122,28 +122,28 @@ blockquote,
 }
 
 del {
-  text-decoration-color: red;
+  text-decoration-color: light-dark(red, salmon);
 }
 
 pre.highlight {
   .err {
-    color: red;
+    color: light-dark(red, salmon);
   }
 
   :is([class^="k"], .gh, .gs, .gi, .go) {
-    color: light-dark(blue, Aquamarine);
+    color: light-dark(blue, azure);
   }
 
   :is([class^="n"], .gu, .ge, .gd, .gr) {
-    color: light-dark(maroon, Bisque);
+    color: light-dark(maroon, moccasin);
   }
 
   :is([class^="m"], .esc) {
-    color: light-dark(purple, Violet);
+    color: light-dark(purple, violet);
   }
 
   :is([class^="s"]) {
-    color: light-dark(green, Chartreuse);
+    color: light-dark(green, honeydew);
   }
 
   :is([class^="p"], [class^="o"], [class^="c"]) {
