@@ -134,6 +134,10 @@ pre.highlight {
     color: light-dark(maroon, yellow);
   }
 
+  [class^="m"] {
+    color: light-dark(purple, fuchsia);
+  }
+
   :is([class^="p"], [class^="o"], [class^="c"]) {
     color: light-dark(grey, silver);
   }
