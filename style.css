@@ -108,14 +108,21 @@ pre {
   white-space: pre-wrap;
 }
 
-del {
-  text-decoration-color: red;
-}
-
 sup {
   font: 1em system-ui;
   vertical-align: baseline;
   font-variant-position: super;
+}
+
+blockquote,
+::marker,
+::before,
+::after {
+  color: light-dark(grey, silver);
+}
+
+del {
+  text-decoration-color: light-dark(grey, silver);
 }
 
 pre.highlight {
@@ -124,7 +131,7 @@ pre.highlight {
   }
 
   :is([class^="p"], [class^="o"], [class^="c"], .gd) {
-    opacity: 60%;
+    color: light-dark(grey, silver);
   }
 }
 
