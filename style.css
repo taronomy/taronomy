@@ -126,6 +126,10 @@ del {
 }
 
 pre.highlight {
+  .err {
+    color: red;
+  }
+
   :is([class^="k"], .gh, .gs, .gi, .go) {
     color: light-dark(blue, lime);
   }
@@ -138,8 +142,8 @@ pre.highlight {
     color: light-dark(purple, fuchsia);
   }
 
-  .err {
-    text-decoration-color: red;
+  :is([class^="s"]) {
+    color: light-dark(green, fuchsia);
   }
 
   :is([class^="p"], [class^="o"], [class^="c"]) {

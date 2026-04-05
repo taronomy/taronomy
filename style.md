@@ -62,15 +62,13 @@ Lorem ipsum
 | ===== | ===== |
 | Lorem | Ipsum |
 
+```json
+[ syntax: 'broken', ]
+```
+
 ```console
 $ ls
 README.md
-```
-
-```json
-(
-  syntax: 'broken',
-)
 ```
 
 ```c
