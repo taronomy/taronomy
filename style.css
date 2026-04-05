@@ -29,7 +29,7 @@ a {
   text-wrap: balance;
 
   & + & {
-    margin-block-start: 0;
+    margin-block-start: 1cap;
   }
 }
 
