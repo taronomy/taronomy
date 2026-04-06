@@ -130,7 +130,7 @@ pre.highlight {
   }
 
   :is([class^="n"], .gu, .ge, .gd, .gr) {
-    color: light-dark(maroon, skyblue);
+    color: light-dark(maroon, lightskyblue);
   }
 
   :is([class^="m"], .esc) {
