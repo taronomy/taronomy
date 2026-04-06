@@ -68,9 +68,11 @@ README.md
 ```
 
 ```json
-(
+{
+  "json": true,
   syntax: 'broken',
-)
+  "numbers": [1, 2, 3]
+}
 ```
 
 ```c

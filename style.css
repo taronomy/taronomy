@@ -122,24 +122,20 @@ blockquote,
 }
 
 del {
-  text-decoration-color: light-dark(red, salmon);
+  text-decoration-color: light-dark(red, tomato);
 }
 
 pre.highlight {
-  .err {
-    color: light-dark(red, salmon);
-  }
-
   :is([class^="k"], .gh, .gs, .gi, .go) {
-    color: light-dark(blue, turquoise);
+    color: light-dark(blue, violet);
   }
 
   :is([class^="n"], .gu, .ge, .gd, .gr) {
-    color: light-dark(maroon, chocolate);
+    color: light-dark(maroon, turquoise);
   }
 
   :is([class^="m"], .esc) {
-    color: light-dark(purple, violet);
+    color: light-dark(purple, gold);
   }
 
   :is([class^="s"]) {
@@ -148,6 +144,10 @@ pre.highlight {
 
   :is([class^="p"], [class^="o"], [class^="c"]) {
     color: light-dark(grey, silver);
+  }
+
+  .err {
+    color: light-dark(red, tomato);
   }
 }
 
