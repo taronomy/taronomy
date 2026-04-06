@@ -138,7 +138,7 @@ pre.highlight {
   }
 
   :is([class^="s"]) {
-    color: light-dark(green, chartreuse);
+    color: light-dark(green, greenyellow);
   }
 
   :is([class^="p"], [class^="o"], [class^="c"]) {
