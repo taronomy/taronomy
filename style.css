@@ -113,43 +113,6 @@ sup {
   font-variant-position: super;
 }
 
-blockquote,
-::marker,
-::before,
-::after {
-  color: light-dark(grey, silver);
-}
-
-del {
-  text-decoration-color: light-dark(red, tomato);
-}
-
-pre.highlight {
-  :is([class^="k"], .gh, .gs, .gi, .go) {
-    color: light-dark(blue, chartreuse);
-  }
-
-  :is([class^="n"], .gu, .ge, .gd, .gr) {
-    color: light-dark(maroon, gold);
-  }
-
-  :is([class^="m"], .esc) {
-    color: light-dark(purple, violet);
-  }
-
-  :is([class^="s"]) {
-    color: light-dark(green, turquoise);
-  }
-
-  :is([class^="p"], [class^="o"], [class^="c"]) {
-    color: light-dark(grey, silver);
-  }
-
-  .err {
-    color: light-dark(red, tomato);
-  }
-}
-
 li.task-list-item {
   list-style: "☐ ";
 
@@ -159,6 +122,45 @@ li.task-list-item {
 
   input.task-list-item-checkbox {
     display: none;
+  }
+}
+
+@media not (prefers-contrast: more) {
+  blockquote,
+  ::marker,
+  ::before,
+  ::after {
+    color: light-dark(grey, silver);
+  }
+
+  del {
+    text-decoration-color: red;
+  }
+
+  pre.highlight {
+    :is([class^="k"], .gh, .gs, .gi, .go) {
+      color: light-dark(blue, cyan);
+    }
+
+    :is([class^="n"], .gu, .ge, .gd, .gr) {
+      color: light-dark(maroon, yellow);
+    }
+
+    :is([class^="m"], .esc) {
+      color: light-dark(purple, fuchsia);
+    }
+
+    :is([class^="s"]) {
+      color: light-dark(green, lime);
+    }
+
+    :is([class^="p"], [class^="o"], [class^="c"]) {
+      color: light-dark(grey, silver);
+    }
+
+    .err {
+      color: red;
+    }
   }
 }
 
