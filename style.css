@@ -138,23 +138,11 @@ li.task-list-item {
   }
 
   pre.highlight {
-    :is([class^="k"], .gh, .gs, .gi, .go) {
+    :is([class^="k"], .gh, .gu, .ge, .gs, .gi) {
       color: light-dark(blue, cyan);
     }
 
-    :is([class^="n"], .gu, .ge, .gd, .gr) {
-      color: light-dark(maroon, yellow);
-    }
-
-    :is([class^="m"], .esc) {
-      color: light-dark(purple, fuchsia);
-    }
-
-    :is([class^="s"]) {
-      color: light-dark(green, lime);
-    }
-
-    :is([class^="p"], [class^="o"], [class^="c"]) {
+    :is([class^="p"], [class^="o"], [class^="c"], .gd, .gt, .gr, .esc) {
       color: light-dark(grey, silver);
     }
 
