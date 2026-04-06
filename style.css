@@ -126,11 +126,11 @@ del {
 
 pre.highlight {
   :is([class^="k"], .gh, .gs, .gi, .go) {
-    color: light-dark(blue, gold);
+    color: light-dark(blue, chartreuse);
   }
 
   :is([class^="n"], .gu, .ge, .gd, .gr) {
-    color: light-dark(maroon, lightskyblue);
+    color: light-dark(maroon, gold);
   }
 
   :is([class^="m"], .esc) {
@@ -138,7 +138,7 @@ pre.highlight {
   }
 
   :is([class^="s"]) {
-    color: light-dark(green, greenyellow);
+    color: light-dark(green, turquoise);
   }
 
   :is([class^="p"], [class^="o"], [class^="c"]) {
