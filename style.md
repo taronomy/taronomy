@@ -69,9 +69,8 @@ README.md
 
 ```json
 {
-  "json": true,
+  "JSON": true,
   syntax: 'broken',
-  "numbers": [1, 2, 3]
 }
 ```
 
@@ -89,10 +88,10 @@ index e69de29..4b825dc 100644
 --- a/app.js
 +++ b/app.js
 @@ -1,5 +1,5 @@
-  function add(a, b) {
--   return a - b;
-+   return a + b;
-  }
+ function add(a, b) {
+-  return a - b;
++  return a + b;
+ }
 ```
 
 ```html
