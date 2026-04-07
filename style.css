@@ -4,6 +4,7 @@ html {
   line-height: 1.6;
   text-wrap: pretty;
   scroll-behavior: smooth;
+  hanging-punctuation: first allow-end last;
 
   body {
     margin: auto;
@@ -105,6 +106,7 @@ table {
 pre {
   margin-block: 1lh;
   white-space: pre-wrap;
+  hanging-punctuation: none;
 }
 
 sup {
