@@ -62,13 +62,6 @@ Lorem ipsum
 | ===== | ===== |
 | Lorem | Ipsum |
 
-```json
-{
-  "JSON": true,
-  syntax: 'broken',
-}
-```
-
 ```c
 #include <stdio.h>
 
