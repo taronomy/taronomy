@@ -128,7 +128,7 @@ li.task-list-item {
 }
 
 :is(blockquote, del, ::marker, ::before, ::after),
-/* keywords, punctuations, operators, comments */
+/* keywords, punctuations, operators, comments and error */
 pre.highlight :is([class^="k"], [class^="p"], [class^="o"], [class^="c"], .err) {
   @media not (prefers-contrast: more) {
     opacity: 60%;
