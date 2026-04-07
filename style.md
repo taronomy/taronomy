@@ -74,6 +74,7 @@ Lorem ipsum
 
 int main(void) {
     printf("hello world");
-    return 0;
+    # syntax error
+    return 360 % 3;
 }
 ```
