@@ -14,7 +14,7 @@ html {
     footer {
       margin-block: 20vh;
       min-block-size: 60vh;
-      text-align: right;
+      text-align: end;
     }
   }
 }
