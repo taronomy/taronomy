@@ -134,26 +134,32 @@ li.task-list-item {
 }
 
 pre.highlight {
+  /* punctuations, operators, comments, traceback, deletion */
   :is([class^="p"], [class^="o"], [class^="c"], .gt, .gd) {
     color: light-dark(grey, silver);
   }
 
+  /* keywords, heading, strong emphasis */
   :is([class^="k"], .gh, .gs) {
     color: light-dark(blue, gold);
   }
 
+  /* names, subheadings, emphasis */
   :is([class^="n"], .gu, .ge) {
     color: light-dark(navy, khaki);
   }
 
+  /* numerics, command prompt, escape sequences */
   :is([class^="m"], .gp, .esc) {
     color: light-dark(teal, orange);
   }
 
+  /* strings, inserted text, console output */
   :is([class^="s"], .gi, .go) {
     color: light-dark(green, limegreen);
   }
 
+  /* error, double emphases, invalid syntax */
   :is(.gr, .ges, .err) {
     color: light-dark(crimson, coral);
   }
