@@ -146,7 +146,7 @@ pre.highlight {
 
   /* Accent: numbers, prompt, escape */
   :is([class^="m"], .gp, .esc) {
-    color: light-dark(teal, orange);
+    color: light-dark(purple, orange);
   }
 
   /* Special: strings, insertion, console output */
