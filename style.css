@@ -143,7 +143,7 @@ pre.highlight {
   }
 
   :is([class^="m"], .gp, .esc) {
-    color: light-dark(purple, violet);
+    color: light-dark(teal, orange);
   }
 
   :is([class^="s"], .gi, .go) {
@@ -155,7 +155,7 @@ pre.highlight {
   }
 
   :is(.gr, .ges, .err) {
-    color: light-dark(crimson, orangered);
+    color: light-dark(crimson, coral);
   }
 }
 
