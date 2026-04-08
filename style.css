@@ -75,8 +75,6 @@ hr {
 
 p {
   margin-block: 1ex;
-  hyphens: auto;
-  text-align: justify;
   hanging-punctuation: first allow-end last;
 }
 
