@@ -133,8 +133,8 @@ li.task-list-item {
 }
 
 pre.highlight {
-  /* Primary: keywords, heading, strong emphasis */
-  :is([class^="k"], .gh, .gs) {
+  /* Primary: keywords, command prompt, heading, strong emphasis */
+  :is([class^="k"], .gp, .gh, .gs) {
     color: light-dark(blue, gold);
   }
 
@@ -143,8 +143,8 @@ pre.highlight {
     color: light-dark(navy, khaki);
   }
 
-  /* Accent: numbers, command prompt, escape */
-  :is([class^="m"], .gp, .esc) {
+  /* Accent: numbers, escape */
+  :is([class^="m"], .esc) {
     color: light-dark(purple, orange);
   }
 
