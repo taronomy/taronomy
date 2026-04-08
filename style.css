@@ -144,7 +144,7 @@ pre.highlight {
     color: light-dark(navy, khaki);
   }
 
-  /* Accent: numbers, prompt, escape */
+  /* Accent: numbers, command prompt, escape */
   :is([class^="m"], .gp, .esc) {
     color: light-dark(purple, orange);
   }
