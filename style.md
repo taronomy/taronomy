@@ -122,15 +122,9 @@ index e69de29..4b825dc 100644
 
 ```python-console
 >>> 1 / 0
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-ZeroDivisionError: division by zero
 ```
 
 ```iex
-iex> 1 / 0
-** (ArithmeticError) bad argument in arithmetic expression
-    :erlang./(1, 0)
 iex> :ok
 :ok
 ```

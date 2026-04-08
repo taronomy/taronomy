@@ -147,7 +147,7 @@ pre.highlight {
   }
 
   :is([class^="s"], .gi, .go) {
-    color: light-dark(green, limegreen);
+    color: light-dark(green, yellowgreen);
   }
 
   :is([class^="p"], [class^="o"], [class^="c"], .gt, .gd) {
