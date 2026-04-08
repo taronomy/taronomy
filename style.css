@@ -127,11 +127,35 @@ li.task-list-item {
   }
 }
 
-:is(blockquote, del, ::marker, ::before, ::after),
-/* keywords, punctuations, operators, comments */
-pre.highlight :is([class^="k"], [class^="p"], [class^="o"], [class^="c"]) {
+:is(blockquote, del, ::marker, ::before, ::after) {
   @media not (prefers-contrast: more) {
-    opacity: 60%;
+    color: light-dark(grey, silver);
+  }
+}
+
+pre.highlight {
+  :is([class^="k"], .gh, .gs) {
+    color: light-dark(blue, gold);
+  }
+
+  :is([class^="n"], .gu, .ge) {
+    color: light-dark(navy, khaki);
+  }
+
+  :is([class^="m"], .gp, .esc) {
+    color: light-dark(purple, coral);
+  }
+
+  :is([class^="s"], .gi, .go) {
+    color: light-dark(green, chartreuse);
+  }
+
+  :is([class^="p"], [class^="o"], [class^="c"], .gt, .gd) {
+    color: light-dark(grey, silver);
+  }
+
+  :is(.gr, .ges, .err) {
+    color: light-dark(crimson, red);
   }
 }
 
