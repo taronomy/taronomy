@@ -134,6 +134,10 @@ li.task-list-item {
 }
 
 pre.highlight {
+  :is([class^="p"], [class^="o"], [class^="c"], .gt, .gd) {
+    color: light-dark(grey, silver);
+  }
+
   :is([class^="k"], .gh, .gs) {
     color: light-dark(blue, gold);
   }
@@ -148,10 +152,6 @@ pre.highlight {
 
   :is([class^="s"], .gi, .go) {
     color: light-dark(green, limegreen);
-  }
-
-  :is([class^="p"], [class^="o"], [class^="c"], .gt, .gd) {
-    color: light-dark(grey, silver);
   }
 
   :is(.gr, .ges, .err) {
