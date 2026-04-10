@@ -195,3 +195,7 @@ pre.highlight {
     }
   }
 }
+
+::target-text {
+  text-decoration: thin underline;
+}
