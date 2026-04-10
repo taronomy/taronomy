@@ -1,1 +1,0 @@
-addEventListener("contextmenu", alert);
