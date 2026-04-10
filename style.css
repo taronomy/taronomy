@@ -197,5 +197,5 @@ pre.highlight {
 }
 
 ::target-text {
-  text-decoration: underline;
+  text-decoration: red;
 }
