@@ -186,12 +186,7 @@ pre.highlight {
     font-weight: normal;
 
     :is(ol, ul) {
-      font-weight: bold;
       font-variant: all-small-caps oldstyle-nums;
-
-      :is(ol, ul) {
-        font-weight: normal;
-      }
     }
   }
 }
