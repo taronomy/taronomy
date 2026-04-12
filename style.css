@@ -22,10 +22,6 @@ a {
   text-decoration: none;
 }
 
-@counter-style h1 {
-  symbols: "=" "" "" "" "" "";
-}
-
 @counter-style h2 {
   symbols: "+" "=" "" "" "" "";
 }
@@ -56,7 +52,7 @@ a {
   }
 
   &::before {
-    font-family: system-ui;
+    font: normal system-ui;
     font-variant-position: super;
   }
 
@@ -65,21 +61,13 @@ a {
   }
 }
 
-main {
-  counter-reset: last 1;
-}
-
 h1 {
   line-height: 1;
   font-size: xxx-large;
   letter-spacing: -0.03ch;
 
-  &::before {
-    content: counter(last, h1);
-  }
-
   &::after {
-    counter-set: last 1;
+    counter-reset: last 1;
   }
 }
 
