@@ -38,15 +38,12 @@ a {
     font-weight: normal;
     font-variant-position: sub;
   }
-
-  &::after {
-    content: "";
-  }
 }
 
 h1 {
   line-height: 1;
   font-size: xxx-large;
+  font-weight: 500;
   letter-spacing: -0.03ch;
   counter-increment: h1;
   counter-reset: h2 h3 h4 h5 h6;
@@ -59,6 +56,7 @@ h1 {
 h2 {
   line-height: 1.2;
   font-size: xx-large;
+  font-weight: 600;
   letter-spacing: -0.02ch;
   counter-increment: h2;
   counter-reset: h3 h4 h5 h6;
@@ -71,6 +69,7 @@ h2 {
 h3 {
   line-height: 1.4;
   font-size: x-large;
+  font-weight: 700;
   letter-spacing: -0.01ch;
   counter-increment: h3;
   counter-reset: h4 h5 h6;
@@ -82,6 +81,7 @@ h3 {
 
 h4 {
   font-size: large;
+  font-weight: 800;
   counter-increment: h4;
   counter-reset: h5 h6;
 
@@ -92,6 +92,7 @@ h4 {
 
 h5 {
   font-size: medium;
+  font-weight: 900;
   counter-increment: h5;
   counter-reset: h6;
 
@@ -103,17 +104,15 @@ h5 {
 
 h6 {
   font-size: medium;
+  font-weight: 1000;
+  font-variant-caps: all-small-caps oldstyle-nums;
   counter-increment: h6;
 
   &::before {
     content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
       counter(h5) "." counter(h6);
+    font-variant: normal;
   }
-}
-
-:is(h6, th, dt) {
-  font-weight: bold;
-  font-variant: all-small-caps oldstyle-nums;
 }
 
 hr {
@@ -129,14 +128,18 @@ p {
   hanging-punctuation: first allow-end last;
 }
 
-:is(blockquote, dl),
-:not(li) > :is(ol, ul) {
+:not(li) > :is(ol, ul),
+:is(blockquote, dl) {
   margin-block: 1cap;
 }
 
-:is(blockquote, ol, ul, dd) {
+:is(ol, ul, blockquote, dd) {
   margin-inline: 0;
   padding-inline-start: 2em;
+}
+
+dt {
+  font-style: italic;
 }
 
 img {
@@ -148,6 +151,11 @@ img {
 table {
   margin: 1rem auto;
   border-spacing: 1em 0;
+
+  th {
+    font-weight: bold;
+    font-variant: all-small-caps oldstyle-nums;
+  }
 
   tfoot {
     font-style: italic;
@@ -219,6 +227,7 @@ pre.highlight {
   }
 }
 
+/* TODO: Add counter */
 :is(ol, ul).inline {
   padding: 0;
 
