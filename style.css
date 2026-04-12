@@ -22,6 +22,30 @@ a {
   text-decoration: none;
 }
 
+@counter-style h1 {
+  symbols: "=" "" "" "" "" "";
+}
+
+@counter-style h2 {
+  symbols: "+" "=" "" "" "" "";
+}
+
+@counter-style h3 {
+  symbols: "+" "+" "=" "" "" "";
+}
+
+@counter-style h4 {
+  symbols: "+" "+" "+" "=" "" "";
+}
+
+@counter-style h5 {
+  symbols: "+" "+" "+" "+" "=" "";
+}
+
+@counter-style h6 {
+  symbols: "+" "+" "+" "+" "+" "=";
+}
+
 :is(h1, h2, h3, h4, h5, h6, hr) {
   margin-block: 1lh 1cap;
   text-align: center;
@@ -30,36 +54,100 @@ a {
   & + & {
     margin-block-start: 1cap;
   }
+
+  &::before {
+    font-family: system-ui;
+    font-variant-position: super;
+  }
+
+  &::after {
+    content: "";
+  }
+}
+
+main {
+  counter-reset: last 1;
 }
 
 h1 {
   line-height: 1;
   font-size: xxx-large;
   letter-spacing: -0.03ch;
+
+  ::before {
+    content: counter(last, h1);
+  }
+
+  ::after {
+    counter-set: last 1;
+  }
 }
 
 h2 {
   line-height: 1.2;
   font-size: xx-large;
   letter-spacing: -0.02ch;
+
+  ::before {
+    content: counter(last, h2);
+  }
+
+  ::after {
+    counter-set: last 2;
+  }
 }
 
 h3 {
   line-height: 1.4;
   font-size: x-large;
   letter-spacing: -0.01ch;
+
+  ::before {
+    content: counter(last, h3);
+  }
+
+  ::after {
+    counter-set: last 3;
+  }
 }
 
 h4 {
   font-size: large;
+
+  ::before {
+    content: counter(last, h4);
+  }
+
+  ::after {
+    counter-set: last 4;
+  }
 }
 
 h5 {
   font-size: medium;
+
+  ::before {
+    content: counter(last, h5);
+  }
+
+  ::after {
+    counter-set: last 5;
+  }
+}
+
+h6 {
+  font-size: medium;
+
+  ::before {
+    content: counter(last, h6);
+  }
+
+  ::after {
+    counter-set: last 6;
+  }
 }
 
 :is(h6, th, dt) {
-  font-size: medium;
   font-weight: bold;
   font-variant: all-small-caps oldstyle-nums;
 }
@@ -113,6 +201,7 @@ sup {
   font-variant-position: super;
 }
 
+/* TODO: Consolidate with before spacing*/
 li.task-list-item {
   list-style: "☐ ";
 
@@ -173,6 +262,7 @@ pre.highlight {
     display: contents;
   }
 
+  /* TODO: Consolidate with header indicator spacing*/
   li::before {
     content: "· ";
     font-weight: normal;
