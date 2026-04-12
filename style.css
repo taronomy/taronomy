@@ -34,7 +34,7 @@ a {
 
   &::before {
     display: block;
-    font-size: medium;
+    font-size: small;
     font-weight: normal;
     font-variant-numeric: oldstyle-nums;
   }
@@ -208,7 +208,7 @@ pre.highlight {
 
   /* Notice: error, double emphases, invalid syntax */
   :is(.gr, .ges, .err) {
-    color: light-dark(crimson, orangered);
+    color: light-dark(red, orangered);
   }
 
   /* Mute: punctuations, operators, comments, deletion, traceback */
