@@ -74,11 +74,11 @@ h1 {
   font-size: xxx-large;
   letter-spacing: -0.03ch;
 
-  ::before {
+  &::before {
     content: counter(last, h1);
   }
 
-  ::after {
+  &::after {
     counter-set: last 1;
   }
 }
@@ -88,11 +88,11 @@ h2 {
   font-size: xx-large;
   letter-spacing: -0.02ch;
 
-  ::before {
+  &::before {
     content: counter(last, h2);
   }
 
-  ::after {
+  &::after {
     counter-set: last 2;
   }
 }
@@ -102,11 +102,11 @@ h3 {
   font-size: x-large;
   letter-spacing: -0.01ch;
 
-  ::before {
+  &::before {
     content: counter(last, h3);
   }
 
-  ::after {
+  &::after {
     counter-set: last 3;
   }
 }
@@ -114,11 +114,11 @@ h3 {
 h4 {
   font-size: large;
 
-  ::before {
+  &::before {
     content: counter(last, h4);
   }
 
-  ::after {
+  &::after {
     counter-set: last 4;
   }
 }
@@ -126,11 +126,11 @@ h4 {
 h5 {
   font-size: medium;
 
-  ::before {
+  &::before {
     content: counter(last, h5);
   }
 
-  ::after {
+  &::after {
     counter-set: last 5;
   }
 }
@@ -138,11 +138,11 @@ h5 {
 h6 {
   font-size: medium;
 
-  ::before {
+  &::before {
     content: counter(last, h6);
   }
 
-  ::after {
+  &::after {
     counter-set: last 6;
   }
 }
