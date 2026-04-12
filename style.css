@@ -4,6 +4,7 @@ html {
   line-height: 1.6;
   text-wrap: pretty;
   scroll-behavior: smooth;
+  counter-reset: h1 h2 h3 h4 h5 h6;
 
   body {
     margin: auto;
@@ -22,26 +23,6 @@ a {
   text-decoration: none;
 }
 
-@counter-style h2 {
-  symbols: "+" "=" "" "" "" "";
-}
-
-@counter-style h3 {
-  symbols: "+" "+" "=" "" "" "";
-}
-
-@counter-style h4 {
-  symbols: "+" "+" "+" "=" "" "";
-}
-
-@counter-style h5 {
-  symbols: "+" "+" "+" "+" "=" "";
-}
-
-@counter-style h6 {
-  symbols: "+" "+" "+" "+" "+" "=";
-}
-
 :is(h1, h2, h3, h4, h5, h6, hr) {
   margin-block: 1lh 1cap;
   text-align: center;
@@ -52,9 +33,10 @@ a {
   }
 
   &::before {
-    margin-inline-end: 1ch;
-    font: normal system-ui;
-    font-variant-position: super;
+    display: block;
+    font-family: system-ui;
+    font-weight: normal;
+    font-variant-position: sub;
   }
 
   &::after {
@@ -66,21 +48,23 @@ h1 {
   line-height: 1;
   font-size: xxx-large;
   letter-spacing: -0.03ch;
+  counter-increment: h1;
+  counter-reset: h2 h3 h4 h5 h6;
 
-  counter-reset: last 1;
+  &::before {
+    content: counter(h1);
+  }
 }
 
 h2 {
   line-height: 1.2;
   font-size: xx-large;
   letter-spacing: -0.02ch;
+  counter-increment: h2;
+  counter-reset: h3 h4 h5 h6;
 
   &::before {
-    content: counter(last, h2);
-  }
-
-  &::after {
-    counter-set: last 2;
+    content: counter(h1) "." counter(h2);
   }
 }
 
@@ -88,49 +72,42 @@ h3 {
   line-height: 1.4;
   font-size: x-large;
   letter-spacing: -0.01ch;
+  counter-increment: h3;
+  counter-reset: h4 h5 h6;
 
   &::before {
-    content: counter(last, h3);
-  }
-
-  &::after {
-    counter-set: last 3;
+    content: counter(h1) "." counter(h2) "." counter(h3);
   }
 }
 
 h4 {
   font-size: large;
+  counter-increment: h4;
+  counter-reset: h5 h6;
 
   &::before {
-    content: counter(last, h4);
-  }
-
-  &::after {
-    counter-set: last 4;
+    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4);
   }
 }
 
 h5 {
   font-size: medium;
+  counter-increment: h5;
+  counter-reset: h6;
 
   &::before {
-    content: counter(last, h5);
-  }
-
-  &::after {
-    counter-set: last 5;
+    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
+      counter(h5);
   }
 }
 
 h6 {
   font-size: medium;
+  counter-increment: h6;
 
   &::before {
-    content: counter(last, h6);
-  }
-
-  &::after {
-    counter-set: last 6;
+    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
+      counter(h5) "." counter(h6);
   }
 }
 
