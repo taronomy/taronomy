@@ -34,9 +34,9 @@ a {
 
   &::before {
     display: block;
-    font-family: system-ui;
+    font-size: medium;
     font-weight: normal;
-    font-variant-position: sub;
+    font-variant-numeric: oldstyle-nums;
   }
 }
 
@@ -103,8 +103,9 @@ h5 {
 }
 
 h6 {
-  font-size: small;
+  font-size: medium;
   font-weight: 1000;
+  font-variant: all-small-caps oldstyle-nums;
   counter-increment: h6;
 
   &::before {
