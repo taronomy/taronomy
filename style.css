@@ -52,6 +52,7 @@ a {
   }
 
   &::before {
+    margin-inline-end: 1ch;
     font: normal system-ui;
     font-variant-position: super;
   }
@@ -66,9 +67,7 @@ h1 {
   font-size: xxx-large;
   letter-spacing: -0.03ch;
 
-  &::after {
-    counter-reset: last 1;
-  }
+  counter-reset: last 1;
 }
 
 h2 {
