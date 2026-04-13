@@ -5,18 +5,18 @@ html {
   text-wrap: pretty;
   scroll-behavior: smooth;
   counter-reset: h1 h2 h3 h4 h5 h6;
-}
 
-body {
-  margin: auto;
-  padding-inline: 1rem;
-  max-inline-size: 32rem;
-}
+  body {
+    margin: auto;
+    padding-inline: 1rem;
+    max-inline-size: 32rem;
+  }
 
-footer {
-  margin-block: 20vh;
-  min-block-size: 60vh;
-  text-align: end;
+  footer {
+    margin-block: 20vh;
+    min-block-size: 60vh;
+    text-align: end;
+  }
 }
 
 a {
@@ -30,6 +30,77 @@ a {
 
   & + & {
     margin-block-start: 1cap;
+  }
+
+  h1 {
+    line-height: 1;
+    font-size: xxx-large;
+    font-weight: 400;
+    letter-spacing: -0.03ch;
+    counter-increment: h1;
+    counter-reset: h2 h3 h4 h5 h6;
+
+    &::before {
+      content: counter(h1);
+    }
+  }
+
+  h2 {
+    line-height: 1.2;
+    font-size: xx-large;
+    font-weight: 500;
+    letter-spacing: -0.02ch;
+    counter-increment: h2;
+    counter-reset: h3 h4 h5 h6;
+
+    &::before {
+      content: counter(h1) "." counter(h2);
+    }
+  }
+
+  h3 {
+    line-height: 1.4;
+    font-size: x-large;
+    font-weight: 600;
+    letter-spacing: -0.01ch;
+    counter-increment: h3;
+    counter-reset: h4 h5 h6;
+
+    &::before {
+      content: counter(h1) "." counter(h2) "." counter(h3);
+    }
+  }
+
+  h4 {
+    font-size: large;
+    counter-increment: h4;
+    counter-reset: h5 h6;
+
+    &::before {
+      content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4);
+    }
+  }
+
+  h5 {
+    font-size: medium;
+    counter-increment: h5;
+    counter-reset: h6;
+
+    &::before {
+      content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
+        counter(h5);
+    }
+  }
+
+  h6 {
+    font-size: small;
+    text-transform: uppercase;
+    counter-increment: h6;
+
+    &::before {
+      content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
+        counter(h5) "." counter(h6);
+    }
   }
 
   &::before {
@@ -46,97 +117,13 @@ a {
     font:
       normal xx-small/2 ui-monospace,
       monospace;
-  }
-}
-
-h1 {
-  line-height: 1;
-  font-size: xxx-large;
-  font-weight: 400;
-  letter-spacing: -0.03ch;
-  counter-increment: h1;
-  counter-reset: h2 h3 h4 h5 h6;
-
-  &::before {
-    content: counter(h1);
-  }
-
-  &::before,
-  &::after {
     letter-spacing: normal;
   }
-}
-
-h2 {
-  line-height: 1.2;
-  font-size: xx-large;
-  font-weight: 500;
-  letter-spacing: -0.02ch;
-  counter-increment: h2;
-  counter-reset: h3 h4 h5 h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2);
-  }
 
   &::before,
   &::after {
-    letter-spacing: normal;
-  }
-}
-
-h3 {
-  line-height: 1.4;
-  font-size: x-large;
-  font-weight: 600;
-  letter-spacing: -0.01ch;
-  counter-increment: h3;
-  counter-reset: h4 h5 h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2) "." counter(h3);
-  }
-
-  &::before,
-  &::after {
-    letter-spacing: normal;
-  }
-}
-
-h4 {
-  font-size: large;
-  counter-increment: h4;
-  counter-reset: h5 h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4);
-  }
-}
-
-h5 {
-  font-size: medium;
-  counter-increment: h5;
-  counter-reset: h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
-      counter(h5);
-  }
-}
-
-h6 {
-  font-size: small;
-  text-transform: uppercase;
-  counter-increment: h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
-      counter(h5) "." counter(h6);
-  }
-
-  &::before,
-  &::after {
-    text-transform: none;
+    text-transform: initial;
+    letter-spacing: initial;
   }
 }
 
@@ -178,20 +165,20 @@ img {
 table {
   margin: 1rem auto;
   border-spacing: 1em 0;
-}
 
-tfoot {
-  font-style: italic;
+  tfoot {
+    font-style: italic;
+  }
 }
 
 :is(code, pre) {
   font-family: ui-monospace, monospace;
   font-size-adjust: 0.482;
-}
 
-pre {
-  margin-block: 1lh;
-  text-wrap-mode: wrap;
+  pre {
+    margin-block: 1lh;
+    text-wrap-mode: wrap;
+  }
 }
 
 del:hover {
