@@ -177,12 +177,9 @@ pre {
   text-wrap-mode: wrap;
 }
 
-del {
-  &:hover,
-  &:focus-visible {
-    text-decoration-line: underline;
-    text-decoration-skip-ink: auto;
-  }
+del:hover {
+  text-decoration-line: underline;
+  text-decoration-skip-ink: auto;
 }
 
 sup {
