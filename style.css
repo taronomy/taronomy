@@ -42,6 +42,7 @@ a {
   &::after {
     content: "#" attr(id);
     display: block;
+    margin-block-start: 1ex;
     font:
       normal xx-small ui-monospace,
       monospace;
@@ -49,10 +50,10 @@ a {
 }
 
 h1 {
-  line-height: 1.2;
+  line-height: 1;
   font-size: xxx-large;
-  font-weight: 500;
-  letter-spacing: -0.02ch;
+  font-weight: 400;
+  letter-spacing: -0.03ch;
   counter-increment: h1;
   counter-reset: h2 h3 h4 h5 h6;
 
@@ -62,10 +63,10 @@ h1 {
 }
 
 h2 {
-  line-height: 1.4;
+  line-height: 1.2;
   font-size: xx-large;
-  font-weight: 600;
-  letter-spacing: -0.01ch;
+  font-weight: 500;
+  letter-spacing: -0.02ch;
   counter-increment: h2;
   counter-reset: h3 h4 h5 h6;
 
@@ -75,7 +76,10 @@ h2 {
 }
 
 h3 {
+  line-height: 1.4;
   font-size: x-large;
+  font-weight: 600;
+  letter-spacing: -0.01ch;
   counter-increment: h3;
   counter-reset: h4 h5 h6;
 
