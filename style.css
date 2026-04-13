@@ -179,7 +179,7 @@ pre {
 
 del {
   &:hover,
-  &:active {
+  &:focus-visible {
     text-decoration-line: underline;
     text-decoration-skip-ink: auto;
   }
