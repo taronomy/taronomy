@@ -60,6 +60,11 @@ h1 {
   &::before {
     content: counter(h1);
   }
+
+  &::before,
+  &::after {
+    letter-spacing: normal;
+  }
 }
 
 h2 {
@@ -73,6 +78,11 @@ h2 {
   &::before {
     content: counter(h1) "." counter(h2);
   }
+
+  &::before,
+  &::after {
+    letter-spacing: normal;
+  }
 }
 
 h3 {
@@ -85,6 +95,11 @@ h3 {
 
   &::before {
     content: counter(h1) "." counter(h2) "." counter(h3);
+  }
+
+  &::before,
+  &::after {
+    letter-spacing: normal;
   }
 }
 
@@ -119,6 +134,7 @@ h6 {
       counter(h5) "." counter(h6);
   }
 
+  &::before,
   &::after {
     text-transform: none;
   }
