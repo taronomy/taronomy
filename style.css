@@ -157,9 +157,18 @@ table {
   font-family: ui-monospace, monospace;
 }
 
+code {
+  font-size: smaller;
+}
+
 pre {
+  font-size: small;
   margin-block: 1lh;
   text-wrap-mode: wrap;
+
+  code {
+    font-size: inherit;
+  }
 }
 
 sup {
