@@ -19,10 +19,6 @@ footer {
   text-align: end;
 }
 
-a {
-  text-decoration: none;
-}
-
 :is(h1, h2, h3, h4, h5, h6) {
   margin-block: 1lh 1cap;
   text-align: center;
@@ -136,9 +132,19 @@ hr {
   }
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
   margin-block: 1ex;
   hanging-punctuation: first allow-end last;
+}
+
+img {
+  display: block;
+  max-inline-size: 100%;
+  margin: 1rem auto;
 }
 
 :not(li) > :is(ol, ul),
@@ -155,10 +161,15 @@ dt {
   font-style: italic;
 }
 
-img {
-  display: block;
-  max-inline-size: 100%;
-  margin: 1rem auto;
+del:hover {
+  text-decoration-line: underline;
+  text-decoration-skip-ink: auto;
+}
+
+sup {
+  font-family: system-ui;
+  vertical-align: baseline;
+  font-variant-position: super;
 }
 
 table {
@@ -180,17 +191,6 @@ pre {
   text-wrap-mode: wrap;
 }
 
-del:hover {
-  text-decoration-line: underline;
-  text-decoration-skip-ink: auto;
-}
-
-sup {
-  font-family: system-ui;
-  vertical-align: baseline;
-  font-variant-position: super;
-}
-
 li.task-list-item {
   list-style: "☐ ";
 
@@ -200,6 +200,33 @@ li.task-list-item {
 
   input.task-list-item-checkbox {
     display: none;
+  }
+}
+
+:is(ol, ul).inline {
+  padding: 0;
+
+  * {
+    display: contents;
+  }
+
+  li::before {
+    content: "· ";
+    font-weight: normal;
+  }
+
+  > li:first-child::before {
+    content: none;
+  }
+
+  font-weight: bold;
+
+  :is(ol, ul) {
+    font-weight: normal;
+
+    :is(ol, ul) {
+      font-variant: all-small-caps oldstyle-nums;
+    }
   }
 }
 
@@ -241,32 +268,5 @@ pre.highlight {
   /* Mute: punctuations, operators, comments, deletion, traceback */
   :is([class^="p"], [class^="o"], [class^="c"], .gd, .gt) {
     color: light-dark(grey, silver);
-  }
-}
-
-:is(ol, ul).inline {
-  padding: 0;
-
-  * {
-    display: contents;
-  }
-
-  li::before {
-    content: "· ";
-    font-weight: normal;
-  }
-
-  > li:first-child::before {
-    content: none;
-  }
-
-  font-weight: bold;
-
-  :is(ol, ul) {
-    font-weight: normal;
-
-    :is(ol, ul) {
-      font-variant: all-small-caps oldstyle-nums;
-    }
   }
 }
