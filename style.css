@@ -37,6 +37,7 @@ a {
     line-height: 1.8;
     font-size: x-small;
     font-weight: normal;
+    /* Small caps for sans and oldstyle for serif */
     font-variant: all-small-caps oldstyle-nums;
   }
 
@@ -46,9 +47,9 @@ a {
     font:
       normal xx-small/2 ui-monospace,
       monospace;
-    letter-spacing: normal;
   }
 
+  /* Repairs inheritances later */
   &::before,
   &::after {
     text-transform: initial;
