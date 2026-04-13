@@ -49,7 +49,7 @@ a {
       monospace;
   }
 
-  /* Repairs inheritances that comes later. */
+  /* Repairs inheritances that come later. */
   &::before,
   &::after {
     text-transform: initial;
