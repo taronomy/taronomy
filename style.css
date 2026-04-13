@@ -7,7 +7,6 @@ html {
   counter-reset: h1 h2 h3 h4 h5 h6;
 
   :is(code, pre) {
-    font-size: small;
     font-family: ui-monospace, monospace;
   }
 
@@ -158,7 +157,12 @@ table {
   }
 }
 
+code {
+  font-size: smaller;
+}
+
 pre {
+  font-size: small;
   margin-block: 1lh;
   text-wrap-mode: wrap;
 }
