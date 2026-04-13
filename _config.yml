@@ -1,4 +1,6 @@
 theme: null
 
+markdown: kramdown
 kramdown:
+  input: GFM
   header_links: true
