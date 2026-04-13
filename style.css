@@ -117,6 +117,10 @@ h6 {
     content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
       counter(h5) "." counter(h6);
   }
+
+  &::after {
+    text-transform: none;
+  }
 }
 
 hr {
