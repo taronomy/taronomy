@@ -6,10 +6,6 @@ html {
   scroll-behavior: smooth;
   counter-reset: h1 h2 h3 h4 h5 h6;
 
-  :is(code, pre) {
-    font-family: ui-monospace, monospace;
-  }
-
   body {
     margin: auto;
     padding-inline: 1rem;
@@ -155,6 +151,10 @@ table {
   tfoot {
     font-style: italic;
   }
+}
+
+:is(code, pre) {
+  font-family: ui-monospace, monospace;
 }
 
 pre {
