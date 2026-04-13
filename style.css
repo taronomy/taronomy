@@ -36,7 +36,7 @@ a {
     display: block;
     font-size: small;
     font-weight: normal;
-    font-variant-numeric: oldstyle-nums;
+    font-variant: all-small-caps oldstyle-nums;
   }
 }
 
