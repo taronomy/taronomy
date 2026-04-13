@@ -1,0 +1,5 @@
+theme: null
+markdown: kramdown
+
+kramdown:
+  header_links: true
