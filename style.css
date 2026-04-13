@@ -42,7 +42,6 @@ a {
   &::after {
     content: "#" attr(id);
     display: block;
-    margin-block-start: 1ex;
     font-family: ui-monospace, monospace;
     font-size: xx-small;
     font-weight: normal;
