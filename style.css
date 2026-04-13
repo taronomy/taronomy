@@ -43,9 +43,9 @@ a {
     content: "#" attr(id);
     display: block;
     margin-block-start: 1ex;
-    font:
-      normal xx-small ui-monospace,
-      monospace;
+    font-family: ui-monospace, monospace;
+    font-size: xx-small;
+    font-weight: normal;
   }
 }
 
@@ -184,7 +184,7 @@ del:hover {
 }
 
 sup {
-  font: 1em system-ui;
+  font-family: system-ui;
   vertical-align: baseline;
   font-variant-position: super;
 }
