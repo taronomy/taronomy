@@ -23,7 +23,7 @@ a {
   text-decoration: none;
 }
 
-:is(h1, h2, h3, h4, h5, h6, hr) {
+:is(h1, h2, h3, h4, h5, h6) {
   margin-block: 1lh 1cap;
   text-align: center;
   text-wrap: balance;
@@ -110,7 +110,7 @@ h5 {
 
 h6 {
   font-size: small;
-  text-transform: all-caps;
+  text-transform: uppercase;
   counter-increment: h6;
 
   &::before {
@@ -120,7 +120,9 @@ h6 {
 }
 
 hr {
+  margin-block: 1lh;
   border: none;
+  text-align: center;
 
   &::after {
     content: "— § —";
