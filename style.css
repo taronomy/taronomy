@@ -34,9 +34,17 @@ a {
 
   &::before {
     display: block;
-    font-size: small;
+    font-size: x-small;
     font-weight: normal;
     font-variant: all-small-caps oldstyle-nums;
+  }
+
+  &::after {
+    content: "#" attr(id);
+    display: block;
+    font:
+      normal xx-small ui-monospace,
+      monospace;
   }
 }
 
@@ -101,8 +109,8 @@ h5 {
 }
 
 h6 {
-  font-size: medium;
-  font-variant: all-small-caps oldstyle-nums;
+  font-size: small;
+  text-transform: all-caps;
   counter-increment: h6;
 
   &::before {
