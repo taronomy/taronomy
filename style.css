@@ -34,6 +34,7 @@ a {
 
   &::before {
     display: block;
+    line-height: 1.8;
     font-size: x-small;
     font-weight: normal;
     font-variant: all-small-caps oldstyle-nums;
@@ -42,9 +43,9 @@ a {
   &::after {
     content: "#" attr(id);
     display: block;
-    font-family: ui-monospace, monospace;
-    font-size: xx-small;
-    font-weight: normal;
+    font:
+      normal xx-small/2 ui-monospace,
+      monospace;
   }
 }
 
