@@ -5,18 +5,18 @@ html {
   text-wrap: pretty;
   scroll-behavior: smooth;
   counter-reset: h1 h2 h3 h4 h5 h6;
+}
 
-  body {
-    margin: auto;
-    padding-inline: 1rem;
-    max-inline-size: 32rem;
+body {
+  margin: auto;
+  padding-inline: 1rem;
+  max-inline-size: 32rem;
+}
 
-    footer {
-      margin-block: 20vh;
-      min-block-size: 60vh;
-      text-align: end;
-    }
-  }
+footer {
+  margin-block: 20vh;
+  min-block-size: 60vh;
+  text-align: end;
 }
 
 a {
@@ -161,10 +161,10 @@ img {
 table {
   margin: 1rem auto;
   border-spacing: 1em 0;
+}
 
-  tfoot {
-    font-style: italic;
-  }
+tfoot {
+  font-style: italic;
 }
 
 :is(code, pre) {
@@ -175,6 +175,14 @@ table {
 pre {
   margin-block: 1lh;
   text-wrap-mode: wrap;
+}
+
+del {
+  &:hover,
+  &:active {
+    text-decoration-line: underline;
+    text-decoration-skip-ink: auto;
+  }
 }
 
 sup {
@@ -193,11 +201,6 @@ li.task-list-item {
   input.task-list-item-checkbox {
     display: none;
   }
-}
-
-del:hover {
-  text-decoration-line: underline;
-  text-decoration-skip-ink: auto;
 }
 
 @media not (prefers-contrast: more) {
