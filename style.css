@@ -157,12 +157,7 @@ table {
   }
 }
 
-code {
-  font-size: smaller;
-}
-
 pre {
-  font-size: small;
   margin-block: 1lh;
   text-wrap-mode: wrap;
 }
