@@ -4,7 +4,7 @@ html {
   line-height: 1.618;
   text-wrap: pretty;
   scroll-behavior: smooth;
-  counter-reset: h1 h2 h3 h4 h5 h6 fig;
+  counter-reset: h1 h2 h3 h4 h5 h6 figure;
 }
 
 body {
@@ -57,7 +57,7 @@ h1 {
   font-weight: 400;
   letter-spacing: -0.03ch;
   counter-increment: h1;
-  counter-reset: h2 h3 h4 h5 h6 fig;
+  counter-reset: h2 h3 h4 h5 h6 figure;
 
   &::before {
     content: counter(h1);
@@ -152,13 +152,13 @@ img {
 figure {
   margin: 1rem auto;
   text-align: center;
-  counter-increment: fig;
+  counter-increment: figure;
 
   figcaption {
     font-style: italic;
     &::before {
       font-variant: oldstyle-nums;
-      content: "f" counter(h1) "." counter(fig) " ";
+      content: "f" counter(h1) "." counter(figure) " ";
     }
   }
 }
