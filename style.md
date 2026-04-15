@@ -22,9 +22,9 @@
     - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 - Lorem ipsum
 
-![CGA](https://placehold.co/320x200)
+![Lorem ipsum](https://placehold.co/320x200){:standalone}
 
-![VGA](https://placehold.co/640x480){:standalone}
+![Lorem ipsum](https://placehold.co/640x480)
 
 ## Lorem ipsum
 

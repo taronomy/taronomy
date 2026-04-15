@@ -151,6 +151,11 @@ img {
 
 figure {
   margin: 1rem auto;
+  text-align: center;
+
+  figcaption {
+    font-style: italic;
+  }
 }
 
 :not(li) > :is(ol, ul),
@@ -181,10 +186,10 @@ sup {
 table {
   margin: 1rem auto;
   border-spacing: 1em 0;
-}
 
-tfoot {
-  font-style: italic;
+  tfoot {
+    font-style: italic;
+  }
 }
 
 :is(code, pre) {
