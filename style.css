@@ -157,11 +157,8 @@ figure {
   figcaption {
     font-style: italic;
     &::before {
-      line-height: 1.8;
-      font-size: x-small;
-      font-weight: normal;
-      font-variant: all-small-caps oldstyle-nums;
-      content: "Figure " counter(h1) "." counter(fig);
+      font-variant: oldstyle-nums;
+      content: "f" counter(h1) "." counter(fig) " ";
     }
   }
 }
