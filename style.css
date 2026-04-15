@@ -136,6 +136,10 @@ a {
   text-decoration: none;
 }
 
+:target {
+  outline: medium solid;
+}
+
 p {
   margin-block: 1ex;
   hanging-punctuation: first allow-end last;
