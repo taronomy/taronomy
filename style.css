@@ -137,7 +137,7 @@ a {
 }
 
 :target {
-  outline: medium solid;
+  outline: solid;
 }
 
 p {
