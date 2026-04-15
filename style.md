@@ -23,7 +23,9 @@
 - Lorem ipsum
 
 ![CGA](https://placehold.co/320x200)
+
 ![VGA](https://placehold.co/640x480)
+{:standalone}
 
 ## Lorem ipsum
 

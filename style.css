@@ -146,7 +146,6 @@ p {
 }
 
 img {
-  display: block;
   max-inline-size: 100%;
   margin: 1rem auto;
 }
