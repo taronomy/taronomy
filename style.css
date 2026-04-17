@@ -1,7 +1,7 @@
 html {
   font-family: ui-serif, system-ui;
   font-synthesis: none;
-  line-height: 1.618;
+  line-height: 1.6;
   text-wrap: pretty;
   scroll-behavior: smooth;
   counter-reset: h1 h2 h3 h4 h5 h6 figure;
