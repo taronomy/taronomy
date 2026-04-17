@@ -23,9 +23,13 @@
     - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 - Lorem ipsum
 
+![Lorem ipsum](https://placehold.co/16)
+![Lorem ipsum](https://placehold.co/32)
+![Lorem ipsum](https://placehold.co/64)
+
 ![Lorem ipsum](https://placehold.co/320x200){:standalone}
 
-![Lorem ipsum](https://placehold.co/640x480)
+![Lorem ipsum](https://placehold.co/640x480){:standalone}
 
 ## Lorem ipsum
 
