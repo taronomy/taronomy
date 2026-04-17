@@ -27,7 +27,7 @@
 ![Lorem ipsum](https://placehold.co/32)
 ![Lorem ipsum](https://placehold.co/64)
 ![Lorem ipsum](https://placehold.co/128)
-![Lorem ipsum](https://placehold.co/256)
+![Lorem ipsum](https://placehold.co/192)
 
 ![Lorem ipsum](https://placehold.co/320x200){:standalone}
 
