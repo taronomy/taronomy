@@ -1,4 +1,4 @@
-Taro
+**Taro**
 : Hi, I'm working on ludic social systems which reframe society into a series of plays. I believe we can shape our own social conditions. My biggest fear is the vicious cycle of ignorance. I start from what is most significant. Excellence is my priority.
 
 | TCI                | Percentile        |
