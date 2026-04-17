@@ -200,7 +200,6 @@ table {
 :is(code, pre) {
   font-family: ui-monospace, monospace;
   font-size-adjust: 0.5;
-  font-size-adjust: cap-height 0.7;
 }
 
 pre {
