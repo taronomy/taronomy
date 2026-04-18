@@ -156,6 +156,7 @@ figure {
 
   figcaption {
     font-style: italic;
+
     &::before {
       font-variant: oldstyle-nums;
       content: "f" counter(h1) "." counter(figure) " ";
@@ -256,32 +257,32 @@ li.task-list-item {
 }
 
 pre.highlight {
-  /* Primary: keywords, command prompt, heading, strong emphasis */
+  /* keywords, command prompt, heading, strong emphasis */
   :is([class^="k"], .gp, .gh, .gs) {
     color: light-dark(blue, gold);
   }
 
-  /* Secondary: names, subheadings, emphasis */
+  /* names, subheadings, emphasis */
   :is([class^="n"], .gu, .ge) {
     color: light-dark(navy, khaki);
   }
 
-  /* Accent: numbers, escape */
+  /* numbers, escape */
   :is([class^="m"], .esc) {
     color: light-dark(purple, orange);
   }
 
-  /* Special: strings, insertion, console output */
+  /* strings, insertion, console output */
   :is([class^="s"], .gi, .go) {
     color: light-dark(green, limegreen);
   }
 
-  /* Notice: error, double emphases, invalid syntax */
+  /* error, double emphases, invalid syntax */
   :is(.gr, .ges, .err) {
     color: light-dark(red, orangered);
   }
 
-  /* Mute: punctuations, operators, comments, deletion, traceback */
+  /* punctuations, operators, comments, deletion, traceback */
   :is([class^="p"], [class^="o"], [class^="c"], .gd, .gt) {
     color: light-dark(grey, silver);
   }
