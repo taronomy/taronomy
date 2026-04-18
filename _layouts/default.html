@@ -44,6 +44,9 @@
 
     <main>
       <article>{{ content }}</article>
+      <article>
+        {{ content | replace: "“", "<q>" | replace: "”", "</q>" }}
+      </article>
     </main>
 
     <footer>
