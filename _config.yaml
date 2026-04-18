@@ -1,5 +1,4 @@
 theme: null
 
 kramdown:
-  smart_quotes: lsquo,rsquo,<q>,</q>
   input: Kramdown
