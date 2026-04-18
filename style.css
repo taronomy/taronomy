@@ -4,6 +4,7 @@ html {
   line-height: 1.6;
   text-wrap: pretty;
   scroll-behavior: smooth;
+  counter-reset: h1 h2 h3 h4 h5 h6 figure;
 }
 
 body {
@@ -246,7 +247,7 @@ li.task-list-item {
 }
 
 @media not (prefers-contrast: more) {
-  :is(blockquote, del),
+  :is(blockquote, del, q),
   ::marker,
   ::before,
   ::after {
