@@ -185,7 +185,7 @@ del:hover {
 
 [title]:is(:active, :focus)::after {
   content: " " attr(title);
-  font-variant: all-small-caps oldstyle-nums;
+  font: caption;
 }
 
 sup {
