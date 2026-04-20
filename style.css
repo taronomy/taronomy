@@ -158,7 +158,7 @@ figure {
     font-style: italic;
 
     &::before {
-      font-variant: oldstyle-nums;
+      font-variant-numeric: oldstyle-nums;
       content: "f" counter(h1) "." counter(figure) " ";
     }
   }
@@ -181,6 +181,11 @@ dt {
 del:hover {
   text-decoration-line: underline;
   text-decoration-skip-ink: auto;
+}
+
+[title]:is(:active, :focus)::after {
+  content: " " attr(title);
+  font-variant: all-small-caps oldstyle-nums;
 }
 
 sup {
