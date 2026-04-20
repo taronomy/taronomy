@@ -183,7 +183,7 @@ del:hover {
   text-decoration-skip-ink: auto;
 }
 
-[title]:is(:hover, :active)::after {
+[title]:active::after {
   content: " " attr(title);
   font: caption;
 }
