@@ -12,6 +12,8 @@
 | Cooperativeness    | `...:......` 38th |
 | Self-transcendence | `.........:` 96th |
 
+*[TCI]: Temperament and Character Inventory
+
 - [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
 - [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
 - [Axel Honneth](https://en.wikipedia.org/wiki/Axel_Honneth)
