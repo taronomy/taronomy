@@ -35,6 +35,7 @@
 - [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
 - [John Stewart](https://www.evolutionarymanifesto.com)
 - [Laozi](https://en.wikipedia.org/wiki/Laozi)
+- [Lebensphilosophie](https://en.wikipedia.org/wiki/Lebensphilosophie)
 - [Line of flight](https://en.wikipedia.org/wiki/Line_of_flight)
 - [Ludics](https://en.wikipedia.org/wiki/Ludics)
 - [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
