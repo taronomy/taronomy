@@ -153,14 +153,14 @@ figure {
   margin: 1rem auto;
   text-align: center;
   counter-increment: figure;
+}
 
-  figcaption {
-    font-style: italic;
+figcaption {
+  font-style: italic;
 
-    &::before {
-      font-variant-numeric: oldstyle-nums;
-      content: "f" counter(h1) "." counter(figure) " ";
-    }
+  &::before {
+    font-variant-numeric: oldstyle-nums;
+    content: "f" counter(h1) "." counter(figure) " ";
   }
 }
 
@@ -197,10 +197,10 @@ sup {
 table {
   margin: 1rem auto;
   border-spacing: 1em 0;
+}
 
-  tfoot {
-    font-style: italic;
-  }
+tfoot {
+  font-style: italic;
 }
 
 :is(code, pre) {
@@ -211,6 +211,15 @@ table {
 pre {
   margin-block: 1lh;
   text-wrap-mode: wrap;
+}
+
+.footnotes {
+  margin-block: 20vh;
+  min-block-size: 60vh;
+
+  &::before {
+    content: "Notes";
+  }
 }
 
 li.task-list-item {
