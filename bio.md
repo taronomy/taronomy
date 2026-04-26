@@ -15,46 +15,72 @@
 *[TCI]: Temperament and Character Inventory
 
 - [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
-- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
 - [Axel Honneth](https://en.wikipedia.org/wiki/Axel_Honneth)
-- [Cultural evolution](https://en.wikipedia.org/wiki/Cultural_evolution)
-- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
 - [Damon Centola](https://www.damoncentola.com)
 - [Daniel Lieberman](https://en.wikipedia.org/wiki/Daniel_Lieberman)
 - [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
 - [E. O. Wilson](https://en.wikipedia.org/wiki/E._O._Wilson)
 - [Emmanuel Levinas](https://en.wikipedia.org/wiki/Emmanuel_Levinas)
 - [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)
-- [Elixir programming language](https://elixir-lang.org)
-- [Eternal return](https://en.wikipedia.org/wiki/Eternal_return)
 - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 - [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
-- [History of life](https://en.wikipedia.org/wiki/History_of_life)
-- [Hypermedia Systems](https://hypermedia.systems)
 - [Johan Huizinga](https://en.wikipedia.org/wiki/Johan_Huizinga)
 - [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
 - [John Stewart](https://www.evolutionarymanifesto.com)
 - [Laozi](https://en.wikipedia.org/wiki/Laozi)
-- [Lebensphilosophie](https://en.wikipedia.org/wiki/Lebensphilosophie)
-- [Line of flight](https://en.wikipedia.org/wiki/Line_of_flight)
-- [Ludics](https://en.wikipedia.org/wiki/Ludics)
 - [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 - [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
 - [Meg Wheatley](https://margaretwheatley.com)
 - [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann)
-- [Panta rhei](https://en.wikipedia.org/wiki/Panta_rhei_(doctrine))
-- [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
-- [Process philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
 - [Rosi Braidotti](https://rosibraidotti.com)
-- [Sapir keyboard layout](/logs/52#sapir-keyboard-layout)
 - [Seth Godin](https://seths.blog)
-- [Social philosophy](https://en.wikipedia.org/wiki/Social_philosophy)
-- [Sociocybernetics](https://sociocybernetics.org)
 - [Tamim Ansary](https://www.mirtamimansary.com)
 - [Yuval Noah Harari](https://www.ynharari.com)
 {: .inline}
 
-# Blood
+- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
+- [Cultural evolution](https://en.wikipedia.org/wiki/Cultural_evolution)
+- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
+- [Eternal return](https://en.wikipedia.org/wiki/Eternal_return)
+- [History of life](https://en.wikipedia.org/wiki/History_of_life)
+- [Lebensphilosophie](https://en.wikipedia.org/wiki/Lebensphilosophie)
+- [Line of flight](https://en.wikipedia.org/wiki/Line_of_flight)
+- [Ludics](https://en.wikipedia.org/wiki/Ludics)
+- [Panta rhei](https://en.wikipedia.org/wiki/Panta_rhei_(doctrine))
+- [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
+- [Process philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
+- [Social philosophy](https://en.wikipedia.org/wiki/Social_philosophy)
+{: .inline}
+
+- [Elixir programming language](https://elixir-lang.org)
+- [Hypermedia Systems](https://hypermedia.systems)
+- [Sapir keyboard layout](/logs/52#sapir-keyboard-layout)
+{: .inline}
+
+Here is the translation, written to match the prose register of the existing text:
+
+---
+
+# Childhood
+
+By disposition, I have always preferred to do things my own way. There exists a video from when I was four or five years old in which my mother, before she pulls my sleeve down, says to me: "Please put it down." She wanted me to repeat the phrase back to her — to play along, to perform the small gesture as if it were a game. The younger me replies, "Put it down." My mother, hoping for the polite form, tries again: "_Please_ put it down. "Put it down." I show no sign of understanding what is being asked. "_Please_ put it down." "Put it down." Finally she gives up and laughs, helpless and a little baffled.
+
+I have no memory of that moment. But watching the video later, I found myself thinking about a certain stubbornness in me—and about all the things I am willing to ignore in its service. Growing up, I always found a way to do whatever I had genuinely set my heart on, while feeling very little pull toward the things everyone else was busily working toward. It is possible that this disposition forms the ground beneath whatever I feel.
+
+The greatest influence has surely been my experiences within my family of origin, and there is no shortage of episodes to bear that out. Each deserves its own careful account, but before that—if I were to name the feelings those years have left me with—they would be these:
+
+- a fear of vicious cycles
+- a sense that the power to change what is happening does not lie within oneself
+
+These feelings grew from the observation that no one in my family of origin seemed to want or intend the bad things that kept befalling us. I still believe that harm is not made by wicked people with wicked intentions, but by unconscious habit and by ignorance. For now it is difficult to examine this through the lens of my own healing, but I expect that continued inquiry will yield something. One added difficulty is that I do not tend to remember my childhood well.
+
+In ordinary life, I encounter those same feelings when I come across something plainly self-contradictory—a thought or claim that does not hold together—and then meet the closed face of a mind intent on defending it regardless. That kind of mind makes itself known through conversation, and through watching how people act. My usual response seems to be resistance, negotiation, or withdrawal. I sometimes wonder whether the more mature response would simply be to accept things as they are.
+
+When I try to understand why narrative matters to me, the first answers that come are theoretical: the self is an accumulation of episodic memory; the mind lives on story. But in relation to these particular feelings—why does story matter? Is it because story is the means by which I can lay claim to thinking better than what I have witnessed? Because it might be the way to break the cycle, to gain some control, to recover a sense of authorship over one's own life? I believe these things are true, and yet they produce in me no particular sense of release.
+
+Another possibility occurs to me: that because my unconscious tends to forget, to cut away, to hold the world at arm's length, the way my conscious mind pushes back—the way it tries to stitch everything together—is through story.
+
+## Blood
 
 My grandfather was conscripted during the imperial period, meant to be used as little more than a piece of meat, and survived only because the transport ship carrying him ran aground. He stripped off his clothes in the sea, swam several kilometers back to land, stole clothes from a civilian house, and made his way back to the colony. Life, naturally, was harsh, and he was poor in body, heart and spirit. Even so, as was common at the time, he fathered many children, and all the labour of the household fell to the women. My grandmother died young.
 
@@ -88,7 +114,7 @@ I think it was when I was in high school that my paternal uncle sat me down in t
 
 I, on the other hand, knew perfectly well that without my eldest aunt, our family would have fallen to pieces long before then. She was my mother's emotional pillar, and she supported their marriage. When all our property had been destroyed by fire, she lent my father a large sum of money so he could get back on his feet. One day, for my maternal uncle's sixtieth birthday, my aunt chartered a cruise boat on the river and threw a party. That was my image of what a splendid family looked like. My younger uncle, by contrast, had worked my older cousin mercilessly without even paying him properly, until the relationship between them finally collapsed.
 
-# Wrath
+## Wrath
 
 What stands out most vividly in my memories of my family of origin is my father's violence after his mind began to give way, the person beneath it who, in ordinary life, wanted to be a good man, and the fracture between those two selves. From the 1990s, when I was growing up, until 2004, when my only sibling was born, being drunk was simply my father's everyday state. I used to run errands to the neighborhood shop and come back carrying two bottles of drink. The lane was all cement, lined with four-story red-brick flat buildings.
 
