@@ -263,10 +263,10 @@ li.task-list-item {
 
 @media not (prefers-contrast: more) {
   :not(a) {
-    :is(blockquote, del, q),
-    ::marker,
-    ::before,
-    ::after {
+    > :is(blockquote, del, q),
+    > ::marker,
+    > ::before,
+    > ::after {
       color: light-dark(grey, silver);
     }
   }
