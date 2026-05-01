@@ -1,125 +1,91 @@
+/*
+  Markdown processing layers
+
+  0. Layout
+  1. Markdown
+  2. GitHub-Flavoured Markdown
+  3. Kramdown
+  4. Custom
+
+*/
+
+:root {
+  --line: 1lh;
+  --text: 1cap;
+  --indent: 2em;
+  /* Works better than opacity. */
+  --dim: light-dark(grey, silver);
+}
+
 html {
+  /* Serif on Safari, sans on else. */
   font-family: ui-serif, system-ui;
   font-synthesis: none;
   line-height: 1.6;
   text-wrap: pretty;
   scroll-behavior: smooth;
-  counter-reset: h1 h2 h3 h4 h5 h6 figure;
-}
 
-body {
-  margin: auto;
-  padding-inline: 1rem;
-  max-inline-size: 32rem;
-}
+  body {
+    margin: auto;
+    padding-inline: 1rem;
+    max-inline-size: 32rem;
 
-footer {
-  margin-block: 20vh;
-  min-block-size: 60vh;
-  text-align: end;
-}
-
-:is(h1, h2, h3, h4, h5, h6) {
-  margin-block: 1lh 1cap;
-  text-align: center;
-  text-wrap: balance;
-
-  & + & {
-    margin-block-start: 1cap;
-  }
-
-  &::before {
-    display: block;
-    line-height: 1.8;
-    font-size: x-small;
-    font-weight: normal;
-    font-variant: all-small-caps oldstyle-nums;
-  }
-
-  &::after {
-    content: "#" attr(id);
-    display: block;
-    font:
-      normal xx-small/2 ui-monospace,
-      monospace;
-  }
-
-  &::before,
-  &::after {
-    text-transform: initial;
-    letter-spacing: initial;
+    footer {
+      margin-block: 20vh;
+      min-block-size: 60vh;
+      text-align: end;
+    }
   }
 }
 
-h1 {
-  line-height: 1;
-  font-size: xxx-large;
-  font-weight: 400;
-  letter-spacing: -0.03ch;
-  counter-increment: h1;
-  counter-reset: h2 h3 h4 h5 h6 figure;
+/*
+  1. Markdown
+*/
 
-  &::before {
-    content: counter(h1);
+a {
+  text-decoration: none;
+}
+
+:target {
+  outline-style: solid;
+}
+
+p {
+  margin-block: 1ex;
+  hanging-punctuation: first allow-end last;
+}
+
+blockquote,
+:not(li) > :is(ol, ul) {
+  margin-block: var(--text);
+}
+
+:is(blockquote, ol, ul) {
+  margin-inline: 0;
+  padding-inline-start: 2em;
+}
+
+::marker {
+  color: var(--dim);
+}
+
+/* If `q` replaces quotes. */
+:is(blockquote, q) {
+  font-style: italic;
+
+  em {
+    font-style: normal;
   }
 }
 
-h2 {
-  line-height: 1.2;
-  font-size: xx-large;
-  font-weight: 500;
-  letter-spacing: -0.02ch;
-  counter-increment: h2;
-  counter-reset: h3 h4 h5 h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2);
-  }
+pre {
+  margin-block: 1lh;
+  text-wrap-mode: wrap;
 }
 
-h3 {
-  line-height: 1.4;
-  font-size: x-large;
-  font-weight: 600;
-  letter-spacing: -0.01ch;
-  counter-increment: h3;
-  counter-reset: h4 h5 h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2) "." counter(h3);
-  }
-}
-
-h4 {
-  font-size: large;
-  counter-increment: h4;
-  counter-reset: h5 h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4);
-  }
-}
-
-h5 {
-  font-size: medium;
-  counter-increment: h5;
-  counter-reset: h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
-      counter(h5);
-  }
-}
-
-h6 {
-  font-size: small;
-  text-transform: uppercase;
-  counter-increment: h6;
-
-  &::before {
-    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
-      counter(h5) "." counter(h6);
-  }
+:is(code, pre) {
+  font-family: ui-monospace, monospace;
+  font-size-adjust: 0.5;
 }
 
 hr {
@@ -132,85 +98,128 @@ hr {
   }
 }
 
-a {
-  text-decoration: none;
-}
-
-:target {
-  outline: solid;
-}
-
-p {
-  margin-block: 1ex;
-  hanging-punctuation: first allow-end last;
-}
-
 img {
   max-inline-size: 100%;
 }
 
-figure {
-  margin: 1rem auto;
+:is(h1, h2, h3, h4, h5, h6) {
+  margin-block: var(--line) var(--text);
   text-align: center;
-  counter-increment: figure;
-}
+  text-wrap: balance;
 
-figcaption {
-  font-style: italic;
-
-  &::before {
-    font-variant-numeric: oldstyle-nums;
-    content: "f" counter(h1) "." counter(figure) " ";
+  & + & {
+    margin-block-start: var(--text);
   }
 }
 
-:not(li) > :is(ol, ul),
-:is(blockquote, dl) {
-  margin-block: 1cap;
+h1 {
+  line-height: 1;
+  font-size: xxx-large;
+  font-weight: 400;
+  letter-spacing: -0.03ch;
 }
 
-:is(ol, ul, blockquote, dd) {
-  margin-inline: 0;
-  padding-inline-start: 2em;
+h2 {
+  line-height: 1.2;
+  font-size: xx-large;
+  font-weight: 500;
+  letter-spacing: -0.02ch;
 }
 
-dt {
-  font-style: italic;
+h3 {
+  line-height: 1.4;
+  font-size: x-large;
+  font-weight: 600;
+  letter-spacing: -0.01ch;
 }
 
-del:hover {
-  text-decoration-line: underline;
-  text-decoration-skip-ink: auto;
+h4 {
+  font-size: large;
 }
 
-[title]:active::after {
-  content: " " attr(title);
-  font: caption;
+h5 {
+  font-size: medium;
 }
 
-sup {
-  font-family: system-ui;
-  vertical-align: baseline;
-  font-variant-position: super;
+h6 {
+  font-size: small;
+  text-transform: uppercase;
+}
+
+/*
+  2. GitHub-Flovoured Markdown
+*/
+
+del {
+  color: var(--dim);
+  text-decoration-color: currentcolor;
+
+  &:hover {
+    color: currentcolor;
+    text-decoration-color: var(--dim);
+    text-decoration-line: underline;
+    text-decoration-skip-ink: auto;
+  }
 }
 
 table {
-  margin: 1rem auto;
+  margin: var(--text) auto;
   border-spacing: 1em 0;
 }
+
+.task-list-item {
+  list-style: "☐ ";
+
+  &:has([checked]) {
+    list-style: "☒ ";
+  }
+
+  .task-list-item-checkbox {
+    display: none;
+  }
+}
+
+/*
+  3. Kramdown
+*/
 
 tfoot {
   font-style: italic;
 }
 
-:is(code, pre) {
-  font-family: ui-monospace, monospace;
-  font-size-adjust: 0.5;
+dl {
+  margin-block: var(--text);
+
+  dt {
+    font-style: italic;
+  }
+
+  dd {
+    margin-inline: 0;
+    padding-inline-start: 2em;
+  }
 }
 
-pre {
-  margin-block: 1lh;
-  text-wrap-mode: wrap;
+/* *[abbr]: title */
+abbr[title]:active::after {
+  content: " " attr(title);
+  font: caption;
+}
+
+/* ![](){:standalone} */
+figure {
+  margin: 1rem auto;
+
+  figcaption {
+    font-style: italic;
+  }
+}
+
+/* [^footnote] */
+sup {
+  font-family: system-ui;
+  vertical-align: baseline;
+  font-variant-position: super;
 }
 
 .footnotes {
@@ -222,56 +231,18 @@ pre {
   }
 }
 
-li.task-list-item {
-  list-style: "☐ ";
-
-  &:has([checked]) {
-    list-style: "☒ ";
-  }
-
-  input.task-list-item-checkbox {
-    display: none;
-  }
+:is(h1, h2, h3, h4, h5, h6)::after {
+  content: "#" attr(id);
+  display: block;
+  color: var(--dim);
+  font:
+    normal xx-small/2 ui-monospace,
+    monospace;
+  text-transform: initial;
+  letter-spacing: initial;
 }
 
-:is(ol, ul).inline {
-  padding: 0;
-
-  * {
-    display: contents;
-  }
-
-  li::before {
-    content: "· ";
-    font-weight: normal;
-  }
-
-  > li:first-child::before {
-    content: none;
-  }
-
-  font-weight: bold;
-
-  :is(ol, ul) {
-    font-weight: normal;
-
-    :is(ol, ul) {
-      font-variant: all-small-caps oldstyle-nums;
-    }
-  }
-}
-
-@media not (prefers-contrast: more) {
-  :not(a) {
-    > :is(blockquote, del, q),
-    > ::marker,
-    > ::before,
-    > ::after {
-      color: light-dark(grey, silver);
-    }
-  }
-}
-
+/* Rouge/Pygments */
 pre.highlight {
   /* keywords, command prompt, heading, strong emphasis */
   :is([class^="k"], .gp, .gh, .gs) {
@@ -300,6 +271,115 @@ pre.highlight {
 
   /* punctuations, operators, comments, deletion, traceback */
   :is([class^="p"], [class^="o"], [class^="c"], .gd, .gt) {
-    color: light-dark(grey, silver);
+    color: var(--dim);
+  }
+}
+
+/*
+  4. Custom
+*/
+
+:is(ol, ul).inline {
+  padding: 0;
+
+  * {
+    display: contents;
+  }
+
+  li::before {
+    content: "· ";
+    font-weight: normal;
+  }
+
+  > li:first-child::before {
+    content: none;
+  }
+
+  font-weight: bold;
+
+  :is(ol, ul) {
+    font-weight: normal;
+
+    :is(ol, ul) {
+      font-variant: all-small-caps oldstyle-nums;
+    }
+  }
+}
+
+:is(h1, h2, h3, h4, h5, h6)::before {
+  display: block;
+  color: var(--dim);
+  line-height: 1.8;
+  font-size: x-small;
+  font-weight: normal;
+  /* Small caps for sans, oldstyle for serif */
+  font-variant: all-small-caps oldstyle-nums;
+  text-transform: initial;
+  letter-spacing: initial;
+}
+
+/* TODO: Merge all to ::before? */
+h1 {
+  counter-increment: h1;
+  counter-reset: h2 h3 h4 h5 h6 figure;
+
+  &::before {
+    content: counter(h1);
+  }
+}
+
+h2 {
+  counter-increment: h2;
+  counter-reset: h3 h4 h5 h6;
+
+  &::before {
+    content: counter(h1) "." counter(h2);
+  }
+}
+
+h3 {
+  counter-increment: h3;
+  counter-reset: h4 h5 h6;
+
+  &::before {
+    content: counter(h1) "." counter(h2) "." counter(h3);
+  }
+}
+
+h4 {
+  counter-increment: h4;
+  counter-reset: h5 h6;
+
+  &::before {
+    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4);
+  }
+}
+
+h5 {
+  counter-increment: h5;
+  counter-reset: h6;
+
+  &::before {
+    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
+      counter(h5);
+  }
+}
+
+h6 {
+  counter-increment: h6;
+
+  &::before {
+    content: counter(h1) "." counter(h2) "." counter(h3) "." counter(h4) "."
+      counter(h5) "." counter(h6);
+  }
+}
+
+figure {
+  counter-increment: figure;
+
+  figcaption::before {
+    content: "f" counter(h1) "." counter(figure) " ";
+    color: var(--dim);
+    font-variant-numeric: oldstyle-nums;
   }
 }
