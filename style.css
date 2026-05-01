@@ -13,8 +13,6 @@
   --line: 1lh;
   --text: 1cap;
   --indent: 2em;
-  /* Works better than opacity. */
-  --dim: light-dark(grey, silver);
 }
 
 html {
@@ -38,16 +36,24 @@ html {
   }
 }
 
+:target {
+  outline-style: solid;
+}
+
+@media not (prefers-contrast: more) {
+  ::marker,
+  ::before,
+  ::after {
+    color: light-dark(grey, silver);
+  }
+}
+
 /*
   1. Markdown
 */
 
 a {
   text-decoration: none;
-}
-
-:target {
-  outline-style: solid;
 }
 
 p {
@@ -63,10 +69,6 @@ blockquote,
 :is(blockquote, ol, ul) {
   margin-inline: 0;
   padding-inline-start: 2em;
-}
-
-::marker {
-  color: var(--dim);
 }
 
 /* If `q` replaces quotes. */
@@ -151,12 +153,9 @@ h6 {
 */
 
 del {
-  color: var(--dim);
-  text-decoration-color: currentcolor;
+  color: light-dark(grey, silver);
 
   &:hover {
-    color: currentcolor;
-    text-decoration-color: var(--dim);
     text-decoration-line: underline;
     text-decoration-skip-ink: auto;
   }
@@ -209,6 +208,7 @@ abbr[title]:active::after {
 /* ![](){:standalone} */
 figure {
   margin: 1rem auto;
+  text-align: center;
 
   figcaption {
     font-style: italic;
@@ -234,7 +234,6 @@ sup {
 :is(h1, h2, h3, h4, h5, h6)::after {
   content: "#" attr(id);
   display: block;
-  color: var(--dim);
   font:
     normal xx-small/2 ui-monospace,
     monospace;
@@ -271,7 +270,7 @@ pre.highlight {
 
   /* punctuations, operators, comments, deletion, traceback */
   :is([class^="p"], [class^="o"], [class^="c"], .gd, .gt) {
-    color: var(--dim);
+    color: light-dark(grey, silver);
   }
 }
 
@@ -308,7 +307,6 @@ pre.highlight {
 
 :is(h1, h2, h3, h4, h5, h6)::before {
   display: block;
-  color: var(--dim);
   line-height: 1.8;
   font-size: x-small;
   font-weight: normal;
@@ -379,7 +377,6 @@ figure {
 
   figcaption::before {
     content: "f" counter(h1) "." counter(figure) " ";
-    color: var(--dim);
     font-variant-numeric: oldstyle-nums;
   }
 }
