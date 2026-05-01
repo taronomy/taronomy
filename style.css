@@ -56,14 +56,10 @@ a {
   text-decoration: none;
 }
 
-p {
-  margin-block: var(--text);
-  hanging-punctuation: first allow-end last;
-}
-
-blockquote,
+:is(p, blockquote),
 :not(li) > :is(ol, ul) {
   margin-block: var(--text);
+  hanging-punctuation: first allow-end last;
 }
 
 :is(blockquote, ol, ul) {
