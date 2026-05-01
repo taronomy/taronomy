@@ -57,7 +57,7 @@ a {
 }
 
 p {
-  margin-block: var(--line);
+  margin-block: var(--text);
   hanging-punctuation: first allow-end last;
 }
 
