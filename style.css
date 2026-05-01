@@ -57,7 +57,7 @@ a {
 }
 
 p {
-  margin-block: 1ex;
+  margin-block: var(--line);
   hanging-punctuation: first allow-end last;
 }
 
@@ -81,7 +81,7 @@ blockquote,
 }
 
 pre {
-  margin-block: 1lh;
+  margin-block: var(--line);
   text-wrap-mode: wrap;
 }
 
@@ -91,7 +91,7 @@ pre {
 }
 
 hr {
-  margin-block: 1lh;
+  margin-block: var(--line);
   border: none;
   text-align: center;
 
@@ -153,7 +153,7 @@ h6 {
 */
 
 del {
-  color: light-dark(grey, silver);
+  text-decoration-color: light-dark(grey, silver);
 
   &:hover {
     text-decoration-line: underline;
@@ -224,7 +224,6 @@ sup {
 
 .footnotes {
   margin-block: 20vh;
-  min-block-size: 60vh;
 
   &::before {
     content: "Notes";
