@@ -71,8 +71,12 @@ a {
 :is(blockquote, q) {
   font-style: italic;
 
-  em {
+  :is(em, blockquote, q) {
     font-style: normal;
+
+    & & {
+      font-style: revert;
+    }
   }
 }
 
