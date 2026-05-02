@@ -9,12 +9,6 @@
 
 */
 
-:root {
-  --line: 1lh;
-  --text: 1cap;
-  --indent: 2em;
-}
-
 html {
   /* Serif on Safari, sans on else. */
   font-family: ui-serif, system-ui;
@@ -56,9 +50,7 @@ a {
   text-decoration: none;
 }
 
-:is(p, blockquote),
-:not(li) > :is(ol, ul) {
-  margin-block: var(--text);
+p {
   hanging-punctuation: first allow-end last;
 }
 
@@ -81,7 +73,7 @@ q {
 }
 
 pre {
-  margin-block: var(--line);
+  margin-block: 1lh;
   text-wrap-mode: wrap;
 }
 
@@ -90,27 +82,13 @@ pre {
   font-size-adjust: 0.5;
 }
 
-hr {
-  margin-block: var(--line);
-  border: none;
-  text-align: center;
-
-  &::after {
-    content: "— § —";
-  }
-}
-
-img {
-  max-inline-size: 100%;
-}
-
 :is(h1, h2, h3, h4, h5, h6) {
-  margin-block: var(--line) var(--text);
+  margin-block: 1lh 1em;
   text-align: center;
   text-wrap: balance;
 
   & + & {
-    margin-block-start: var(--text);
+    margin-block-start: 1em;
   }
 }
 
@@ -148,17 +126,31 @@ h6 {
   text-transform: uppercase;
 }
 
+hr {
+  margin-block: 1lh;
+  border: none;
+  text-align: center;
+
+  &::after {
+    content: "— § —";
+  }
+}
+
+img {
+  max-inline-size: 100%;
+}
+
 /*
   2. GitHub-Flovoured Markdown
 */
 
-del:hover {
+del:active {
   text-decoration-line: underline;
   text-decoration-skip-ink: auto;
 }
 
 table {
-  margin: var(--text) auto;
+  margin: 1em auto;
   border-spacing: 1em 0;
 }
 
@@ -183,7 +175,7 @@ tfoot {
 }
 
 dl {
-  margin-block: var(--text);
+  margin-block: 1em;
 
   dt {
     font-weight: bold;
@@ -219,7 +211,7 @@ sup {
 }
 
 .footnotes {
-  margin-block: 20vh;
+  margin-block: 1lh;
 
   &::before {
     content: "Notes";
