@@ -67,13 +67,17 @@ a {
   padding-inline-start: 2em;
 }
 
-/* If `q` replaces quotes. */
+/* `q` is added for double quotes. */
 :is(blockquote, q) {
   font-style: italic;
 
   em {
     font-style: normal;
   }
+}
+
+q {
+  quotes: none;
 }
 
 pre {
