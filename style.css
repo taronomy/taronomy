@@ -148,13 +148,9 @@ h6 {
   2. GitHub-Flovoured Markdown
 */
 
-del {
-  text-decoration-color: light-dark(grey, silver);
-
-  &:hover {
-    text-decoration-line: underline;
-    text-decoration-skip-ink: auto;
-  }
+del:hover {
+  text-decoration-line: underline;
+  text-decoration-skip-ink: auto;
 }
 
 table {
@@ -162,14 +158,14 @@ table {
   border-spacing: 1em 0;
 }
 
-.task-list-item {
+li.task-list-item {
   list-style: "☐ ";
 
   &:has([checked]) {
     list-style: "☒ ";
   }
 
-  .task-list-item-checkbox {
+  input.task-list-item-checkbox {
     display: none;
   }
 }
@@ -186,7 +182,7 @@ dl {
   margin-block: var(--text);
 
   dt {
-    font-style: italic;
+    font-weight: bold;
   }
 
   dd {
@@ -201,7 +197,7 @@ abbr[title]:active::after {
   font: caption;
 }
 
-/* ![](){:standalone} */
+/* ![caption](image){:standalone} */
 figure {
   margin: 1rem auto;
   text-align: center;
