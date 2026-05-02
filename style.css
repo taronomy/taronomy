@@ -67,16 +67,12 @@ a {
   padding-inline-start: 2em;
 }
 
-/* `q` is added for double quotes. */
+/* `q` wraps double quotes. */
 :is(blockquote, q) {
   font-style: italic;
 
   :is(em, blockquote, q) {
     font-style: normal;
-
-    & & {
-      font-style: revert;
-    }
   }
 }
 
