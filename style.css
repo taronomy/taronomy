@@ -71,7 +71,7 @@ a {
 :is(blockquote, q) {
   font-style: italic;
 
-  :is(em, blockquote, q) {
+  em {
     font-style: normal;
   }
 }
