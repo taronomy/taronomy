@@ -1,5 +1,5 @@
 Taro
-: Life fascinates me. I believe we are obliged to shape society as living systems. I am working on ludic social systems that reframes society into a series of plays. I fear ignorance.
+: Life fascinates me. I believe we are obliged to shape society as living systems. I am working on ludic social systems that reframe society into a series of plays. I fear ignorance.
 
 | TCI                | Percentile        |
 | ------------------ | ----------------- |
