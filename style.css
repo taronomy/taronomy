@@ -51,18 +51,27 @@ p {
   hanging-punctuation: first allow-end last;
 }
 
-:is(blockquote, ol, ul) {
-  margin-inline: 0;
-  padding-inline-start: 2em;
+em {
+  font-style: inherit;
+  font-weight: 600;
+
+  strong {
+    font-weight: 1000;
+  }
+}
+
+strong {
+  font-weight: 800;
 }
 
 /* "" -> <q>“”</q> */
 :is(blockquote, q) {
   font-style: italic;
+}
 
-  em {
-    font-style: normal;
-  }
+:is(blockquote, ol, ul) {
+  margin-inline: 0;
+  padding-inline-start: 2em;
 }
 
 q {
