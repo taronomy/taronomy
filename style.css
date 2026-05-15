@@ -48,8 +48,8 @@ a {
 }
 
 p {
-  hanging-punctuation: first allow-end last;
   margin-block: 1cap;
+  hanging-punctuation: first allow-end last;
 }
 
 em {
