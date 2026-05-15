@@ -49,6 +49,7 @@ a {
 
 p {
   hanging-punctuation: first allow-end last;
+  margin-block: 1cap;
 }
 
 em {
