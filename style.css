@@ -48,7 +48,7 @@ a {
 }
 
 p {
-  margin-block: 1cap;
+  margin-block: 1ex;
   hanging-punctuation: first allow-end last;
 }
 
@@ -90,7 +90,7 @@ pre {
 }
 
 :is(h1, h2, h3, h4, h5, h6) {
-  margin-block: 1lh 1em;
+  margin-block: 1lh 1ex;
   text-align: center;
   text-wrap: balance;
 
