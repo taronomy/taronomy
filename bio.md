@@ -60,7 +60,7 @@ Taro
 
 # Childhood
 
-By disposition, I have always preferred to do things my own way. There exists a video from when I was four or five years old in which my mother, before she pulls my sleeve down, says to me: "Please pull it down." She wanted me to repeat the phrase back to her — to play along, to perform the small gesture as if it were a game. The younger me replies, "Pull it down." My mother, hoping for the polite form, tries again: "_Please_ pull it down." "Pull it down." I show no sign of understanding what is being asked. "_Please_ pull it down." "Pull it down." Finally she gives up and laughs, helpless and a little baffled.
+By disposition, I have always preferred to do things my own way. There exists a video from when I was four or five years old in which my mother, before she pulls my sleeve down, says to me: "Please pull it down." She wanted me to repeat the phrase back to her — to play along, to perform the small gesture as if it were a game. The younger me replies, "Pull it down." My mother, hoping for the polite form, tries again: "*Please* pull it down." "Pull it down." I show no sign of understanding what is being asked. "*Please* pull it down." "Pull it down." Finally she gives up and laughs, helpless and a little baffled.
 
 I have no memory of that moment. But watching the video later, I found myself thinking about a certain stubbornness in me—and about all the things I am willing to ignore in its service. Growing up, I always found a way to do whatever I had genuinely set my heart on, while feeling very little pull toward the things everyone else was busily working toward. It is possible that this disposition forms the ground beneath whatever I feel.
 
@@ -123,7 +123,7 @@ My father had grown up by the sea and loved seafood. The sashimi restaurant he l
 
 In the house where we used to live, the kitchen counter was made of plywood. I remember that because once I saw where a knife my father had brandished had bitten deep through the waterproof sheeting and exposed splinters of wood beneath. When I picked at the wood with my finger, my father, sober now, said, "Things like this are shameful. They ought to be covered." and laid a dishcloth over the wound.
 
-_I was terrified._
+*I was terrified.*
 
 Bad things can happen in any life. But when the person who holds the most power decides to hide what happened, to forget it, that means it will happen again forever. I thought it would be more fitting to preserve such a wound and put it on display.
 
