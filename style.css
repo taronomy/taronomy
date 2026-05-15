@@ -53,15 +53,15 @@ p {
 
 em {
   font-style: inherit;
-  font-weight: 600;
+  font-weight: 500;
 
   strong {
-    font-weight: 1000;
+    font-weight: 700;
   }
 }
 
 strong {
-  font-weight: 800;
+  font-weight: 600;
 }
 
 /* "" -> <q>“”</q> */
