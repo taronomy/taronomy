@@ -53,6 +53,7 @@ Taro
 {: .inline}
 
 - [Elixir programming language](https://elixir-lang.org)
+- [Armstrong, Joe. 2003.](https://erlang.org/download/armstrong_thesis_2003.pdf)
 - [Hypermedia Systems](https://hypermedia.systems)
 - [Refactoring UI](https://refactoringui.com)
 - [Sapir keyboard layout](/logs/52#sapir-keyboard-layout)
