@@ -31,6 +31,7 @@ html {
   outline-style: solid;
 }
 
+/* Pseudo-elements are greyed out because not interactive. */
 @media not (prefers-contrast: more) {
   ::marker,
   ::before,
@@ -52,7 +53,7 @@ p {
   hanging-punctuation: first allow-end last;
 }
 
-/* "" -> <q>“”</q> */
+/* "" -> <q>“”</q>, technically not Markdown. */
 :is(blockquote, q) {
   font-style: italic;
 
@@ -173,6 +174,10 @@ li.task-list-item {
   3. Kramdown
 */
 
+/*
+  definition
+  : description
+*/
 dl {
   margin-block: 1em;
 
@@ -217,17 +222,22 @@ sup {
   }
 }
 
+/* IDs are either generated or customised. */
 :is(h1, h2, h3, h4, h5, h6)::after {
   content: "#" attr(id);
   display: block;
   font:
     normal xx-small/2 ui-monospace,
     monospace;
+  /* Undoes heading styles. */
   text-transform: initial;
   letter-spacing: initial;
 }
 
-/* Rouge/Pygments */
+/*
+  Rouge/Pygments highlighting inspired by macOS Classic.
+  Light theme from basic web colours, dark theme from extended.
+*/
 pre.highlight {
   /* keywords, command prompt, heading, strong emphasis */
   :is([class^="k"], .gp, .gh, .gs) {
@@ -264,6 +274,7 @@ pre.highlight {
   4. Custom
 */
 
+/* Inline lists */
 :is(ol, ul).inline {
   padding: 0;
 
@@ -291,6 +302,7 @@ pre.highlight {
   }
 }
 
+/* Heading counters */
 :is(h1, h2, h3, h4, h5, h6)::before {
   display: block;
   line-height: 1.8;
@@ -298,6 +310,7 @@ pre.highlight {
   font-weight: normal;
   /* Small caps for sans, oldstyle for serif */
   font-variant: all-small-caps oldstyle-nums;
+  /* Undo heading styles */
   text-transform: initial;
   letter-spacing: initial;
 }
