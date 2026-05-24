@@ -53,13 +53,14 @@ p {
   hanging-punctuation: first allow-end last;
 }
 
+em {
+  font-style: inherit;
+  font-variant-caps: small-caps;
+}
+
 /* "" -> <q>“”</q>, technically not Markdown. */
 :is(blockquote, q) {
   font-style: italic;
-
-  em {
-    font-style: normal;
-  }
 }
 
 :is(blockquote, ol, ul) {
@@ -67,6 +68,7 @@ p {
   padding-inline-start: 2em;
 }
 
+/* The user cannot copy CSS quotes. */
 q {
   quotes: none;
 }
@@ -309,7 +311,7 @@ pre.highlight {
   font-size: x-small;
   font-weight: normal;
   /* Small caps for sans, oldstyle for serif */
-  font-variant: all-small-caps oldstyle-nums;
+  font-variant: small-caps oldstyle-nums;
   /* Undo heading styles */
   text-transform: initial;
   letter-spacing: initial;
@@ -375,6 +377,7 @@ figure {
 
   figcaption::before {
     content: "f" counter(h1) "." counter(figure) " ";
+    /* small-caps doesn't work here. */
     font-variant-numeric: oldstyle-nums;
   }
 }
