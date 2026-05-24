@@ -53,6 +53,7 @@ p {
   hanging-punctuation: first allow-end last;
 }
 
+/* Small capitals have historical precedence.  */
 em {
   font-style: inherit;
   font-variant-caps: small-caps;
