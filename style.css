@@ -53,7 +53,6 @@ p {
   hanging-punctuation: first allow-end last;
 }
 
-/* Small capitals have historical precedence.  */
 em {
   font-style: inherit;
   font-variant-caps: small-caps;
@@ -62,16 +61,12 @@ em {
 /* "" -> <q>“”</q>, technically not Markdown. */
 :is(blockquote, q) {
   font-style: italic;
+  quotes: none;
 }
 
 :is(blockquote, ol, ul) {
   margin-inline: 0;
   padding-inline-start: 2em;
-}
-
-/* The user cannot copy CSS quotes. */
-q {
-  quotes: none;
 }
 
 pre {
@@ -157,7 +152,7 @@ table {
 
   /* Technically a Kramdown feature, not GFM. */
   tfoot {
-    font-style: italic;
+    font-variant-caps: small-caps;
   }
 }
 
