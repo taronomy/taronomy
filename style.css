@@ -7,7 +7,10 @@
 */
 
 html {
-  /* Serif on Safari, sans on else. */
+  /*
+    Safari prints `ui-serif`.
+    Others fall back to sans-serif for `system-ui`.
+  */
   font-family: ui-serif, system-ui;
   font-synthesis: none;
   line-height: 1.6;
@@ -53,7 +56,10 @@ p {
   hanging-punctuation: first allow-end last;
 }
 
-/* Yields italic for quotes. Doesn't work on oblique sans. */
+/*
+  Emphasises in small capitals and lets italics go for quotes.
+  Currently ignored on oblique sans-serif.
+*/
 em {
   font-style: inherit;
   font-variant-caps: small-caps;
@@ -307,7 +313,7 @@ pre.highlight {
   line-height: 1.8;
   font-size: x-small;
   font-weight: normal;
-  /* Small caps for sans, oldstyle for serif */
+  /* Small caps for sans-serif, oldstyle for serif */
   font-variant: small-caps oldstyle-nums;
   /* Undo heading styles */
   text-transform: initial;
