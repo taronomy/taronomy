@@ -53,6 +53,7 @@ p {
   hanging-punctuation: first allow-end last;
 }
 
+/* Yields italic for quotes. Doesn't work on oblique sans. */
 em {
   font-style: inherit;
   font-variant-caps: small-caps;
