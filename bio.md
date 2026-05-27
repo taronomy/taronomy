@@ -1,5 +1,5 @@
 Taro
-: Life fascinates me. I believe we are obliged to shape society as living systems. I am working on ludic social systems that reframe society into a series of plays. I fear ignorance.
+: Life fascinates me. I believe we can organise ourselves into living systems. I am working on ludic social systems that reframe society as plays. I fear the cycle of ignorance.
 
 | TCI                | Percentile        |
 | ------------------ | ----------------- |
@@ -28,7 +28,6 @@ Taro
 - [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
 - [John Stewart](https://www.evolutionarymanifesto.com)
 - [Laozi](https://en.wikipedia.org/wiki/Laozi)
-- [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 - [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
 - [Meg Wheatley](https://margaretwheatley.com)
 - [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann)
