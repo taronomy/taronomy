@@ -30,10 +30,6 @@ html {
   }
 }
 
-:target {
-  outline-style: solid;
-}
-
 /* Pseudo-elements are greyed out because not interactive. */
 @media not (prefers-contrast: more) {
   ::marker,
@@ -41,6 +37,10 @@ html {
   ::after {
     color: light-dark(grey, silver);
   }
+}
+
+:target {
+  outline: double light-dark(grey, silver);
 }
 
 /*
