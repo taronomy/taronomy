@@ -196,7 +196,11 @@ dl {
   }
 }
 
-/* *[abbr]: title */
+/*
+  *[abbr]: title
+  Briefly shows the title while clicked.
+  On mobile, works when selected but inconsistent.
+*/
 abbr[title]:active::after {
   content: " " attr(title);
   font: caption;
