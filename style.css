@@ -314,7 +314,7 @@ pre.highlight {
   font-size: x-small;
   font-weight: normal;
   /* Small caps for sans-serif, oldstyle for serif */
-  font-variant: small-caps oldstyle-nums;
+  font-variant: all-small-caps oldstyle-nums;
   /* Undo heading styles */
   text-transform: initial;
   letter-spacing: initial;
