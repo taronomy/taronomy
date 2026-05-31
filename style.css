@@ -83,6 +83,10 @@ pre {
 
 :is(code, pre) {
   font-family: ui-monospace, monospace;
+  /*
+    Forces x-height to the half of surrounding line-height.
+    Slightly taller than Safari serif, shorter than Chrome sans-serif.
+  */
   font-size-adjust: 0.5;
 }
 
