@@ -273,7 +273,7 @@ pre.highlight {
 
   /* strings, insertion, console output */
   :is([class^="s"], .gi, .go) {
-    color: light-dark(green, limegreen);
+    color: light-dark(green, chartreuse);
   }
 
   /* error, double emphases, invalid syntax */
