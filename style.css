@@ -191,7 +191,7 @@ dl {
   margin-block: 1em;
 
   dt {
-    font-weight: bold;
+    font-variant-caps: small-caps;
   }
 
   dd {
@@ -216,7 +216,7 @@ figure {
   text-align: center;
 
   figcaption {
-    font-style: italic;
+    font-variant-caps: small-caps;
   }
 }
 
@@ -387,8 +387,7 @@ figure {
   counter-increment: figure;
 
   figcaption::before {
-    content: "f" counter(h1) "." counter(figure) " ";
-    /* small-caps doesn't work here. */
-    font-variant-numeric: oldstyle-nums;
+    content: "ƒ" counter(h1) "." counter(figure) " ";
+    font-variant: all-small-caps oldstyle-nums;
   }
 }
