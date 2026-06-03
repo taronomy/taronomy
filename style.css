@@ -41,10 +41,6 @@ html {
 
 :target {
   outline: double light-dark(grey, silver);
-  position: sticky;
-  inset: 0;
-  /* Prevents early scroll target evaluation. */
-  transition: inset 1s allow-discrete;
 }
 
 /*
