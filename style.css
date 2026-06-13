@@ -20,6 +20,7 @@ html {
   body {
     margin: auto;
     padding-inline: 1rem;
+    /* More reliable for about 64 characters then 64ch. */
     max-inline-size: 32rem;
 
     footer {
