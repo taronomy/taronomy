@@ -295,21 +295,17 @@ pre.highlight {
 /* Inline lists */
 :is(ol, ul).inline {
   padding: 0;
+  font-weight: bold;
 
-  * {
-    display: contents;
+  :is(ol, ul, li) {
+    display: inline;
+    padding: 0;
   }
 
-  li::before {
+  li:not(& > li:first-child)::before {
     content: "· ";
     font-weight: normal;
   }
-
-  > li:first-child::before {
-    content: none;
-  }
-
-  font-weight: bold;
 
   :is(ol, ul) {
     font-weight: normal;
