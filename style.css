@@ -292,30 +292,6 @@ pre.highlight {
   4. Custom
 */
 
-/* Inline lists */
-:is(ol, ul).inline {
-  padding: 0;
-  font-weight: bold;
-
-  :is(ol, ul, li) {
-    display: inline;
-    padding: 0;
-  }
-
-  li:not(& > li:first-child)::before {
-    content: "· ";
-    font-weight: normal;
-  }
-
-  :is(ol, ul) {
-    font-weight: normal;
-
-    :is(ol, ul) {
-      font-variant: all-small-caps oldstyle-nums;
-    }
-  }
-}
-
 /* Heading counters */
 :is(h1, h2, h3, h4, h5, h6)::before {
   display: block;
@@ -390,5 +366,36 @@ figure {
   figcaption::before {
     content: "ƒ" counter(h1) "." counter(figure) " ";
     font-variant: all-small-caps oldstyle-nums;
+  }
+}
+
+/* Inline lists */
+:is(ol, ul).inline {
+  &,
+  :is(ol, ul) {
+    padding: 0;
+  }
+
+  :is(ol, ul, li) {
+    display: inline;
+  }
+
+  li::before {
+    content: "· ";
+    font-weight: normal;
+  }
+
+  > li:first-child::before {
+    content: none;
+  }
+
+  font-weight: bold;
+
+  :is(ol, ul) {
+    font-weight: normal;
+
+    :is(ol, ul) {
+      font-variant: all-small-caps oldstyle-nums;
+    }
   }
 }
