@@ -16,6 +16,8 @@ html {
   line-height: 1.6;
   text-wrap-style: pretty;
   scroll-behavior: smooth;
+  /* Kills `&nbsp;` in footnotes.  */
+  overflow-wrap: break-word;
 
   body {
     margin: auto;
