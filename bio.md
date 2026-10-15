@@ -1,5 +1,5 @@
 Taro
-: Life fascinates me. I believe we can organise ourselves into living systems. I am working on ludic social systems that reframe society as plays. I fear the cycle of ignorance.
+: Each of us have the power to organise ourselves into living systems. And I'm allergic to broken systems. That's why I am working on ludic social systems where you play who you want to be.
 
 | TCI                | Percentile        |
 | ------------------ | ----------------- |
