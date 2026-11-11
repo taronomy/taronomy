@@ -1,5 +1,5 @@
 Taro
-: Allergic to broken systems. I believe each one of us have power to organise into living systems. That's why I am working on ludic social systems where you play who you want to be.
+: Allergic to broken systems. I believe each one of us have power to organise living systems. I am working on ludic social systems where you play the character you choose to be.
 
 | TCI                | Percentile        |
 | ------------------ | ----------------- |
