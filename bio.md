@@ -1,6 +1,29 @@
 Taro
 : Allergic to broken systems. I believe each one of us have power to organise living systems. I am working on ludic social systems where you play the character you choose to be.
 
+- [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
+- [Axel Honneth](https://en.wikipedia.org/wiki/Axel_Honneth)
+- [Damon Centola](https://en.wikipedia.org/wiki/Damon_Centola)
+- [Daniel Lieberman](https://en.wikipedia.org/wiki/Daniel_Lieberman)
+- [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
+- [E. O. Wilson](https://en.wikipedia.org/wiki/E._O._Wilson)
+- [Emmanuel Levinas](https://en.wikipedia.org/wiki/Emmanuel_Levinas)
+- [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)
+- [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
+- [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
+- [Johan Huizinga](https://en.wikipedia.org/wiki/Johan_Huizinga)
+- [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
+- [Laozi](https://en.wikipedia.org/wiki/Laozi)
+- [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
+- [Meg Wheatley](https://en.wikipedia.org/wiki/Meg_Wheatley)
+- [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann)
+- [Seth Godin](https://en.wikipedia.org/wiki/Seth_Godin)
+- [Tamim Ansary](https://en.wikipedia.org/wiki/Tamim_Ansary)
+- [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)
+{: .inline}
+
+# Childhood
+
 | TCI                | Percentile        |
 | ------------------ | ----------------- |
 | Novelty seeking    | `.........:` 93rd |
@@ -13,51 +36,6 @@ Taro
 | Self-transcendence | `.........:` 96th |
 
 *[TCI]: Temperament and Character Inventory
-
-- [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
-- [Axel Honneth](https://en.wikipedia.org/wiki/Axel_Honneth)
-- [Damon Centola](https://www.damoncentola.com)
-- [Daniel Lieberman](https://en.wikipedia.org/wiki/Daniel_Lieberman)
-- [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
-- [E. O. Wilson](https://en.wikipedia.org/wiki/E._O._Wilson)
-- [Emmanuel Levinas](https://en.wikipedia.org/wiki/Emmanuel_Levinas)
-- [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)
-- [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
-- [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze)
-- [Johan Huizinga](https://en.wikipedia.org/wiki/Johan_Huizinga)
-- [John Dewey](https://en.wikipedia.org/wiki/John_Dewey)
-- [John Stewart](https://www.evolutionarymanifesto.com)
-- [Laozi](https://en.wikipedia.org/wiki/Laozi)
-- [Max Weber](https://en.wikipedia.org/wiki/Max_Weber)
-- [Meg Wheatley](https://margaretwheatley.com)
-- [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann)
-- [Rosi Braidotti](https://rosibraidotti.com)
-- [Seth Godin](https://seths.blog)
-- [Tamim Ansary](https://www.mirtamimansary.com)
-- [Yuval Noah Harari](https://www.ynharari.com)
-{: .inline}
-
-- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis)
-- [Cultural evolution](https://en.wikipedia.org/wiki/Cultural_evolution)
-- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
-- [Eternal return](https://en.wikipedia.org/wiki/Eternal_return)
-- [History of life](https://en.wikipedia.org/wiki/History_of_life)
-- [Lebensphilosophie](https://en.wikipedia.org/wiki/Lebensphilosophie)
-- [Line of flight](https://en.wikipedia.org/wiki/Line_of_flight)
-- [Ludics](https://en.wikipedia.org/wiki/Ludics)
-- [Panta rhei](https://en.wikipedia.org/wiki/Panta_rhei_(doctrine))
-- [Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)
-- [Process philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
-- [Social philosophy](https://en.wikipedia.org/wiki/Social_philosophy)
-{: .inline}
-
-- [Elixir programming language](https://elixir-lang.org)
-- [Hypermedia Systems](https://hypermedia.systems)
-- [Sapir keyboard layout](/logs/52#sapir-keyboard-layout)
-{: .inline}
-
-
-# Childhood
 
 By disposition, I have always preferred to do things my own way. There exists a video from when I was four or five years old in which my mother, before she pulls my sleeve down, says to me: "Please pull it down." She wanted me to repeat the phrase back to her—to play along, to perform the small gesture as if it were a game. The younger me replies, "Pull it down." My mother, hoping for the polite form, tries again: "*Please* pull it down." "Pull it down." I show no sign of understanding what is being asked. "*Please* pull it down." "Pull it down." Finally she gives up and laughs, helpless and a little baffled.
 
